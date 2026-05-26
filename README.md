@@ -1,10 +1,21 @@
 # Search/Glue/Ingestion · open PRs
 
-_Auto-generated 2026-05-26 21:52 UTC · covers 10 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
+_Auto-generated 2026-05-26 23:14 UTC · covers 10 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
 
 **[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts%20repo%3Amoodys-ma-mdc/mdc-data-etl-flaghub-glue%20repo%3Amoodys-ma-mdc/mdc-data-api-search-config%20repo%3Amoodys-ma-mdc/mdc-data-search-api%20repo%3Amoodys-ma-mdc/mcfl-astra-glue-etl%20repo%3Amoodys-ma-mdc/mdc-data-search-spark-solr-jobs%20repo%3Amoodys-ma-mdc/mdc-data-search-preprocessing&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
 
-**Stats:** 3 active today · 25 stale (>30d) · 8 dependabot · 10 drafts · **36 total**
+**Stats:** 4 active today · 25 stale (>30d) · 8 dependabot · 10 drafts · **36 total**
+
+<details><summary><b>mdc-search</b> · 4 PRs</summary>
+
+| PR | Title | Author | Age |
+|---|---|---|---|
+| [#518](https://github.com/moodys-ma-mdc/mdc-search/pull/518) | feat: [MDCPT-89808] New design updates for Search and Autocomplete | `MaxAgliunin` | **today** |
+| [#520](https://github.com/moodys-ma-mdc/mdc-search/pull/520) | test: [MDCPT-89196] add Cypress coverage for Orbis deconflicted type | `stefanmoodys` | **today** |
+| [#505](https://github.com/moodys-ma-mdc/mdc-search/pull/505) | feat: [MDCPT-88417] Cypress UI coverage for filter bar and tab naviga… | `stefanmoodys` | **today** |
+| [#509](https://github.com/moodys-ma-mdc/mdc-search/pull/509) | test: [MDCPT-88417] Cypress UI coverage | `stefanmoodys` | 5d |
+
+</details>
 
 <details><summary><b>mdc-data-search</b> · 5 PRs</summary>
 
@@ -15,17 +26,6 @@ _Auto-generated 2026-05-26 21:52 UTC · covers 10 repos in `moodys-ma-mdc` · ex
 | [#146](https://github.com/moodys-ma-mdc/mdc-data-search/pull/146) | Bump python-dotenv from 1.0.0 to 1.2.2 in /apps/search-api | `dependabot[bot]` | ~5w |
 | [#79](https://github.com/moodys-ma-mdc/mdc-data-search/pull/79) | [MDCPT-72383] set aliases _(draft)_ | `sstults-non-empl` | ~2mo |
 | [#46](https://github.com/moodys-ma-mdc/mdc-data-search/pull/46) | [MDCPT-79710] Add semantic release and release check GitHub Actions. | `ahmedhamdyse` | ~3mo |
-
-</details>
-
-<details><summary><b>mdc-search</b> · 4 PRs</summary>
-
-| PR | Title | Author | Age |
-|---|---|---|---|
-| [#520](https://github.com/moodys-ma-mdc/mdc-search/pull/520) | test: [MDCPT-89196] add Cypress coverage for Orbis deconflicted type | `stefanmoodys` | **today** |
-| [#505](https://github.com/moodys-ma-mdc/mdc-search/pull/505) | feat: [MDCPT-88417] Cypress UI coverage for filter bar and tab naviga… | `stefanmoodys` | **today** |
-| [#518](https://github.com/moodys-ma-mdc/mdc-search/pull/518) | feat: [MDCPT-89808] New design updates for Search and Autocomplete | `MaxAgliunin` | 4d |
-| [#509](https://github.com/moodys-ma-mdc/mdc-search/pull/509) | test: [MDCPT-88417] Cypress UI coverage | `stefanmoodys` | 5d |
 
 </details>
 
