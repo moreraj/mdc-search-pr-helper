@@ -1,16 +1,29 @@
 # Search/Glue/Ingestion · open PRs
 
-_Auto-generated 2026-05-27 19:37 UTC · covers 10 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
+_Auto-generated 2026-05-27 22:02 UTC · covers 10 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
 
-**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts%20repo%3Amoodys-ma-mdc/mdc-data-etl-flaghub-glue%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-data-api-search-config%20repo%3Amoodys-ma-mdc/mdc-data-search-api%20repo%3Amoodys-ma-mdc/mcfl-astra-glue-etl%20repo%3Amoodys-ma-mdc/mdc-data-search-spark-solr-jobs%20repo%3Amoodys-ma-mdc/mdc-data-search-preprocessing&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
+**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-data-etl-flaghub-glue%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-data-api-search-config%20repo%3Amoodys-ma-mdc/mdc-data-search-api%20repo%3Amoodys-ma-mdc/mcfl-astra-glue-etl%20repo%3Amoodys-ma-mdc/mdc-data-search-spark-solr-jobs%20repo%3Amoodys-ma-mdc/mdc-data-search-preprocessing&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
 
-**Stats:** 1 active today · 25 stale (>30d) · 8 dependabot · 10 drafts · **32 total**
+**Stats:** 1 active today · 25 stale (>30d) · 8 dependabot · 10 drafts · **33 total**
+
+<details><summary><b>mdc-data-search-glue</b> · 6 PRs</summary>
+
+| PR | Title | Author | Age |
+|---|---|---|---|
+| [#2647](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2647) | [MDCPT-90183] Updated rerun delta workflows for orgv2 | `KavyaOS` | **today** |
+| [#2593](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2593) | [CHORE] Commit CLAUDE.md as team-shared agent context | `aftimosm` | 21d |
+| [#2520](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2520) | Revert "[CHORE] revert-OS-authentication-to-unblock-STG" | `KavyaOS` | ~7w |
+| [#2429](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2429) | [CHORE] Add S3 and OS audit job for local dev | `willimarmei` | ~2mo |
+| [#2365](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2365) | [CHORE] Update Antropic lib _(draft)_ | `sstults-non-empl` | ~2mo |
+| [#2339](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2339) | [MDCPT-78523] create glue job for research s3 to os app domain _(draft)_ | `lkocharian` | ~3mo |
+
+</details>
 
 <details><summary><b>mdc-data-search</b> · 5 PRs</summary>
 
 | PR | Title | Author | Age |
 |---|---|---|---|
-| [#188](https://github.com/moodys-ma-mdc/mdc-data-search/pull/188) | [MDCPT-84270] Add search relevance triage skill _(draft)_ | `joellerobinson` | **today** |
+| [#188](https://github.com/moodys-ma-mdc/mdc-data-search/pull/188) | [MDCPT-84270] Add search relevance triage skill _(draft)_ | `joellerobinson` | 1d |
 | [#92](https://github.com/moodys-ma-mdc/mdc-data-search/pull/92) | Bump requests from 2.32.4 to 2.33.0 in /apps/search-api | `dependabot[bot]` | 16d |
 | [#146](https://github.com/moodys-ma-mdc/mdc-data-search/pull/146) | Bump python-dotenv from 1.0.0 to 1.2.2 in /apps/search-api | `dependabot[bot]` | ~5w |
 | [#79](https://github.com/moodys-ma-mdc/mdc-data-search/pull/79) | [MDCPT-72383] set aliases _(draft)_ | `sstults-non-empl` | ~2mo |
@@ -24,18 +37,6 @@ _Auto-generated 2026-05-27 19:37 UTC · covers 10 repos in `moodys-ma-mdc` · ex
 |---|---|---|---|
 | [#190](https://github.com/moodys-ma-mdc/mdc-data-search-spark-solr-jobs/pull/190) | Bump org.apache.kafka:kafka-clients from 0.11.0.1 to 3.9.2 | `dependabot[bot]` | 2d |
 | [#197](https://github.com/moodys-ma-mdc/mdc-data-search-spark-solr-jobs/pull/197) | Bump com.fasterxml.jackson.core:jackson-databind from 2.6.5 to 2.12.7… | `dependabot[bot]` | 6d |
-
-</details>
-
-<details><summary><b>mdc-data-search-glue</b> · 5 PRs</summary>
-
-| PR | Title | Author | Age |
-|---|---|---|---|
-| [#2593](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2593) | [CHORE] Commit CLAUDE.md as team-shared agent context | `aftimosm` | 21d |
-| [#2520](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2520) | Revert "[CHORE] revert-OS-authentication-to-unblock-STG" | `KavyaOS` | ~7w |
-| [#2429](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2429) | [CHORE] Add S3 and OS audit job for local dev | `willimarmei` | ~2mo |
-| [#2365](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2365) | [CHORE] Update Antropic lib _(draft)_ | `sstults-non-empl` | ~2mo |
-| [#2339](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2339) | [MDCPT-78523] create glue job for research s3 to os app domain _(draft)_ | `lkocharian` | ~3mo |
 
 </details>
 
