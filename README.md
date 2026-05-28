@@ -1,25 +1,16 @@
 # Search/Glue/Ingestion · open PRs
 
-_Auto-generated 2026-05-28 17:36 UTC · covers 10 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
+_Auto-generated 2026-05-28 20:32 UTC · covers 9 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
 
-**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts%20repo%3Amoodys-ma-mdc/mdc-data-etl-flaghub-glue%20repo%3Amoodys-ma-mdc/mdc-data-api-search-config%20repo%3Amoodys-ma-mdc/mdc-data-search-api%20repo%3Amoodys-ma-mdc/mcfl-astra-glue-etl%20repo%3Amoodys-ma-mdc/mdc-data-search-spark-solr-jobs&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
+**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts%20repo%3Amoodys-ma-mdc/mdc-data-etl-flaghub-glue%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-data-api-search-config%20repo%3Amoodys-ma-mdc/mdc-data-search-api%20repo%3Amoodys-ma-mdc/mcfl-astra-glue-etl&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
 
-**Stats:** 4 active today · 18 stale (>30d) · 9 dependabot · 9 drafts · **31 total**
+**Stats:** 4 active today · 18 stale (>30d) · 7 dependabot · 9 drafts · **29 total**
 
-<details><summary><b>mdc-data-search-spark-solr-jobs-v2</b> · 3 PRs</summary>
-
-| PR | Title | Author | Age |
-|---|---|---|---|
-| [#34](https://github.com/moodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2/pull/34) | [MDCPT-89923] Fix missing 20k docs and reduce research batch size | `yahia-elakeed-se` | **today** |
-| [#33](https://github.com/moodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2/pull/33) | Bump io.netty:netty-codec-http2 from 4.1.125.Final to 4.1.133.Final | `dependabot[bot]` | 20d |
-| [#32](https://github.com/moodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2/pull/32) | Bump io.netty:netty-codec-http from 4.1.125.Final to 4.1.133.Final | `dependabot[bot]` | 22d |
-
-</details>
-
-<details><summary><b>mdc-data-search</b> · 7 PRs</summary>
+<details><summary><b>mdc-data-search</b> · 8 PRs</summary>
 
 | PR | Title | Author | Age |
 |---|---|---|---|
+| [#196](https://github.com/moodys-ma-mdc/mdc-data-search/pull/196) | [MDCPT-63821] add /search reports e2e tests for anonymous-api | `moreraj` | **today** |
 | [#195](https://github.com/moodys-ma-mdc/mdc-data-search/pull/195) | test: [MDCPT-63822] add /search solutions & services e2e tests for an… | `moreraj` | **today** |
 | [#194](https://github.com/moodys-ma-mdc/mdc-data-search/pull/194) | [MDCPT-89748] restore AI org parity params on /ai/multisearch _(draft)_ | `aftimosm` | **today** |
 | [#188](https://github.com/moodys-ma-mdc/mdc-data-search/pull/188) | [MDCPT-84270] Add search relevance triage skill _(draft)_ | `joellerobinson` | 1d |
@@ -43,12 +34,12 @@ _Auto-generated 2026-05-28 17:36 UTC · covers 10 repos in `moodys-ma-mdc` · ex
 
 </details>
 
-<details><summary><b>mdc-data-search-spark-solr-jobs</b> · 2 PRs</summary>
+<details><summary><b>mdc-data-search-spark-solr-jobs-v2</b> · 2 PRs</summary>
 
 | PR | Title | Author | Age |
 |---|---|---|---|
-| [#190](https://github.com/moodys-ma-mdc/mdc-data-search-spark-solr-jobs/pull/190) | Bump org.apache.kafka:kafka-clients from 0.11.0.1 to 3.9.2 | `dependabot[bot]` | 3d |
-| [#197](https://github.com/moodys-ma-mdc/mdc-data-search-spark-solr-jobs/pull/197) | Bump com.fasterxml.jackson.core:jackson-databind from 2.6.5 to 2.12.7… | `dependabot[bot]` | 7d |
+| [#33](https://github.com/moodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2/pull/33) | Bump io.netty:netty-codec-http2 from 4.1.125.Final to 4.1.133.Final | `dependabot[bot]` | 20d |
+| [#32](https://github.com/moodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2/pull/32) | Bump io.netty:netty-codec-http from 4.1.125.Final to 4.1.133.Final | `dependabot[bot]` | 22d |
 
 </details>
 
@@ -86,7 +77,7 @@ _Auto-generated 2026-05-28 17:36 UTC · covers 10 repos in `moodys-ma-mdc` · ex
 
 </details>
 
-<sub>Repos with no open PRs: `mdc-search`, `mdc-data-etl-flaghub-glue`, `mcfl-astra-glue-etl`</sub>
+<sub>Repos with no open PRs: `mdc-data-etl-flaghub-glue`, `mdc-search`, `mcfl-astra-glue-etl`</sub>
 
 ---
 
