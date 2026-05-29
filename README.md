@@ -1,15 +1,16 @@
 # Search/Glue/Ingestion · open PRs
 
-_Auto-generated 2026-05-29 20:34 UTC · covers 9 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
+_Auto-generated 2026-05-29 22:39 UTC · covers 9 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
 
 **[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mcfl-astra-glue-etl%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts%20repo%3Amoodys-ma-mdc/mdc-data-etl-flaghub-glue%20repo%3Amoodys-ma-mdc/mdc-data-api-search-config%20repo%3Amoodys-ma-mdc/mdc-data-search-api&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
 
-**Stats:** 4 active today · 18 stale (>30d) · 7 dependabot · 9 drafts · **32 total**
+**Stats:** 4 active today · 18 stale (>30d) · 7 dependabot · 9 drafts · **33 total**
 
-<details><summary><b>mdc-data-search-glue</b> · 7 PRs</summary>
+<details><summary><b>mdc-data-search-glue</b> · 8 PRs</summary>
 
 | PR | Title | Author | Age |
 |---|---|---|---|
+| [#2652](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2652) | [CHORE] raise exceptions instead of silently failing in OrgV2S3Input | `KavyaOS` | **today** |
 | [#2651](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2651) | [CHORE] add missing success transition for running_delete_old_chunks… | `KavyaOS` | **today** |
 | [#2647](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2647) | [MDCPT-90183] Updated rerun delta workflows for orgv2 | `KavyaOS` | 1d |
 | [#2593](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2593) | [CHORE] Commit CLAUDE.md as team-shared agent context | `aftimosm` | 23d |
@@ -25,10 +26,10 @@ _Auto-generated 2026-05-29 20:34 UTC · covers 9 repos in `moodys-ma-mdc` · exc
 | PR | Title | Author | Age |
 |---|---|---|---|
 | [#197](https://github.com/moodys-ma-mdc/mdc-data-search/pull/197) | [MDCPT-89234] Adding a v2 namespace and new typeahead for suggestions | `sstults-non-empl` | **today** |
-| [#196](https://github.com/moodys-ma-mdc/mdc-data-search/pull/196) | [MDCPT-63821] add /search reports e2e tests for anonymous-api | `moreraj` | **today** |
+| [#196](https://github.com/moodys-ma-mdc/mdc-data-search/pull/196) | [MDCPT-63821] add /search reports e2e tests for anonymous-api | `moreraj` | 1d |
 | [#195](https://github.com/moodys-ma-mdc/mdc-data-search/pull/195) | test: [MDCPT-63822] add /search solutions & services e2e tests for an… | `moreraj` | 1d |
 | [#194](https://github.com/moodys-ma-mdc/mdc-data-search/pull/194) | [MDCPT-89748] restore AI org parity params on /ai/multisearch _(draft)_ | `aftimosm` | 1d |
-| [#188](https://github.com/moodys-ma-mdc/mdc-data-search/pull/188) | [MDCPT-84270] Add search relevance triage skill _(draft)_ | `joellerobinson` | 2d |
+| [#188](https://github.com/moodys-ma-mdc/mdc-data-search/pull/188) | [MDCPT-84270] Add search relevance triage skill _(draft)_ | `joellerobinson` | 3d |
 | [#92](https://github.com/moodys-ma-mdc/mdc-data-search/pull/92) | Bump requests from 2.32.4 to 2.33.0 in /apps/search-api | `dependabot[bot]` | 18d |
 | [#146](https://github.com/moodys-ma-mdc/mdc-data-search/pull/146) | Bump python-dotenv from 1.0.0 to 1.2.2 in /apps/search-api | `dependabot[bot]` | ~5w |
 | [#79](https://github.com/moodys-ma-mdc/mdc-data-search/pull/79) | [MDCPT-72383] set aliases _(draft)_ | `sstults-non-empl` | ~2mo |
