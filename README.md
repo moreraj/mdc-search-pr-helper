@@ -1,16 +1,15 @@
 # Search/Glue/Ingestion · open PRs
 
-_Auto-generated 2026-05-29 22:39 UTC · covers 9 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
+_Auto-generated 2026-05-30 00:14 UTC · covers 9 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
 
 **[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mcfl-astra-glue-etl%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts%20repo%3Amoodys-ma-mdc/mdc-data-etl-flaghub-glue%20repo%3Amoodys-ma-mdc/mdc-data-api-search-config%20repo%3Amoodys-ma-mdc/mdc-data-search-api&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
 
-**Stats:** 4 active today · 18 stale (>30d) · 7 dependabot · 9 drafts · **33 total**
+**Stats:** 3 active today · 18 stale (>30d) · 7 dependabot · 9 drafts · **32 total**
 
-<details><summary><b>mdc-data-search-glue</b> · 8 PRs</summary>
+<details><summary><b>mdc-data-search-glue</b> · 7 PRs</summary>
 
 | PR | Title | Author | Age |
 |---|---|---|---|
-| [#2652](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2652) | [CHORE] raise exceptions instead of silently failing in OrgV2S3Input | `KavyaOS` | **today** |
 | [#2651](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2651) | [CHORE] add missing success transition for running_delete_old_chunks… | `KavyaOS` | **today** |
 | [#2647](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2647) | [MDCPT-90183] Updated rerun delta workflows for orgv2 | `KavyaOS` | 1d |
 | [#2593](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2593) | [CHORE] Commit CLAUDE.md as team-shared agent context | `aftimosm` | 23d |
