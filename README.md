@@ -1,25 +1,27 @@
 # Search/Glue/Ingestion · open PRs
 
-_Auto-generated 2026-06-04 16:57 UTC · covers 13 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
+_Auto-generated 2026-06-04 19:29 UTC · covers 12 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
 
-**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-search-bot%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-data-etl-flaghub-glue%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-global-search-api%20repo%3Amoodys-ma-mdc/mcfl-astra-glue-etl%20repo%3Amoodys-ma-mdc/mdc-data-search-preprocessing%20repo%3Amoodys-ma-mdc/di-data-api-search%20repo%3Amoodys-ma-mdc/mdc-data-api-search-config-v2%20repo%3Amoodys-ma-mdc/mdc-data-search-spark-solr-jobs%20repo%3Amoodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
+**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-search-bot%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-data-etl-flaghub-glue%20repo%3Amoodys-ma-mdc/mdc-global-search-api%20repo%3Amoodys-ma-mdc/mcfl-astra-glue-etl%20repo%3Amoodys-ma-mdc/mdc-data-search-preprocessing%20repo%3Amoodys-ma-mdc/di-data-api-search%20repo%3Amoodys-ma-mdc/mdc-data-api-search-config-v2%20repo%3Amoodys-ma-mdc/mdc-data-search-spark-solr-jobs&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
 
-**Stats:** 6 active today · 39 stale (>30d) · 15 dependabot · 9 drafts · **51 total**
+**Stats:** 6 active today · 39 stale (>30d) · 13 dependabot · 9 drafts · **50 total**
 
-<details><summary><b>mdc-search-bot</b> · 1 PRs</summary>
+<details><summary><b>mdc-search</b> · 2 PRs</summary>
 
 | PR | Title | Author | Age |
 |---|---|---|---|
-| [#8](https://github.com/moodys-ma-mdc/mdc-search-bot/pull/8) | chore(phase-13): rename backend/ → api/, frontend/ → web/ | `aftimosm` | **today** |
+| [#531](https://github.com/moodys-ma-mdc/mdc-search/pull/531) | [MDCPT-0000] skip tests | `moreraj` | **today** |
+| [#527](https://github.com/moodys-ma-mdc/mdc-search/pull/527) | feat: [MDCPT-90893] New data structure and new design for typeahead | `MaxAgliunin` | **today** |
 
 </details>
 
-<details><summary><b>mdc-data-search-glue</b> · 7 PRs</summary>
+<details><summary><b>mdc-data-search-glue</b> · 8 PRs</summary>
 
 | PR | Title | Author | Age |
 |---|---|---|---|
+| [#2668](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2668) | [Chore] opensearch decimal cast | `spearsear` | **today** |
 | [#2665](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2665) | [MDCPT-90686] Add prav-run + prav-author repo-local skills | `moreraj` | **today** |
-| [#2656](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2656) | [CHORE] Change CODEOWNERS to mdc-search team | `aftimosm` | **today** |
+| [#2656](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2656) | [CHORE] Change CODEOWNERS to mdc-search team | `aftimosm` | 1d |
 | [#2593](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2593) | [CHORE] Commit CLAUDE.md as team-shared agent context | `aftimosm` | 29d |
 | [#2520](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2520) | Revert "[CHORE] revert-OS-authentication-to-unblock-STG" | `KavyaOS` | ~8w |
 | [#2429](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2429) | [CHORE] Add S3 and OS audit job for local dev | `willimarmei` | ~3mo |
@@ -36,16 +38,8 @@ _Auto-generated 2026-06-04 16:57 UTC · covers 13 repos in `moodys-ma-mdc` · ex
 | [#188](https://github.com/moodys-ma-mdc/mdc-data-search/pull/188) | [MDCPT-84270] Add search relevance triage skill _(draft)_ | `joellerobinson` | 8d |
 | [#92](https://github.com/moodys-ma-mdc/mdc-data-search/pull/92) | Bump requests from 2.32.4 to 2.33.0 in /apps/search-api | `dependabot[bot]` | 24d |
 | [#146](https://github.com/moodys-ma-mdc/mdc-data-search/pull/146) | Bump python-dotenv from 1.0.0 to 1.2.2 in /apps/search-api | `dependabot[bot]` | ~6w |
-| [#79](https://github.com/moodys-ma-mdc/mdc-data-search/pull/79) | [MDCPT-72383] set aliases _(draft)_ | `sstults-non-empl` | ~2mo |
+| [#79](https://github.com/moodys-ma-mdc/mdc-data-search/pull/79) | [MDCPT-72383] set aliases _(draft)_ | `sstults-non-empl` | ~3mo |
 | [#46](https://github.com/moodys-ma-mdc/mdc-data-search/pull/46) | [MDCPT-79710] Add semantic release and release check GitHub Actions. | `ahmedhamdyse` | ~3mo |
-
-</details>
-
-<details><summary><b>mdc-search</b> · 1 PRs</summary>
-
-| PR | Title | Author | Age |
-|---|---|---|---|
-| [#527](https://github.com/moodys-ma-mdc/mdc-search/pull/527) | feat: [MDCPT-90893] New data structure and new design for typeahead | `MaxAgliunin` | **today** |
 
 </details>
 
@@ -62,15 +56,6 @@ _Auto-generated 2026-06-04 16:57 UTC · covers 13 repos in `moodys-ma-mdc` · ex
 | PR | Title | Author | Age |
 |---|---|---|---|
 | [#197](https://github.com/moodys-ma-mdc/mdc-data-search-spark-solr-jobs/pull/197) | Bump com.fasterxml.jackson.core:jackson-databind from 2.6.5 to 2.12.7… | `dependabot[bot]` | 14d |
-
-</details>
-
-<details><summary><b>mdc-data-search-spark-solr-jobs-v2</b> · 2 PRs</summary>
-
-| PR | Title | Author | Age |
-|---|---|---|---|
-| [#33](https://github.com/moodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2/pull/33) | Bump io.netty:netty-codec-http2 from 4.1.125.Final to 4.1.133.Final | `dependabot[bot]` | 27d |
-| [#32](https://github.com/moodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2/pull/32) | Bump io.netty:netty-codec-http from 4.1.125.Final to 4.1.133.Final | `dependabot[bot]` | 29d |
 
 </details>
 
@@ -134,7 +119,7 @@ _Auto-generated 2026-06-04 16:57 UTC · covers 13 repos in `moodys-ma-mdc` · ex
 
 </details>
 
-<sub>Repos with no open PRs: `mdc-data-etl-flaghub-glue`, `mcfl-astra-glue-etl`</sub>
+<sub>Repos with no open PRs: `mdc-search-bot`, `mdc-data-etl-flaghub-glue`, `mcfl-astra-glue-etl`</sub>
 
 ---
 
