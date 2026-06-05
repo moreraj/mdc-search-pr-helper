@@ -1,23 +1,16 @@
 # Search/Glue/Ingestion · open PRs
 
-_Auto-generated 2026-06-05 00:15 UTC · covers 12 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
+_Auto-generated 2026-06-05 16:32 UTC · covers 11 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
 
-**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-global-search-api%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-search-bot%20repo%3Amoodys-ma-mdc/mdc-data-etl-flaghub-glue%20repo%3Amoodys-ma-mdc/mcfl-astra-glue-etl%20repo%3Amoodys-ma-mdc/mdc-data-search-preprocessing%20repo%3Amoodys-ma-mdc/di-data-api-search%20repo%3Amoodys-ma-mdc/mdc-data-api-search-config-v2%20repo%3Amoodys-ma-mdc/mdc-data-search-spark-solr-jobs&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
+**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-search-bot%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-global-search-api%20repo%3Amoodys-ma-mdc/mdc-data-etl-flaghub-glue%20repo%3Amoodys-ma-mdc/mcfl-astra-glue-etl%20repo%3Amoodys-ma-mdc/mdc-data-search-preprocessing%20repo%3Amoodys-ma-mdc/di-data-api-search%20repo%3Amoodys-ma-mdc/mdc-data-api-search-config-v2&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
 
-**Stats:** 6 active today · 39 stale (>30d) · 13 dependabot · 9 drafts · **50 total**
+**Stats:** 5 active today · 39 stale (>30d) · 12 dependabot · 9 drafts · **49 total**
 
-<details><summary><b>mdc-search</b> · 1 PRs</summary>
-
-| PR | Title | Author | Age |
-|---|---|---|---|
-| [#527](https://github.com/moodys-ma-mdc/mdc-search/pull/527) | feat: [MDCPT-90893] New data structure and new design for typeahead | `MaxAgliunin` | **today** |
-
-</details>
-
-<details><summary><b>mdc-data-search-glue</b> · 8 PRs</summary>
+<details><summary><b>mdc-data-search-glue</b> · 9 PRs</summary>
 
 | PR | Title | Author | Age |
 |---|---|---|---|
+| [#2672](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2672) | [MDCPT-90689] Retire unrunnable top-level e2e tests | `moreraj` | **today** |
 | [#2670](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2670) | [MDCPT-90688] Add data-comparison capability (CompareValidator + prav… | `moreraj` | **today** |
 | [#2668](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2668) | [Chore] opensearch decimal cast | `spearsear` | **today** |
 | [#2656](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2656) | [CHORE] Change CODEOWNERS to mdc-search team | `aftimosm` | 1d |
@@ -29,17 +22,11 @@ _Auto-generated 2026-06-05 00:15 UTC · covers 12 repos in `moodys-ma-mdc` · ex
 
 </details>
 
-<details><summary><b>mdc-data-search</b> · 7 PRs</summary>
+<details><summary><b>mdc-search</b> · 1 PRs</summary>
 
 | PR | Title | Author | Age |
 |---|---|---|---|
-| [#206](https://github.com/moodys-ma-mdc/mdc-data-search/pull/206) | [MDCPT-90658] dmc country filter addition | `joellerobinson` | **today** |
-| [#198](https://github.com/moodys-ma-mdc/mdc-data-search/pull/198) | [MDCPT-89974] Temporarily de-duplicate all expansion org searches | `mkr` | **today** |
-| [#188](https://github.com/moodys-ma-mdc/mdc-data-search/pull/188) | [MDCPT-84270] Add search relevance triage skill _(draft)_ | `joellerobinson` | 9d |
-| [#92](https://github.com/moodys-ma-mdc/mdc-data-search/pull/92) | Bump requests from 2.32.4 to 2.33.0 in /apps/search-api | `dependabot[bot]` | 24d |
-| [#146](https://github.com/moodys-ma-mdc/mdc-data-search/pull/146) | Bump python-dotenv from 1.0.0 to 1.2.2 in /apps/search-api | `dependabot[bot]` | ~6w |
-| [#79](https://github.com/moodys-ma-mdc/mdc-data-search/pull/79) | [MDCPT-72383] set aliases _(draft)_ | `sstults-non-empl` | ~3mo |
-| [#46](https://github.com/moodys-ma-mdc/mdc-data-search/pull/46) | [MDCPT-79710] Add semantic release and release check GitHub Actions. | `ahmedhamdyse` | ~3mo |
+| [#527](https://github.com/moodys-ma-mdc/mdc-search/pull/527) | feat: [MDCPT-90893] New data structure and new design for typeahead | `MaxAgliunin` | **today** |
 
 </details>
 
@@ -51,11 +38,16 @@ _Auto-generated 2026-06-05 00:15 UTC · covers 12 repos in `moodys-ma-mdc` · ex
 
 </details>
 
-<details><summary><b>mdc-data-search-spark-solr-jobs</b> · 1 PRs</summary>
+<details><summary><b>mdc-data-search</b> · 6 PRs</summary>
 
 | PR | Title | Author | Age |
 |---|---|---|---|
-| [#197](https://github.com/moodys-ma-mdc/mdc-data-search-spark-solr-jobs/pull/197) | Bump com.fasterxml.jackson.core:jackson-databind from 2.6.5 to 2.12.7… | `dependabot[bot]` | 14d |
+| [#198](https://github.com/moodys-ma-mdc/mdc-data-search/pull/198) | [MDCPT-89974] Temporarily de-duplicate all expansion org searches | `mkr` | 1d |
+| [#188](https://github.com/moodys-ma-mdc/mdc-data-search/pull/188) | [MDCPT-84270] Add search relevance triage skill _(draft)_ | `joellerobinson` | 9d |
+| [#92](https://github.com/moodys-ma-mdc/mdc-data-search/pull/92) | Bump requests from 2.32.4 to 2.33.0 in /apps/search-api | `dependabot[bot]` | 25d |
+| [#146](https://github.com/moodys-ma-mdc/mdc-data-search/pull/146) | Bump python-dotenv from 1.0.0 to 1.2.2 in /apps/search-api | `dependabot[bot]` | ~6w |
+| [#79](https://github.com/moodys-ma-mdc/mdc-data-search/pull/79) | [MDCPT-72383] set aliases _(draft)_ | `sstults-non-empl` | ~3mo |
+| [#46](https://github.com/moodys-ma-mdc/mdc-data-search/pull/46) | [MDCPT-79710] Add semantic release and release check GitHub Actions. | `ahmedhamdyse` | ~3mo |
 
 </details>
 
@@ -101,7 +93,7 @@ _Auto-generated 2026-06-05 00:15 UTC · covers 12 repos in `moodys-ma-mdc` · ex
 | [#171](https://github.com/moodys-ma-mdc/di-data-api-search/pull/171) | [Snyk] Security upgrade org.apache.zookeeper:zookeeper from 3.9.3 to… | `sys-prod-devops-cicd` | ~8mo |
 | [#169](https://github.com/moodys-ma-mdc/di-data-api-search/pull/169) | [Snyk] Security upgrade org.springframework:spring-web from 5.3.38 to… | `sys-prod-devops-cicd` | ~9mo |
 | [#168](https://github.com/moodys-ma-mdc/di-data-api-search/pull/168) | [Snyk] Security upgrade software.amazon.awssdk:ssm from 2.31.35 to 2.… | `sys-prod-devops-cicd` | ~9mo |
-| [#157](https://github.com/moodys-ma-mdc/di-data-api-search/pull/157) | [Snyk] Security upgrade org.apache.commons:commons-text from 1.11.0 t… | `sys-prod-devops-cicd` | ~10mo |
+| [#157](https://github.com/moodys-ma-mdc/di-data-api-search/pull/157) | [Snyk] Security upgrade org.apache.commons:commons-text from 1.11.0 t… | `sys-prod-devops-cicd` | ~11mo |
 
 </details>
 
