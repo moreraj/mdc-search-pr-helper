@@ -1,10 +1,27 @@
 # Search/Glue/Ingestion · open PRs
 
-_Auto-generated 2026-06-09 21:20 UTC · covers 8 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
+_Auto-generated 2026-06-09 23:00 UTC · covers 8 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
 
-**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-search-bot%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts%20repo%3Amoodys-ma-mdc/mdc-global-search-api%20repo%3Amoodys-ma-mdc/mdc-data-etl-flaghub-glue&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
+**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-search-bot%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts%20repo%3Amoodys-ma-mdc/mdc-global-search-api%20repo%3Amoodys-ma-mdc/mdc-data-etl-flaghub-glue&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
 
-**Stats:** 6 active today · 11 stale (>30d) · 7 dependabot · 7 drafts · **27 total**
+**Stats:** 7 active today · 11 stale (>30d) · 7 dependabot · 7 drafts · **27 total**
+
+<details><summary><b>mdc-data-search-glue</b> · 10 PRs</summary>
+
+| PR | Title | Author | Age |
+|---|---|---|---|
+| [#2678](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2678) | [MDCPT-91338] Add Dashboard tab to admin-tool (Stages 11 & 12) | `KavyaOS` | **today** |
+| [#2670](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2670) | [MDCPT-90688] Add data-comparison capability (CompareValidator + prav… | `moreraj` | **today** |
+| [#2674](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2674) | [MDCPT-91338] Stage 7: date scrubber + per-day counts; Job Detail liv… | `spearsear` | 4d |
+| [#2668](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2668) | [Chore] opensearch decimal cast | `spearsear` | 5d |
+| [#2656](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2656) | [CHORE] Change CODEOWNERS to mdc-search team | `aftimosm` | 6d |
+| [#2593](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2593) | [CHORE] Commit CLAUDE.md as team-shared agent context | `aftimosm` | ~5w |
+| [#2520](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2520) | Revert "[CHORE] revert-OS-authentication-to-unblock-STG" | `KavyaOS` | ~2mo |
+| [#2429](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2429) | [CHORE] Add S3 and OS audit job for local dev | `willimarmei` | ~3mo |
+| [#2365](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2365) | [CHORE] Update Antropic lib _(draft)_ | `sstults-non-empl` | ~3mo |
+| [#2339](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2339) | [MDCPT-78523] create glue job for research s3 to os app domain _(draft)_ | `lkocharian` | ~4mo |
+
+</details>
 
 <details><summary><b>mdc-search</b> · 1 PRs</summary>
 
@@ -36,23 +53,6 @@ _Auto-generated 2026-06-09 21:20 UTC · covers 8 repos in `moodys-ma-mdc` · exc
 
 </details>
 
-<details><summary><b>mdc-data-search-glue</b> · 10 PRs</summary>
-
-| PR | Title | Author | Age |
-|---|---|---|---|
-| [#2678](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2678) | [MDCPT-91338] Add Dashboard tab to admin-tool (Stages 11 & 12) | `KavyaOS` | **today** |
-| [#2674](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2674) | [MDCPT-91338] Stage 7: date scrubber + per-day counts; Job Detail liv… | `spearsear` | 4d |
-| [#2670](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2670) | [MDCPT-90688] Add data-comparison capability (CompareValidator + prav… | `moreraj` | 4d |
-| [#2668](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2668) | [Chore] opensearch decimal cast | `spearsear` | 5d |
-| [#2656](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2656) | [CHORE] Change CODEOWNERS to mdc-search team | `aftimosm` | 6d |
-| [#2593](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2593) | [CHORE] Commit CLAUDE.md as team-shared agent context | `aftimosm` | ~5w |
-| [#2520](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2520) | Revert "[CHORE] revert-OS-authentication-to-unblock-STG" | `KavyaOS` | ~2mo |
-| [#2429](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2429) | [CHORE] Add S3 and OS audit job for local dev | `willimarmei` | ~3mo |
-| [#2365](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2365) | [CHORE] Update Antropic lib _(draft)_ | `sstults-non-empl` | ~3mo |
-| [#2339](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2339) | [MDCPT-78523] create glue job for research s3 to os app domain _(draft)_ | `lkocharian` | ~4mo |
-
-</details>
-
 <details><summary><b>mdc-data-search-spark-solr-jobs-v2</b> · 3 PRs</summary>
 
 | PR | Title | Author | Age |
@@ -68,7 +68,7 @@ _Auto-generated 2026-06-09 21:20 UTC · covers 8 repos in `moodys-ma-mdc` · exc
 | PR | Title | Author | Age |
 |---|---|---|---|
 | [#319](https://github.com/moodys-ma-mdc/mdc-data-search-quality-scripts/pull/319) | build(deps): bump pyarrow from 15.0.0 to 23.0.1 | `dependabot[bot]` | 3d |
-| [#318](https://github.com/moodys-ma-mdc/mdc-data-search-quality-scripts/pull/318) | build(deps): bump pyarrow from 15.0.0 to 23.0.1 in /llm_judge_streaml… | `dependabot[bot]` | 3d |
+| [#318](https://github.com/moodys-ma-mdc/mdc-data-search-quality-scripts/pull/318) | build(deps): bump pyarrow from 15.0.0 to 23.0.1 in /llm_judge_streaml… | `dependabot[bot]` | 4d |
 | [#277](https://github.com/moodys-ma-mdc/mdc-data-search-quality-scripts/pull/277) | [MDCPT-65580] Tooling _(draft)_ | `mkr` | ~6w |
 | [#285](https://github.com/moodys-ma-mdc/mdc-data-search-quality-scripts/pull/285) | [CHORE] Current INFO SK -> LCM index document conversion lambda _(draft)_ | `david-fisher` | ~6w |
 | [#99](https://github.com/moodys-ma-mdc/mdc-data-search-quality-scripts/pull/99) | [MDCPT-31210] Code for structured chunk query evaluation / export _(draft)_ | `mkr` | ~2y |
