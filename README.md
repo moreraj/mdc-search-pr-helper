@@ -1,6 +1,6 @@
 # Search/Glue/Ingestion · open PRs
 
-_Auto-generated 2026-06-10 22:10 UTC · covers 8 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
+_Auto-generated 2026-06-10 23:57 UTC · covers 8 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
 
 **[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-search-bot%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-global-search-api%20repo%3Amoodys-ma-mdc/mcfl-astra-glue-etl%20repo%3Amoodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
 
@@ -24,7 +24,7 @@ _Auto-generated 2026-06-10 22:10 UTC · covers 8 repos in `moodys-ma-mdc` · exc
 
 | PR | Title | Author | Age |
 |---|---|---|---|
-| [#37](https://github.com/moodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2/pull/37) | Bump io.netty:netty-codec-http2 from 4.1.125.Final to 4.1.135.Final | `dependabot[bot]` | 1d |
+| [#37](https://github.com/moodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2/pull/37) | Bump io.netty:netty-codec-http2 from 4.1.125.Final to 4.1.135.Final | `dependabot[bot]` | 2d |
 | [#36](https://github.com/moodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2/pull/36) | Bump io.netty:netty-handler from 4.1.118.Final to 4.1.135.Final | `dependabot[bot]` | 2d |
 
 </details>
