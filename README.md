@@ -1,8 +1,8 @@
 # Search/Glue/Ingestion · open PRs
 
-_Auto-generated 2026-06-11 20:29 UTC · covers 8 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
+_Auto-generated 2026-06-11 22:24 UTC · covers 8 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
 
-**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-search-bot%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-data-search-preprocessing%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-global-search-api%20repo%3Amoodys-ma-mdc/mcfl-astra-glue-etl&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
+**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-search-bot%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-data-search-preprocessing%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-global-search-api%20repo%3Amoodys-ma-mdc/mcfl-astra-glue-etl&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
 
 **Stats:** 4 active today · 19 stale (>30d) · 6 dependabot · 11 drafts · **29 total**
 
@@ -10,8 +10,8 @@ _Auto-generated 2026-06-11 20:29 UTC · covers 8 repos in `moodys-ma-mdc` · exc
 
 | PR | Title | Author | Age |
 |---|---|---|---|
-| [#2684](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2684) | [MDCPT-91381] Admin-tool dashboard bug fixes | `KavyaOS` | **today** |
-| [#2674](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2674) | [MDCPT-91338] Stage 7: date scrubber + per-day counts; Job Detail liv… | `spearsear` | 5d |
+| [#2685](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2685) | [MDCPT-91481] change the _test alias name to _s3 for s3-to-os glue jo… | `spearsear` | **today** |
+| [#2674](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2674) | [MDCPT-91338] Stage 7: date scrubber + per-day counts; Job Detail liv… | `spearsear` | 6d |
 | [#2668](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2668) | [Chore] opensearch decimal cast | `spearsear` | 7d |
 | [#2656](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2656) | [CHORE] Change CODEOWNERS to mdc-search team | `aftimosm` | 8d |
 | [#2593](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2593) | [CHORE] Commit CLAUDE.md as team-shared agent context | `aftimosm` | ~5w |
@@ -28,7 +28,7 @@ _Auto-generated 2026-06-11 20:29 UTC · covers 8 repos in `moodys-ma-mdc` · exc
 |---|---|---|---|
 | [#320](https://github.com/moodys-ma-mdc/mdc-data-search-quality-scripts/pull/320) | feat[MDCPT-90260]: MGM Direct eval framework and ablation suite _(draft)_ | `dave-moody` | **today** |
 | [#319](https://github.com/moodys-ma-mdc/mdc-data-search-quality-scripts/pull/319) | build(deps): bump pyarrow from 15.0.0 to 23.0.1 | `dependabot[bot]` | 5d |
-| [#318](https://github.com/moodys-ma-mdc/mdc-data-search-quality-scripts/pull/318) | build(deps): bump pyarrow from 15.0.0 to 23.0.1 in /llm_judge_streaml… | `dependabot[bot]` | 5d |
+| [#318](https://github.com/moodys-ma-mdc/mdc-data-search-quality-scripts/pull/318) | build(deps): bump pyarrow from 15.0.0 to 23.0.1 in /llm_judge_streaml… | `dependabot[bot]` | 6d |
 | [#277](https://github.com/moodys-ma-mdc/mdc-data-search-quality-scripts/pull/277) | [MDCPT-65580] Tooling _(draft)_ | `mkr` | ~6w |
 | [#285](https://github.com/moodys-ma-mdc/mdc-data-search-quality-scripts/pull/285) | [CHORE] Current INFO SK -> LCM index document conversion lambda _(draft)_ | `david-fisher` | ~6w |
 | [#99](https://github.com/moodys-ma-mdc/mdc-data-search-quality-scripts/pull/99) | [MDCPT-31210] Code for structured chunk query evaluation / export _(draft)_ | `mkr` | ~2y |
@@ -40,7 +40,7 @@ _Auto-generated 2026-06-11 20:29 UTC · covers 8 repos in `moodys-ma-mdc` · exc
 | PR | Title | Author | Age |
 |---|---|---|---|
 | [#198](https://github.com/moodys-ma-mdc/mdc-data-search/pull/198) | [MDCPT-89974] Temporarily de-duplicate all expansion org searches | `mkr` | **today** |
-| [#188](https://github.com/moodys-ma-mdc/mdc-data-search/pull/188) | [MDCPT-84270] Add search relevance triage skill _(draft)_ | `joellerobinson` | 15d |
+| [#188](https://github.com/moodys-ma-mdc/mdc-data-search/pull/188) | [MDCPT-84270] Add search relevance triage skill _(draft)_ | `joellerobinson` | 16d |
 | [#92](https://github.com/moodys-ma-mdc/mdc-data-search/pull/92) | Bump requests from 2.32.4 to 2.33.0 in /apps/search-api | `dependabot[bot]` | ~4w |
 | [#146](https://github.com/moodys-ma-mdc/mdc-data-search/pull/146) | Bump python-dotenv from 1.0.0 to 1.2.2 in /apps/search-api | `dependabot[bot]` | ~7w |
 | [#79](https://github.com/moodys-ma-mdc/mdc-data-search/pull/79) | [MDCPT-72383] set aliases _(draft)_ | `sstults-non-empl` | ~3mo |
