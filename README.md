@@ -1,6 +1,6 @@
 # Search/Glue/Ingestion · open PRs
 
-_Auto-generated 2026-06-19 16:34 UTC · covers 11 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
+_Auto-generated 2026-06-19 19:01 UTC · covers 11 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
 
 **[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-search-bot%20repo%3Amoodys-ma-mdc/mdc-data-etl-flaghub-glue%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts%20repo%3Amoodys-ma-mdc/mdc-data-search-preprocessing%20repo%3Amoodys-ma-mdc/mdc-data-search-solr%20repo%3Amoodys-ma-mdc/mdc-data-search-zookeeper%20repo%3Amoodys-ma-mdc/mdc-data-api-search-config%20repo%3Amoodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
 
@@ -43,7 +43,7 @@ _Auto-generated 2026-06-19 16:34 UTC · covers 11 repos in `moodys-ma-mdc` · ex
 | [#325](https://github.com/moodys-ma-mdc/mdc-data-search-quality-scripts/pull/325) | feat[MDCPT-90260]: redesign ablation configs with inert defaults | `dave-moody` | 1d |
 | [#324](https://github.com/moodys-ma-mdc/mdc-data-search-quality-scripts/pull/324) | feat[MDCPT-90260] add F-series labeled datasets and dataset configs | `dave-moody` | 1d |
 | [#320](https://github.com/moodys-ma-mdc/mdc-data-search-quality-scripts/pull/320) | feat[MDCPT-90260] MGM Direct eval framework and ablation suite _(draft)_ | `dave-moody` | 1d |
-| [#323](https://github.com/moodys-ma-mdc/mdc-data-search-quality-scripts/pull/323) | build(deps): bump tornado from 6.5.5 to 6.5.7 in /llm_judge_streamlit | `dependabot[bot]` | 1d |
+| [#323](https://github.com/moodys-ma-mdc/mdc-data-search-quality-scripts/pull/323) | build(deps): bump tornado from 6.5.5 to 6.5.7 in /llm_judge_streamlit | `dependabot[bot]` | 2d |
 | [#322](https://github.com/moodys-ma-mdc/mdc-data-search-quality-scripts/pull/322) | build(deps): bump tornado from 6.5.5 to 6.5.6 | `dependabot[bot]` | 6d |
 | [#319](https://github.com/moodys-ma-mdc/mdc-data-search-quality-scripts/pull/319) | build(deps): bump pyarrow from 15.0.0 to 23.0.1 | `dependabot[bot]` | 13d |
 | [#318](https://github.com/moodys-ma-mdc/mdc-data-search-quality-scripts/pull/318) | build(deps): bump pyarrow from 15.0.0 to 23.0.1 in /llm_judge_streaml… | `dependabot[bot]` | 13d |
@@ -58,7 +58,7 @@ _Auto-generated 2026-06-19 16:34 UTC · covers 11 repos in `moodys-ma-mdc` · ex
 | PR | Title | Author | Age |
 |---|---|---|---|
 | [#227](https://github.com/moodys-ma-mdc/mdc-data-search/pull/227) | [MDCPT-92445] Do not use the expansion index for every call to naviga… | `david-fisher` | 1d |
-| [#225](https://github.com/moodys-ma-mdc/mdc-data-search/pull/225) | [MDCPT-87920] Wire anonymous-api e2e suite into post-deploy pipeline | `moreraj` | 1d |
+| [#225](https://github.com/moodys-ma-mdc/mdc-data-search/pull/225) | [MDCPT-87920] Wire anonymous-api e2e suite into post-deploy pipeline | `moreraj` | 2d |
 | [#224](https://github.com/moodys-ma-mdc/mdc-data-search/pull/224) | chore(deps): bump cryptography from 46.0.7 to 48.0.1 in /apps/search-… | `dependabot[bot]` | 2d |
 | [#188](https://github.com/moodys-ma-mdc/mdc-data-search/pull/188) | [MDCPT-84270] Add search relevance triage skill _(draft)_ | `joellerobinson` | 23d |
 | [#92](https://github.com/moodys-ma-mdc/mdc-data-search/pull/92) | Bump requests from 2.32.4 to 2.33.0 in /apps/search-api | `dependabot[bot]` | ~6w |
