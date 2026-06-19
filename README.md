@@ -1,10 +1,10 @@
 # Search/Glue/Ingestion · open PRs
 
-_Auto-generated 2026-06-19 20:52 UTC · covers 11 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
+_Auto-generated 2026-06-19 22:09 UTC · covers 11 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
 
 **[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-search-bot%20repo%3Amoodys-ma-mdc/mdc-data-etl-flaghub-glue%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts%20repo%3Amoodys-ma-mdc/mdc-data-search-preprocessing%20repo%3Amoodys-ma-mdc/mdc-data-search-solr%20repo%3Amoodys-ma-mdc/mdc-data-search-zookeeper%20repo%3Amoodys-ma-mdc/mdc-data-api-search-config%20repo%3Amoodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
 
-**Stats:** 3 active today · 22 stale (>30d) · 14 dependabot · 10 drafts · **43 total**
+**Stats:** 2 active today · 22 stale (>30d) · 14 dependabot · 10 drafts · **43 total**
 
 <details><summary><b>mdc-data-search-glue</b> · 6 PRs</summary>
 
@@ -23,7 +23,7 @@ _Auto-generated 2026-06-19 20:52 UTC · covers 11 repos in `moodys-ma-mdc` · ex
 
 | PR | Title | Author | Age |
 |---|---|---|---|
-| [#541](https://github.com/moodys-ma-mdc/mdc-search/pull/541) | feat: [MDCPT-92975] Remove Autocomplete | `MaxAgliunin` | **today** |
+| [#541](https://github.com/moodys-ma-mdc/mdc-search/pull/541) | feat: [MDCPT-92975] Remove Autocomplete | `MaxAgliunin` | 1d |
 | [#536](https://github.com/moodys-ma-mdc/mdc-search/pull/536) | [chore] - 2026-03-04-mdcpt-60485-mfe-decoupling _(draft)_ | `github-actions[bot]` | 4d |
 
 </details>
@@ -33,7 +33,7 @@ _Auto-generated 2026-06-19 20:52 UTC · covers 11 repos in `moodys-ma-mdc` · ex
 | PR | Title | Author | Age |
 |---|---|---|---|
 | [#75](https://github.com/moodys-ma-mdc/mdc-search-bot/pull/75) | [MDCPT-XXXXX] phase 32: split.io feature flag gate for frontend | `aftimosm` | 1d |
-| [#72](https://github.com/moodys-ma-mdc/mdc-search-bot/pull/72) | feat: [CHORE] replace webpack proxy with RTK Query + HAProxy-routed U… | `aftimosm` | 1d |
+| [#72](https://github.com/moodys-ma-mdc/mdc-search-bot/pull/72) | feat: [CHORE] replace webpack proxy with RTK Query + HAProxy-routed U… | `aftimosm` | 2d |
 
 </details>
 
@@ -47,7 +47,7 @@ _Auto-generated 2026-06-19 20:52 UTC · covers 11 repos in `moodys-ma-mdc` · ex
 | [#323](https://github.com/moodys-ma-mdc/mdc-data-search-quality-scripts/pull/323) | build(deps): bump tornado from 6.5.5 to 6.5.7 in /llm_judge_streamlit | `dependabot[bot]` | 2d |
 | [#322](https://github.com/moodys-ma-mdc/mdc-data-search-quality-scripts/pull/322) | build(deps): bump tornado from 6.5.5 to 6.5.6 | `dependabot[bot]` | 6d |
 | [#319](https://github.com/moodys-ma-mdc/mdc-data-search-quality-scripts/pull/319) | build(deps): bump pyarrow from 15.0.0 to 23.0.1 | `dependabot[bot]` | 13d |
-| [#318](https://github.com/moodys-ma-mdc/mdc-data-search-quality-scripts/pull/318) | build(deps): bump pyarrow from 15.0.0 to 23.0.1 in /llm_judge_streaml… | `dependabot[bot]` | 13d |
+| [#318](https://github.com/moodys-ma-mdc/mdc-data-search-quality-scripts/pull/318) | build(deps): bump pyarrow from 15.0.0 to 23.0.1 in /llm_judge_streaml… | `dependabot[bot]` | 14d |
 | [#277](https://github.com/moodys-ma-mdc/mdc-data-search-quality-scripts/pull/277) | [MDCPT-65580] Tooling _(draft)_ | `mkr` | ~7w |
 | [#285](https://github.com/moodys-ma-mdc/mdc-data-search-quality-scripts/pull/285) | [CHORE] Current INFO SK -> LCM index document conversion lambda _(draft)_ | `david-fisher` | ~7w |
 | [#99](https://github.com/moodys-ma-mdc/mdc-data-search-quality-scripts/pull/99) | [MDCPT-31210] Code for structured chunk query evaluation / export _(draft)_ | `mkr` | ~2y |
