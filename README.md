@@ -1,10 +1,20 @@
 # Search/Glue/Ingestion · open PRs
 
-_Auto-generated 2026-06-25 22:57 UTC · covers 5 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
+_Auto-generated 2026-06-26 00:19 UTC · covers 6 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
 
-**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts%20repo%3Amoodys-ma-mdc/mdc-data-etl-flaghub-glue&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
+**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-etl-sf-glue%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts%20repo%3Amoodys-ma-mdc/mdc-data-etl-flaghub-glue&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
 
-**Stats:** 5 active today · 8 stale (>30d) · 5 dependabot · 8 drafts · **23 total**
+**Stats:** 6 active today · 10 stale (>30d) · 5 dependabot · 8 drafts · **26 total**
+
+<details><summary><b>mdc-data-etl-sf-glue</b> · 3 PRs</summary>
+
+| PR | Title | Author | Age |
+|---|---|---|---|
+| [#40](https://github.com/moodys-ma-mdc/mdc-data-etl-sf-glue/pull/40) | MDCPT-93798 Flip minimum data filter logic | `afeldman1` | **today** |
+| [#37](https://github.com/moodys-ma-mdc/mdc-data-etl-sf-glue/pull/37) | [chore] Optimize pool perf | `afeldman1` | ~5mo |
+| [#24](https://github.com/moodys-ma-mdc/mdc-data-etl-sf-glue/pull/24) | [Chore] Update load labels | `sarinz` | ~11mo |
+
+</details>
 
 <details><summary><b>mdc-data-search</b> · 8 PRs</summary>
 
