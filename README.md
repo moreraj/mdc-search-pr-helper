@@ -1,20 +1,20 @@
 # Search/Glue/Ingestion · open PRs
 
-_Auto-generated 2026-06-30 16:25 UTC · covers 5 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
+_Auto-generated 2026-06-30 18:19 UTC · covers 7 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
 
-**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-data-search-spark-solr-jobs%20repo%3Amoodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
+**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-data-search-solr%20repo%3Amoodys-ma-mdc/mdc-data-search-spark-solr-jobs%20repo%3Amoodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
 
-**Stats:** 5 active today · 6 stale (>30d) · 9 dependabot · 6 drafts · **22 total**
+**Stats:** 5 active today · 9 stale (>30d) · 9 dependabot · 7 drafts · **27 total**
 
 <details><summary><b>mdc-data-search</b> · 9 PRs</summary>
 
 | PR | Title | Author | Age |
 |---|---|---|---|
-| [#248](https://github.com/moodys-ma-mdc/mdc-data-search/pull/248) | [MDCPT-94015] Replace orbis-deconflict typeahead tests with filter-ba… | `moreraj` | **today** |
 | [#247](https://github.com/moodys-ma-mdc/mdc-data-search/pull/247) | Revert "[MDCPT-93748] add dfs to ai endpoints to compensate for relev… | `joellerobinson` | **today** |
+| [#248](https://github.com/moodys-ma-mdc/mdc-data-search/pull/248) | [MDCPT-94015] Replace orbis-deconflict typeahead tests with filter-ba… | `moreraj` | **today** |
 | [#245](https://github.com/moodys-ma-mdc/mdc-data-search/pull/245) | feat: [MDCPT-93394] add mdc-data-search-ccr-connection-lambda app _(draft)_ | `aftimosm` | 1d |
 | [#236](https://github.com/moodys-ma-mdc/mdc-data-search/pull/236) | [chore] do not HTML escape when rendering the search template for the… | `mkr` | 5d |
-| [#238](https://github.com/moodys-ma-mdc/mdc-data-search/pull/238) | Revert "Revert "[MDCPT-93140] Reject malformed range_filter with 400… | `ahmedhamdyse` | 5d |
+| [#238](https://github.com/moodys-ma-mdc/mdc-data-search/pull/238) | Revert "Revert "[MDCPT-93140] Reject malformed range_filter with 400… | `ahmedhamdyse` | 6d |
 | [#234](https://github.com/moodys-ma-mdc/mdc-data-search/pull/234) | [CHORE] ai include dmc bool conversion | `joellerobinson` | 6d |
 | [#188](https://github.com/moodys-ma-mdc/mdc-data-search/pull/188) | [MDCPT-84270] Add search relevance triage skill _(draft)_ | `joellerobinson` | ~5w |
 | [#79](https://github.com/moodys-ma-mdc/mdc-data-search/pull/79) | [MDCPT-72383] set aliases _(draft)_ | `sstults-non-empl` | ~3mo |
@@ -49,6 +49,18 @@ _Auto-generated 2026-06-30 16:25 UTC · covers 5 repos in `moodys-ma-mdc` · exc
 
 </details>
 
+<details><summary><b>mdc-data-search-glue</b> · 5 PRs</summary>
+
+| PR | Title | Author | Age |
+|---|---|---|---|
+| [#2721](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2721) | [MDCPT-93354] Admin-tool QA tab: daily dashboard, failure debugger &… | `moreraj` | 6d |
+| [#2656](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2656) | [CHORE] Change CODEOWNERS to mdc-search team | `aftimosm` | 15d |
+| [#2520](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2520) | Revert "[CHORE] revert-OS-authentication-to-unblock-STG" | `KavyaOS` | ~3mo |
+| [#2429](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2429) | [CHORE] Add S3 and OS audit job for local dev | `willimarmei` | ~3mo |
+| [#2365](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2365) | [CHORE] Update Antropic lib _(draft)_ | `sstults-non-empl` | ~4mo |
+
+</details>
+
 <details><summary><b>mdc-data-search-quality-scripts</b> · 7 PRs</summary>
 
 | PR | Title | Author | Age |
@@ -62,6 +74,8 @@ _Auto-generated 2026-06-30 16:25 UTC · covers 5 repos in `moodys-ma-mdc` · exc
 | [#99](https://github.com/moodys-ma-mdc/mdc-data-search-quality-scripts/pull/99) | [MDCPT-31210] Code for structured chunk query evaluation / export _(draft)_ | `mkr` | ~2y |
 
 </details>
+
+<sub>Repos with no open PRs: `mdc-data-search-solr`</sub>
 
 ---
 
