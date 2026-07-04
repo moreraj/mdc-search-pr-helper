@@ -1,6 +1,6 @@
 # Search/Glue/Ingestion · open PRs
 
-_Auto-generated 2026-07-03 22:35 UTC · covers 9 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
+_Auto-generated 2026-07-04 00:11 UTC · covers 9 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
 
 **[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-global-search-api%20repo%3Amoodys-ma-mdc/mcfl-astra-glue-etl%20repo%3Amoodys-ma-mdc/mdc-data-api-search-config-v2%20repo%3Amoodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-data-search-solr&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
 
@@ -57,7 +57,7 @@ _Auto-generated 2026-07-03 22:35 UTC · covers 9 repos in `moodys-ma-mdc` · exc
 |---|---|---|---|
 | [#39](https://github.com/moodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2/pull/39) | Bump com.fasterxml.jackson.core:jackson-databind from 2.17.0 to 2.22.0 | `dependabot[bot]` | 3d |
 | [#38](https://github.com/moodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2/pull/38) | Bump io.netty:netty-codec-http from 4.1.125.Final to 4.1.135.Final | `dependabot[bot]` | 17d |
-| [#37](https://github.com/moodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2/pull/37) | Bump io.netty:netty-codec-http2 from 4.1.125.Final to 4.1.135.Final | `dependabot[bot]` | 24d |
+| [#37](https://github.com/moodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2/pull/37) | Bump io.netty:netty-codec-http2 from 4.1.125.Final to 4.1.135.Final | `dependabot[bot]` | 25d |
 | [#36](https://github.com/moodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2/pull/36) | Bump io.netty:netty-handler from 4.1.118.Final to 4.1.135.Final | `dependabot[bot]` | 25d |
 
 </details>
@@ -75,7 +75,7 @@ _Auto-generated 2026-07-03 22:35 UTC · covers 9 repos in `moodys-ma-mdc` · exc
 | PR | Title | Author | Age |
 |---|---|---|---|
 | [#323](https://github.com/moodys-ma-mdc/mdc-data-search-quality-scripts/pull/323) | build(deps): bump tornado from 6.5.5 to 6.5.7 in /llm_judge_streamlit | `dependabot[bot]` | 16d |
-| [#322](https://github.com/moodys-ma-mdc/mdc-data-search-quality-scripts/pull/322) | build(deps): bump tornado from 6.5.5 to 6.5.6 | `dependabot[bot]` | 20d |
+| [#322](https://github.com/moodys-ma-mdc/mdc-data-search-quality-scripts/pull/322) | build(deps): bump tornado from 6.5.5 to 6.5.6 | `dependabot[bot]` | 21d |
 | [#319](https://github.com/moodys-ma-mdc/mdc-data-search-quality-scripts/pull/319) | build(deps): bump pyarrow from 15.0.0 to 23.0.1 | `dependabot[bot]` | 27d |
 | [#318](https://github.com/moodys-ma-mdc/mdc-data-search-quality-scripts/pull/318) | build(deps): bump pyarrow from 15.0.0 to 23.0.1 in /llm_judge_streaml… | `dependabot[bot]` | 28d |
 | [#277](https://github.com/moodys-ma-mdc/mdc-data-search-quality-scripts/pull/277) | [MDCPT-65580] Tooling _(draft)_ | `mkr` | ~2mo |
