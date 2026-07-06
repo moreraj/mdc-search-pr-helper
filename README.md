@@ -1,15 +1,16 @@
 # Search/Glue/Ingestion · open PRs
 
-_Auto-generated 2026-07-06 19:00 UTC · covers 7 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
+_Auto-generated 2026-07-06 21:12 UTC · covers 6 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
 
-**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-data-api-search-config-v2%20repo%3Amoodys-ma-mdc/mcfl-orion-portfolio-ingestion%20repo%3Amoodys-ma-mdc/mdc-global-search-api%20repo%3Amoodys-ma-mdc/mcfl-astra-glue-etl&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
+**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-data-api-search-config-v2%20repo%3Amoodys-ma-mdc/mcfl-orion-portfolio-ingestion%20repo%3Amoodys-ma-mdc/mdc-global-search-api&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
 
-**Stats:** 1 active today · 8 stale (>30d) · 2 dependabot · 3 drafts · **15 total**
+**Stats:** 2 active today · 8 stale (>30d) · 2 dependabot · 3 drafts · **16 total**
 
-<details><summary><b>mdc-data-search</b> · 6 PRs</summary>
+<details><summary><b>mdc-data-search</b> · 7 PRs</summary>
 
 | PR | Title | Author | Age |
 |---|---|---|---|
+| [#257](https://github.com/moodys-ma-mdc/mdc-data-search/pull/257) | [MDCPT-90981] add new return fields for peers | `joellerobinson` | **today** |
 | [#254](https://github.com/moodys-ma-mdc/mdc-data-search/pull/254) | [MDCPT-93748] Make G&S tmpl match org; add listing status boost for e… | `joellerobinson` | **today** |
 | [#238](https://github.com/moodys-ma-mdc/mdc-data-search/pull/238) | Revert "Revert "[MDCPT-93140] Reject malformed range_filter with 400… | `ahmedhamdyse` | 12d |
 | [#234](https://github.com/moodys-ma-mdc/mdc-data-search/pull/234) | [CHORE] ai include dmc bool conversion | `joellerobinson` | 13d |
@@ -41,7 +42,7 @@ _Auto-generated 2026-07-06 19:00 UTC · covers 7 repos in `moodys-ma-mdc` · exc
 
 | PR | Title | Author | Age |
 |---|---|---|---|
-| [#2721](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2721) | [MDCPT-93354] Admin-tool QA tab: daily dashboard, failure debugger &… | `moreraj` | 12d |
+| [#2721](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2721) | [MDCPT-93354] Admin-tool QA tab: daily dashboard, failure debugger &… | `moreraj` | 13d |
 | [#2656](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2656) | [CHORE] Change CODEOWNERS to mdc-search team | `aftimosm` | 21d |
 | [#2520](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2520) | Revert "[CHORE] revert-OS-authentication-to-unblock-STG" | `KavyaOS` | ~3mo |
 | [#2429](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2429) | [CHORE] Add S3 and OS audit job for local dev | `willimarmei` | ~4mo |
@@ -49,7 +50,7 @@ _Auto-generated 2026-07-06 19:00 UTC · covers 7 repos in `moodys-ma-mdc` · exc
 
 </details>
 
-<sub>Repos with no open PRs: `mdc-search`, `mcfl-orion-portfolio-ingestion`, `mcfl-astra-glue-etl`</sub>
+<sub>Repos with no open PRs: `mdc-search`, `mcfl-orion-portfolio-ingestion`</sub>
 
 ---
 
