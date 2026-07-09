@@ -1,15 +1,16 @@
 # Search/Glue/Ingestion · open PRs
 
-_Auto-generated 2026-07-09 20:51 UTC · covers 10 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
+_Auto-generated 2026-07-09 22:36 UTC · covers 10 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
 
 **[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-global-search-api%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mcfl-orion-portfolio-ingestion%20repo%3Amoodys-ma-mdc/mcfl-astra-glue-etl%20repo%3Amoodys-ma-mdc/mdc-data-search-preprocessing%20repo%3Amoodys-ma-mdc/di-data-api-search%20repo%3Amoodys-ma-mdc/mdc-data-api-search-config-v2%20repo%3Amoodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
 
-**Stats:** 11 active today · 35 stale (>30d) · 14 dependabot · 5 drafts · **52 total**
+**Stats:** 12 active today · 35 stale (>30d) · 14 dependabot · 5 drafts · **53 total**
 
-<details><summary><b>mdc-data-search</b> · 10 PRs</summary>
+<details><summary><b>mdc-data-search</b> · 11 PRs</summary>
 
 | PR | Title | Author | Age |
 |---|---|---|---|
+| [#272](https://github.com/moodys-ma-mdc/mdc-data-search/pull/272) | [MDCPT-95236] Point anonymous-api e2e at new /anonymous-search/api/*… | `moreraj` | **today** |
 | [#271](https://github.com/moodys-ma-mdc/mdc-data-search/pull/271) | [MDCPT-95030] peer group | `KavyaOS` | **today** |
 | [#269](https://github.com/moodys-ma-mdc/mdc-data-search/pull/269) | [MDCPT-90557] - Feat/mdcpt 90557 sector global search | `aftimosm` | **today** |
 | [#234](https://github.com/moodys-ma-mdc/mdc-data-search/pull/234) | [CHORE] ai include dmc bool conversion | `joellerobinson` | **today** |
@@ -27,7 +28,7 @@ _Auto-generated 2026-07-09 20:51 UTC · covers 10 repos in `moodys-ma-mdc` · ex
 
 | PR | Title | Author | Age |
 |---|---|---|---|
-| [#554](https://github.com/moodys-ma-mdc/mdc-search/pull/554) | feat: [MDCPT-94831] Add page content info to search results page | `MaxAgliunin` | **today** |
+| [#555](https://github.com/moodys-ma-mdc/mdc-search/pull/555) | feat: [MDCPT-90894] New exp exact match for orgs and deals | `MaxAgliunin` | **today** |
 
 </details>
 
