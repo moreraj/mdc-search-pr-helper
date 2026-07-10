@@ -1,42 +1,25 @@
 # Search/Glue/Ingestion · open PRs
 
-_Auto-generated 2026-07-10 00:11 UTC · covers 10 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
+_Auto-generated 2026-07-10 16:28 UTC · covers 10 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
 
-**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-global-search-api%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mcfl-orion-portfolio-ingestion%20repo%3Amoodys-ma-mdc/mcfl-astra-glue-etl%20repo%3Amoodys-ma-mdc/mdc-data-search-preprocessing%20repo%3Amoodys-ma-mdc/di-data-api-search%20repo%3Amoodys-ma-mdc/mdc-data-api-search-config-v2%20repo%3Amoodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
+**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-global-search-api%20repo%3Amoodys-ma-mdc/di-data-api-search%20repo%3Amoodys-ma-mdc/mcfl-orion-portfolio-ingestion%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mcfl-astra-glue-etl%20repo%3Amoodys-ma-mdc/mdc-data-search-preprocessing%20repo%3Amoodys-ma-mdc/mdc-data-api-search-config-v2%20repo%3Amoodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
 
-**Stats:** 12 active today · 35 stale (>30d) · 14 dependabot · 5 drafts · **53 total**
+**Stats:** 3 active today · 35 stale (>30d) · 14 dependabot · 5 drafts · **50 total**
 
-<details><summary><b>mdc-data-search</b> · 11 PRs</summary>
+<details><summary><b>mdc-data-search</b> · 10 PRs</summary>
 
 | PR | Title | Author | Age |
 |---|---|---|---|
 | [#272](https://github.com/moodys-ma-mdc/mdc-data-search/pull/272) | [MDCPT-95236] Point anonymous-api e2e at new /anonymous-search/api/*… | `moreraj` | **today** |
-| [#271](https://github.com/moodys-ma-mdc/mdc-data-search/pull/271) | [MDCPT-95030] peer group | `KavyaOS` | **today** |
 | [#269](https://github.com/moodys-ma-mdc/mdc-data-search/pull/269) | [MDCPT-90557] - Feat/mdcpt 90557 sector global search | `aftimosm` | **today** |
-| [#234](https://github.com/moodys-ma-mdc/mdc-data-search/pull/234) | [CHORE] ai include dmc bool conversion | `joellerobinson` | **today** |
-| [#262](https://github.com/moodys-ma-mdc/mdc-data-search/pull/262) | [MDCPT-93340] Fix domicile semicolon shorthand filter | `sstults-non-empl` | **today** |
-| [#266](https://github.com/moodys-ma-mdc/mdc-data-search/pull/266) | [MDCPT-93755] Anchor typeahead suggestions to query prefix | `sstults-non-empl` | **today** |
-| [#263](https://github.com/moodys-ma-mdc/mdc-data-search/pull/263) | [MDCPT-93755] Add highlighting to typeahead v2 suggestion results | `sstults-non-empl` | **today** |
+| [#234](https://github.com/moodys-ma-mdc/mdc-data-search/pull/234) | [CHORE] ai include dmc bool conversion | `joellerobinson` | 1d |
+| [#262](https://github.com/moodys-ma-mdc/mdc-data-search/pull/262) | [MDCPT-93340] Fix domicile semicolon shorthand filter | `sstults-non-empl` | 1d |
+| [#266](https://github.com/moodys-ma-mdc/mdc-data-search/pull/266) | [MDCPT-93755] Anchor typeahead suggestions to query prefix | `sstults-non-empl` | 1d |
+| [#263](https://github.com/moodys-ma-mdc/mdc-data-search/pull/263) | [MDCPT-93755] Add highlighting to typeahead v2 suggestion results | `sstults-non-empl` | 1d |
 | [#238](https://github.com/moodys-ma-mdc/mdc-data-search/pull/238) | Revert "Revert "[MDCPT-93140] Reject malformed range_filter with 400… | `ahmedhamdyse` | 15d |
 | [#188](https://github.com/moodys-ma-mdc/mdc-data-search/pull/188) | [MDCPT-84270] Add search relevance triage skill _(draft)_ | `joellerobinson` | ~6w |
 | [#79](https://github.com/moodys-ma-mdc/mdc-data-search/pull/79) | [MDCPT-72383] set aliases _(draft)_ | `sstults-non-empl` | ~4mo |
 | [#46](https://github.com/moodys-ma-mdc/mdc-data-search/pull/46) | [MDCPT-79710] Add semantic release and release check GitHub Actions. | `ahmedhamdyse` | ~4mo |
-
-</details>
-
-<details><summary><b>mdc-search</b> · 1 PRs</summary>
-
-| PR | Title | Author | Age |
-|---|---|---|---|
-| [#555](https://github.com/moodys-ma-mdc/mdc-search/pull/555) | feat: [MDCPT-90894] New exp exact match for orgs and deals | `MaxAgliunin` | **today** |
-
-</details>
-
-<details><summary><b>mdc-global-search-api</b> · 1 PRs</summary>
-
-| PR | Title | Author | Age |
-|---|---|---|---|
-| [#131](https://github.com/moodys-ma-mdc/mdc-global-search-api/pull/131) | feat: [MDCPT-86930] add aiMultisearch Lambda proxying /ai/multisearch | `aftimosm` | **today** |
 
 </details>
 
@@ -46,7 +29,7 @@ _Auto-generated 2026-07-10 00:11 UTC · covers 10 repos in `moodys-ma-mdc` · ex
 |---|---|---|---|
 | [#2756](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2756) | [MDCPT-92597] Add orgv2 error-sink absence check to S3-to-OS PRAVs | `ZurielTMoodys` | **today** |
 | [#2721](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2721) | [MDCPT-93354] Admin-tool QA tab: daily dashboard, failure debugger &… | `moreraj` | 16d |
-| [#2656](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2656) | [CHORE] Change CODEOWNERS to mdc-search team | `aftimosm` | 24d |
+| [#2656](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2656) | [CHORE] Change CODEOWNERS to mdc-search team | `aftimosm` | 25d |
 | [#2520](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2520) | Revert "[CHORE] revert-OS-authentication-to-unblock-STG" | `KavyaOS` | ~3mo |
 | [#2429](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2429) | [CHORE] Add S3 and OS audit job for local dev | `willimarmei` | ~4mo |
 | [#2365](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2365) | [CHORE] Update Antropic lib _(draft)_ | `sstults-non-empl` | ~4mo |
@@ -57,10 +40,10 @@ _Auto-generated 2026-07-10 00:11 UTC · covers 10 repos in `moodys-ma-mdc` · ex
 
 | PR | Title | Author | Age |
 |---|---|---|---|
-| [#36](https://github.com/moodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2/pull/36) | Bump io.netty:netty-handler from 4.1.118.Final to 4.1.135.Final | `dependabot[bot]` | **today** |
-| [#37](https://github.com/moodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2/pull/37) | Bump io.netty:netty-codec-http2 from 4.1.125.Final to 4.1.135.Final | `dependabot[bot]` | **today** |
-| [#39](https://github.com/moodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2/pull/39) | Bump com.fasterxml.jackson.core:jackson-databind from 2.17.0 to 2.22.0 | `dependabot[bot]` | 9d |
-| [#38](https://github.com/moodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2/pull/38) | Bump io.netty:netty-codec-http from 4.1.125.Final to 4.1.135.Final | `dependabot[bot]` | 23d |
+| [#36](https://github.com/moodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2/pull/36) | Bump io.netty:netty-handler from 4.1.118.Final to 4.1.135.Final | `dependabot[bot]` | 1d |
+| [#37](https://github.com/moodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2/pull/37) | Bump io.netty:netty-codec-http2 from 4.1.125.Final to 4.1.135.Final | `dependabot[bot]` | 1d |
+| [#39](https://github.com/moodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2/pull/39) | Bump com.fasterxml.jackson.core:jackson-databind from 2.17.0 to 2.22.0 | `dependabot[bot]` | 10d |
+| [#38](https://github.com/moodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2/pull/38) | Bump io.netty:netty-codec-http from 4.1.125.Final to 4.1.135.Final | `dependabot[bot]` | 24d |
 
 </details>
 
@@ -115,7 +98,7 @@ _Auto-generated 2026-07-10 00:11 UTC · covers 10 repos in `moodys-ma-mdc` · ex
 
 </details>
 
-<sub>Repos with no open PRs: `mcfl-orion-portfolio-ingestion`, `mcfl-astra-glue-etl`</sub>
+<sub>Repos with no open PRs: `mdc-search`, `mdc-global-search-api`, `mcfl-orion-portfolio-ingestion`, `mcfl-astra-glue-etl`</sub>
 
 ---
 
