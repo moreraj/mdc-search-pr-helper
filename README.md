@@ -1,8 +1,8 @@
 # Search/Glue/Ingestion · open PRs
 
-_Auto-generated 2026-07-13 16:38 UTC · covers 8 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
+_Auto-generated 2026-07-13 18:46 UTC · covers 8 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
 
-**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mcfl-orion-portfolio-ingestion%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-global-search-api%20repo%3Amoodys-ma-mdc/di-data-api-search%20repo%3Amoodys-ma-mdc/mcfl-astra-glue-etl%20repo%3Amoodys-ma-mdc/mdc-data-search-preprocessing&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
+**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mcfl-orion-portfolio-ingestion%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-global-search-api%20repo%3Amoodys-ma-mdc/di-data-api-search%20repo%3Amoodys-ma-mdc/mcfl-astra-glue-etl%20repo%3Amoodys-ma-mdc/mdc-data-search-preprocessing&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
 
 **Stats:** 3 active today · 33 stale (>30d) · 8 dependabot · 5 drafts · **41 total**
 
@@ -27,7 +27,7 @@ _Auto-generated 2026-07-13 16:38 UTC · covers 8 repos in `moodys-ma-mdc` · exc
 | [#272](https://github.com/moodys-ma-mdc/mdc-data-search/pull/272) | [MDCPT-95236] Point anonymous-api e2e at new /anonymous-search/api/*… | `moreraj` | 3d |
 | [#234](https://github.com/moodys-ma-mdc/mdc-data-search/pull/234) | [CHORE] ai include dmc bool conversion | `joellerobinson` | 4d |
 | [#262](https://github.com/moodys-ma-mdc/mdc-data-search/pull/262) | [MDCPT-93340] Fix domicile semicolon shorthand filter | `sstults-non-empl` | 4d |
-| [#238](https://github.com/moodys-ma-mdc/mdc-data-search/pull/238) | Revert "Revert "[MDCPT-93140] Reject malformed range_filter with 400… | `ahmedhamdyse` | 18d |
+| [#238](https://github.com/moodys-ma-mdc/mdc-data-search/pull/238) | Revert "Revert "[MDCPT-93140] Reject malformed range_filter with 400… | `ahmedhamdyse` | 19d |
 | [#188](https://github.com/moodys-ma-mdc/mdc-data-search/pull/188) | [MDCPT-84270] Add search relevance triage skill _(draft)_ | `joellerobinson` | ~7w |
 | [#79](https://github.com/moodys-ma-mdc/mdc-data-search/pull/79) | [MDCPT-72383] set aliases _(draft)_ | `sstults-non-empl` | ~4mo |
 | [#46](https://github.com/moodys-ma-mdc/mdc-data-search/pull/46) | [MDCPT-79710] Add semantic release and release check GitHub Actions. | `ahmedhamdyse` | ~5mo |
@@ -51,7 +51,7 @@ _Auto-generated 2026-07-13 16:38 UTC · covers 8 repos in `moodys-ma-mdc` · exc
 | [#190](https://github.com/moodys-ma-mdc/di-data-api-search/pull/190) | Bump io.netty:netty-codec-http from 4.2.5.Final to 4.2.8.Final | `dependabot[bot]` | ~7mo |
 | [#187](https://github.com/moodys-ma-mdc/di-data-api-search/pull/187) | [CHORE] Add more details to readme | `willimarmei` | ~8mo |
 | [#186](https://github.com/moodys-ma-mdc/di-data-api-search/pull/186) | [Snyk] Security upgrade org.apache.solr:solr-core from 9.5.0 to 9.10.0 | `sys-prod-devops-cicd` | ~8mo |
-| [#161](https://github.com/moodys-ma-mdc/di-data-api-search/pull/161) | Bump org.eclipse.jetty.http2:http2-common from 11.0.20 to 11.0.26 | `dependabot[bot]` | ~8mo |
+| [#161](https://github.com/moodys-ma-mdc/di-data-api-search/pull/161) | Bump org.eclipse.jetty.http2:http2-common from 11.0.20 to 11.0.26 | `dependabot[bot]` | ~9mo |
 | [#179](https://github.com/moodys-ma-mdc/di-data-api-search/pull/179) | [Snyk] Fix for 2 vulnerabilities | `sys-prod-devops-cicd` | ~9mo |
 | [#174](https://github.com/moodys-ma-mdc/di-data-api-search/pull/174) | [Snyk] Security upgrade org.apache.spark:spark-core_2.12 from 3.3.3 t… | `sys-prod-devops-cicd` | ~9mo |
 | [#171](https://github.com/moodys-ma-mdc/di-data-api-search/pull/171) | [Snyk] Security upgrade org.apache.zookeeper:zookeeper from 3.9.3 to… | `sys-prod-devops-cicd` | ~10mo |
