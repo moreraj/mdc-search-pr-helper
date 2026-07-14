@@ -1,22 +1,10 @@
 # Search/Glue/Ingestion · open PRs
 
-_Auto-generated 2026-07-13 23:58 UTC · covers 10 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
+_Auto-generated 2026-07-14 15:27 UTC · covers 10 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
 
-**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts%20repo%3Amoodys-ma-mdc/mdc-data-api-search-config%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mcfl-orion-portfolio-ingestion%20repo%3Amoodys-ma-mdc/mdc-global-search-api%20repo%3Amoodys-ma-mdc/di-data-api-search%20repo%3Amoodys-ma-mdc/mcfl-astra-glue-etl%20repo%3Amoodys-ma-mdc/mdc-data-search-preprocessing&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
+**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mcfl-orion-portfolio-ingestion%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts%20repo%3Amoodys-ma-mdc/mdc-data-api-search-config%20repo%3Amoodys-ma-mdc/mdc-global-search-api%20repo%3Amoodys-ma-mdc/di-data-api-search%20repo%3Amoodys-ma-mdc/mcfl-astra-glue-etl%20repo%3Amoodys-ma-mdc/mdc-data-search-preprocessing&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
 
-**Stats:** 7 active today · 44 stale (>30d) · 17 dependabot · 8 drafts · **57 total**
-
-<details><summary><b>mdc-data-search-glue</b> · 5 PRs</summary>
-
-| PR | Title | Author | Age |
-|---|---|---|---|
-| [#2761](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2761) | [MDCPT-95508] Dedupe research_sector on (publication_id, owl_id) befo… | `ahmedhamdyse` | **today** |
-| [#2656](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2656) | [CHORE] Change CODEOWNERS to mdc-search team | `aftimosm` | 28d |
-| [#2520](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2520) | Revert "[CHORE] revert-OS-authentication-to-unblock-STG" | `KavyaOS` | ~3mo |
-| [#2429](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2429) | [CHORE] Add S3 and OS audit job for local dev | `willimarmei` | ~4mo |
-| [#2365](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2365) | [CHORE] Update Antropic lib _(draft)_ | `sstults-non-empl` | ~4mo |
-
-</details>
+**Stats:** 4 active today · 41 stale (>30d) · 11 dependabot · 8 drafts · **51 total**
 
 <details><summary><b>mdc-search</b> · 2 PRs</summary>
 
@@ -27,35 +15,41 @@ _Auto-generated 2026-07-13 23:58 UTC · covers 10 repos in `moodys-ma-mdc` · ex
 
 </details>
 
-<details><summary><b>mdc-data-search-quality-scripts</b> · 9 PRs</summary>
-
-| PR | Title | Author | Age |
-|---|---|---|---|
-| [#329](https://github.com/moodys-ma-mdc/mdc-data-search-quality-scripts/pull/329) | build(deps): bump transformers from 5.3.0 to 5.5.0 | `dependabot[bot]` | **today** |
-| [#328](https://github.com/moodys-ma-mdc/mdc-data-search-quality-scripts/pull/328) | build(deps): bump transformers from 5.3.0 to 5.5.0 in /NerComparison | `dependabot[bot]` | **today** |
-| [#323](https://github.com/moodys-ma-mdc/mdc-data-search-quality-scripts/pull/323) | build(deps): bump tornado from 6.5.5 to 6.5.7 in /llm_judge_streamlit | `dependabot[bot]` | 26d |
-| [#322](https://github.com/moodys-ma-mdc/mdc-data-search-quality-scripts/pull/322) | build(deps): bump tornado from 6.5.5 to 6.5.6 | `dependabot[bot]` | ~4w |
-| [#319](https://github.com/moodys-ma-mdc/mdc-data-search-quality-scripts/pull/319) | build(deps): bump pyarrow from 15.0.0 to 23.0.1 | `dependabot[bot]` | ~5w |
-| [#318](https://github.com/moodys-ma-mdc/mdc-data-search-quality-scripts/pull/318) | build(deps): bump pyarrow from 15.0.0 to 23.0.1 in /llm_judge_streaml… | `dependabot[bot]` | ~5w |
-| [#277](https://github.com/moodys-ma-mdc/mdc-data-search-quality-scripts/pull/277) | [MDCPT-65580] Tooling _(draft)_ | `mkr` | ~2mo |
-| [#285](https://github.com/moodys-ma-mdc/mdc-data-search-quality-scripts/pull/285) | [CHORE] Current INFO SK -> LCM index document conversion lambda _(draft)_ | `david-fisher` | ~2mo |
-| [#99](https://github.com/moodys-ma-mdc/mdc-data-search-quality-scripts/pull/99) | [MDCPT-31210] Code for structured chunk query evaluation / export _(draft)_ | `mkr` | ~2y |
-
-</details>
-
 <details><summary><b>mdc-data-search</b> · 9 PRs</summary>
 
 | PR | Title | Author | Age |
 |---|---|---|---|
 | [#274](https://github.com/moodys-ma-mdc/mdc-data-search/pull/274) | [MDCPT-92612] use dynamic template for org_has_* in eai templates | `lkocharian` | **today** |
-| [#266](https://github.com/moodys-ma-mdc/mdc-data-search/pull/266) | [MDCPT-93755] Anchor typeahead suggestions to query prefix | `sstults-non-empl` | **today** |
-| [#272](https://github.com/moodys-ma-mdc/mdc-data-search/pull/272) | [MDCPT-95236] Point anonymous-api e2e at new /anonymous-search/api/*… | `moreraj` | 3d |
-| [#234](https://github.com/moodys-ma-mdc/mdc-data-search/pull/234) | [CHORE] ai include dmc bool conversion | `joellerobinson` | 4d |
-| [#262](https://github.com/moodys-ma-mdc/mdc-data-search/pull/262) | [MDCPT-93340] Fix domicile semicolon shorthand filter | `sstults-non-empl` | 4d |
+| [#266](https://github.com/moodys-ma-mdc/mdc-data-search/pull/266) | [MDCPT-93755] Anchor typeahead suggestions to query prefix | `sstults-non-empl` | 1d |
+| [#272](https://github.com/moodys-ma-mdc/mdc-data-search/pull/272) | [MDCPT-95236] Point anonymous-api e2e at new /anonymous-search/api/*… | `moreraj` | 4d |
+| [#234](https://github.com/moodys-ma-mdc/mdc-data-search/pull/234) | [CHORE] ai include dmc bool conversion | `joellerobinson` | 5d |
+| [#262](https://github.com/moodys-ma-mdc/mdc-data-search/pull/262) | [MDCPT-93340] Fix domicile semicolon shorthand filter | `sstults-non-empl` | 5d |
 | [#238](https://github.com/moodys-ma-mdc/mdc-data-search/pull/238) | Revert "Revert "[MDCPT-93140] Reject malformed range_filter with 400… | `ahmedhamdyse` | 19d |
 | [#188](https://github.com/moodys-ma-mdc/mdc-data-search/pull/188) | [MDCPT-84270] Add search relevance triage skill _(draft)_ | `joellerobinson` | ~7w |
 | [#79](https://github.com/moodys-ma-mdc/mdc-data-search/pull/79) | [MDCPT-72383] set aliases _(draft)_ | `sstults-non-empl` | ~4mo |
 | [#46](https://github.com/moodys-ma-mdc/mdc-data-search/pull/46) | [MDCPT-79710] Add semantic release and release check GitHub Actions. | `ahmedhamdyse` | ~5mo |
+
+</details>
+
+<details><summary><b>mdc-data-search-glue</b> · 5 PRs</summary>
+
+| PR | Title | Author | Age |
+|---|---|---|---|
+| [#2762](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2762) | [MDCPT-95499] update EAI org_has* and has_* to be of type boolean | `lkocharian` | **today** |
+| [#2656](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2656) | [CHORE] Change CODEOWNERS to mdc-search team | `aftimosm` | 29d |
+| [#2520](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2520) | Revert "[CHORE] revert-OS-authentication-to-unblock-STG" | `KavyaOS` | ~3mo |
+| [#2429](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2429) | [CHORE] Add S3 and OS audit job for local dev | `willimarmei` | ~4mo |
+| [#2365](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2365) | [CHORE] Update Antropic lib _(draft)_ | `sstults-non-empl` | ~4mo |
+
+</details>
+
+<details><summary><b>mdc-data-search-quality-scripts</b> · 3 PRs</summary>
+
+| PR | Title | Author | Age |
+|---|---|---|---|
+| [#277](https://github.com/moodys-ma-mdc/mdc-data-search-quality-scripts/pull/277) | [MDCPT-65580] Tooling _(draft)_ | `mkr` | ~3mo |
+| [#285](https://github.com/moodys-ma-mdc/mdc-data-search-quality-scripts/pull/285) | [CHORE] Current INFO SK -> LCM index document conversion lambda _(draft)_ | `david-fisher` | ~3mo |
+| [#99](https://github.com/moodys-ma-mdc/mdc-data-search-quality-scripts/pull/99) | [MDCPT-31210] Code for structured chunk query evaluation / export _(draft)_ | `mkr` | ~2y |
 
 </details>
 
