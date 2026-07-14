@@ -1,31 +1,31 @@
 # Search/Glue/Ingestion · open PRs
 
-_Auto-generated 2026-07-14 16:47 UTC · covers 9 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
+_Auto-generated 2026-07-14 18:09 UTC · covers 9 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
 
-**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mcfl-orion-portfolio-ingestion%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts%20repo%3Amoodys-ma-mdc/mdc-data-api-search-config%20repo%3Amoodys-ma-mdc/mdc-global-search-api%20repo%3Amoodys-ma-mdc/di-data-api-search%20repo%3Amoodys-ma-mdc/mcfl-astra-glue-etl&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
+**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mcfl-orion-portfolio-ingestion%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts%20repo%3Amoodys-ma-mdc/mdc-data-api-search-config%20repo%3Amoodys-ma-mdc/mdc-global-search-api%20repo%3Amoodys-ma-mdc/di-data-api-search%20repo%3Amoodys-ma-mdc/mcfl-astra-glue-etl&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
 
-**Stats:** 1 active today · 34 stale (>30d) · 9 dependabot · 6 drafts · **41 total**
-
-<details><summary><b>mdc-search</b> · 1 PRs</summary>
-
-| PR | Title | Author | Age |
-|---|---|---|---|
-| [#556](https://github.com/moodys-ma-mdc/mdc-search/pull/556) | feat: [MDCPT-90557] add Sectors tab to results page | `aftimosm` | **today** |
-
-</details>
+**Stats:** 3 active today · 34 stale (>30d) · 9 dependabot · 7 drafts · **41 total**
 
 <details><summary><b>mdc-data-search</b> · 8 PRs</summary>
 
 | PR | Title | Author | Age |
 |---|---|---|---|
-| [#266](https://github.com/moodys-ma-mdc/mdc-data-search/pull/266) | [MDCPT-93755] Anchor typeahead suggestions to query prefix | `sstults-non-empl` | 1d |
+| [#262](https://github.com/moodys-ma-mdc/mdc-data-search/pull/262) | [MDCPT-93340] Fix domicile semicolon shorthand filter | `sstults-non-empl` | **today** |
+| [#276](https://github.com/moodys-ma-mdc/mdc-data-search/pull/276) | [MDCPT-95642] Exclude native-org records from typeahead orbis invaria… | `moreraj` | **today** |
 | [#272](https://github.com/moodys-ma-mdc/mdc-data-search/pull/272) | [MDCPT-95236] Point anonymous-api e2e at new /anonymous-search/api/*… | `moreraj` | 4d |
 | [#234](https://github.com/moodys-ma-mdc/mdc-data-search/pull/234) | [CHORE] ai include dmc bool conversion | `joellerobinson` | 5d |
-| [#262](https://github.com/moodys-ma-mdc/mdc-data-search/pull/262) | [MDCPT-93340] Fix domicile semicolon shorthand filter | `sstults-non-empl` | 5d |
-| [#238](https://github.com/moodys-ma-mdc/mdc-data-search/pull/238) | Revert "Revert "[MDCPT-93140] Reject malformed range_filter with 400… | `ahmedhamdyse` | 19d |
+| [#238](https://github.com/moodys-ma-mdc/mdc-data-search/pull/238) | Revert "Revert "[MDCPT-93140] Reject malformed range_filter with 400… | `ahmedhamdyse` | 20d |
 | [#188](https://github.com/moodys-ma-mdc/mdc-data-search/pull/188) | [MDCPT-84270] Add search relevance triage skill _(draft)_ | `joellerobinson` | ~7w |
 | [#79](https://github.com/moodys-ma-mdc/mdc-data-search/pull/79) | [MDCPT-72383] set aliases _(draft)_ | `sstults-non-empl` | ~4mo |
 | [#46](https://github.com/moodys-ma-mdc/mdc-data-search/pull/46) | [MDCPT-79710] Add semantic release and release check GitHub Actions. | `ahmedhamdyse` | ~5mo |
+
+</details>
+
+<details><summary><b>mdc-search</b> · 1 PRs</summary>
+
+| PR | Title | Author | Age |
+|---|---|---|---|
+| [#557](https://github.com/moodys-ma-mdc/mdc-search/pull/557) | feat: [MDCPT-94831] search-bar analytics improvements _(draft)_ | `aftimosm` | **today** |
 
 </details>
 
