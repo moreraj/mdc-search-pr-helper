@@ -1,16 +1,16 @@
 # Search/Glue/Ingestion · open PRs
 
-_Auto-generated 2026-07-20 21:44 UTC · covers 4 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
+_Auto-generated 2026-07-20 23:05 UTC · covers 4 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
 
 **[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mcfl-orion-portfolio-ingestion&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
 
-**Stats:** 7 active today · 7 stale (>30d) · 0 dependabot · 4 drafts · **17 total**
+**Stats:** 7 active today · 7 stale (>30d) · 0 dependabot · 3 drafts · **17 total**
 
 <details><summary><b>mdc-data-search-glue</b> · 8 PRs</summary>
 
 | PR | Title | Author | Age |
 |---|---|---|---|
-| [#2778](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2778) | [MDCPT-92600] orgv2 s3 os field value conformance _(draft)_ | `ZurielTMoodys` | **today** |
+| [#2778](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2778) | [MDCPT-92600] orgv2 s3 os field value conformance | `ZurielTMoodys` | **today** |
 | [#2774](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2774) | [MDCPT-95684] fail loud on unresolved Postgres host. | `ahmedhamdyse` | **today** |
 | [#2775](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2775) | [MDCPT-96280] fail loud on unresolved Postgres host (orchestration). | `ahmedhamdyse` | **today** |
 | [#2767](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2767) | [MDCPT-95601] Fix research-sector S3-to-postgres KeyError on empty/un… | `ahmedhamdyse` | 6d |
