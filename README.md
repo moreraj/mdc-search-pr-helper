@@ -1,10 +1,10 @@
 # Search/Glue/Ingestion · open PRs
 
-_Auto-generated 2026-07-20 23:05 UTC · covers 4 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
+_Auto-generated 2026-07-21 01:00 UTC · covers 4 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
 
-**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mcfl-orion-portfolio-ingestion&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
+**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mcfl-orion-portfolio-ingestion&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
 
-**Stats:** 7 active today · 7 stale (>30d) · 0 dependabot · 3 drafts · **17 total**
+**Stats:** 6 active today · 7 stale (>30d) · 0 dependabot · 3 drafts · **16 total**
 
 <details><summary><b>mdc-data-search-glue</b> · 8 PRs</summary>
 
@@ -21,12 +21,11 @@ _Auto-generated 2026-07-20 23:05 UTC · covers 4 repos in `moodys-ma-mdc` · exc
 
 </details>
 
-<details><summary><b>mdc-search</b> · 2 PRs</summary>
+<details><summary><b>mdc-search</b> · 1 PRs</summary>
 
 | PR | Title | Author | Age |
 |---|---|---|---|
 | [#572](https://github.com/moodys-ma-mdc/mdc-search/pull/572) | test: [MDCPT-86434] Add All-vertical keyboard accessibility e2e spec | `moreraj` | **today** |
-| [#571](https://github.com/moodys-ma-mdc/mdc-search/pull/571) | [CHORE] - adding wiz cli check | `aftimosm` | **today** |
 
 </details>
 
