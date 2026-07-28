@@ -1,15 +1,24 @@
 # Search/Glue/Ingestion · open PRs
 
-_Auto-generated 2026-07-28 17:57 UTC · covers 6 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
+_Auto-generated 2026-07-28 19:45 UTC · covers 6 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
 
-**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts%20repo%3Amoodys-ma-mdc/mcfl-orion-portfolio-ingestion%20repo%3Amoodys-ma-mdc/mdc-global-search-api%20repo%3Amoodys-ma-mdc/mdc-data-search-glue&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
+**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts%20repo%3Amoodys-ma-mdc/mcfl-orion-portfolio-ingestion%20repo%3Amoodys-ma-mdc/mdc-global-search-api%20repo%3Amoodys-ma-mdc/mdc-data-search-glue&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
 
-**Stats:** 2 active today · 11 stale (>30d) · 1 dependabot · 6 drafts · **19 total**
+**Stats:** 4 active today · 11 stale (>30d) · 1 dependabot · 7 drafts · **21 total**
 
-<details><summary><b>mdc-data-search</b> · 8 PRs</summary>
+<details><summary><b>mdc-search</b> · 1 PRs</summary>
 
 | PR | Title | Author | Age |
 |---|---|---|---|
+| [#589](https://github.com/moodys-ma-mdc/mdc-search/pull/589) | feat: Add typeahead search enhancements _(draft)_ | `aftimosm` | **today** |
+
+</details>
+
+<details><summary><b>mdc-data-search</b> · 9 PRs</summary>
+
+| PR | Title | Author | Age |
+|---|---|---|---|
+| [#307](https://github.com/moodys-ma-mdc/mdc-data-search/pull/307) | [MDCPT-97755] Add e2e coverage for rated-org popularity signal | `moreraj` | **today** |
 | [#305](https://github.com/moodys-ma-mdc/mdc-data-search/pull/305) | [chore] Add Swagger docs where missing and expand a bit existing desc | `sstults-non-empl` | **today** |
 | [#304](https://github.com/moodys-ma-mdc/mdc-data-search/pull/304) | Bump setuptools from 78.1.1 to 83.0.0 in /apps/search-api | `dependabot[bot]` | 3d |
 | [#286](https://github.com/moodys-ma-mdc/mdc-data-search/pull/286) | [MDCPT-96282] Expose primary market sector + label in org search resp… | `ahmedhamdyse` | 8d |
@@ -53,7 +62,7 @@ _Auto-generated 2026-07-28 17:57 UTC · covers 6 repos in `moodys-ma-mdc` · exc
 
 </details>
 
-<sub>Repos with no open PRs: `mdc-search`, `mdc-global-search-api`</sub>
+<sub>Repos with no open PRs: `mdc-global-search-api`</sub>
 
 ---
 
