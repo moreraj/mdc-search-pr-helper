@@ -1,17 +1,15 @@
 # Search/Glue/Ingestion · open PRs
 
-_Auto-generated 2026-07-29 15:52 UTC · covers 7 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
+_Auto-generated 2026-07-29 17:21 UTC · covers 7 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
 
 **[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-data-etl-flaghub-glue%20repo%3Amoodys-ma-mdc/mcfl-orion-portfolio-ingestion%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-global-search-api%20repo%3Amoodys-ma-mdc/mdc-data-search-glue&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
 
-**Stats:** 2 active today · 11 stale (>30d) · 1 dependabot · 6 drafts · **19 total**
+**Stats:** 0 active today · 11 stale (>30d) · 1 dependabot · 6 drafts · **17 total**
 
-<details><summary><b>mdc-data-search</b> · 9 PRs</summary>
+<details><summary><b>mdc-data-search</b> · 7 PRs</summary>
 
 | PR | Title | Author | Age |
 |---|---|---|---|
-| [#310](https://github.com/moodys-ma-mdc/mdc-data-search/pull/310) | [MDCPT-97794] Retry OpenSearch requests in Search API | `mkr` | **today** |
-| [#309](https://github.com/moodys-ma-mdc/mdc-data-search/pull/309) | [MDCPT-97328] Add EU region support with east LB endpoint mapping | `aftimosm` | **today** |
 | [#304](https://github.com/moodys-ma-mdc/mdc-data-search/pull/304) | Bump setuptools from 78.1.1 to 83.0.0 in /apps/search-api | `dependabot[bot]` | 4d |
 | [#286](https://github.com/moodys-ma-mdc/mdc-data-search/pull/286) | [MDCPT-96282] Expose primary market sector + label in org search resp… | `ahmedhamdyse` | 9d |
 | [#234](https://github.com/moodys-ma-mdc/mdc-data-search/pull/234) | [CHORE] ai include dmc bool conversion | `joellerobinson` | 20d |
