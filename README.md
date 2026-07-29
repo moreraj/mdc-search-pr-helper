@@ -1,10 +1,18 @@
 # Search/Glue/Ingestion · open PRs
 
-_Auto-generated 2026-07-29 21:27 UTC · covers 7 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
+_Auto-generated 2026-07-29 22:32 UTC · covers 7 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
 
 **[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-data-etl-flaghub-glue%20repo%3Amoodys-ma-mdc/mcfl-orion-portfolio-ingestion%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts%20repo%3Amoodys-ma-mdc/mdc-global-search-api&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
 
 **Stats:** 2 active today · 11 stale (>30d) · 1 dependabot · 6 drafts · **19 total**
+
+<details><summary><b>mdc-search</b> · 1 PRs</summary>
+
+| PR | Title | Author | Age |
+|---|---|---|---|
+| [#592](https://github.com/moodys-ma-mdc/mdc-search/pull/592) | fix: [MDCPT-97995] [MDCPT-98010] V2 typeahead exact-match navigation… | `aftimosm` | **today** |
+
+</details>
 
 <details><summary><b>mdc-data-search</b> · 8 PRs</summary>
 
@@ -18,14 +26,6 @@ _Auto-generated 2026-07-29 21:27 UTC · covers 7 repos in `moodys-ma-mdc` · exc
 | [#188](https://github.com/moodys-ma-mdc/mdc-data-search/pull/188) | [MDCPT-84270] Add search relevance triage skill _(draft)_ | `joellerobinson` | ~2mo |
 | [#79](https://github.com/moodys-ma-mdc/mdc-data-search/pull/79) | [MDCPT-72383] set aliases _(draft)_ | `sstults-non-empl` | ~4mo |
 | [#46](https://github.com/moodys-ma-mdc/mdc-data-search/pull/46) | [MDCPT-79710] Add semantic release and release check GitHub Actions. | `ahmedhamdyse` | ~5mo |
-
-</details>
-
-<details><summary><b>mdc-search</b> · 1 PRs</summary>
-
-| PR | Title | Author | Age |
-|---|---|---|---|
-| [#592](https://github.com/moodys-ma-mdc/mdc-search/pull/592) | fix: [MDCPT-97995] [MDCPT-98010] V2 typeahead exact-match navigation… | `aftimosm` | **today** |
 
 </details>
 
