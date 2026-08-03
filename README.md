@@ -1,10 +1,19 @@
 # Search/Glue/Ingestion · open PRs
 
-_Auto-generated 2026-08-03 16:30 UTC · covers 8 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
+_Auto-generated 2026-08-03 18:52 UTC · covers 8 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
 
-**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts%20repo%3Amoodys-ma-mdc/mcfl-orion-portfolio-ingestion%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-data-etl-flaghub-glue%20repo%3Amoodys-ma-mdc/mdc-search-bot%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-global-search-api&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
+**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-data-etl-flaghub-glue%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts%20repo%3Amoodys-ma-mdc/mcfl-orion-portfolio-ingestion%20repo%3Amoodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2%20repo%3Amoodys-ma-mdc/mdc-search-bot%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-global-search-api&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
 
-**Stats:** 6 active today · 8 stale (>30d) · 7 dependabot · 5 drafts · **22 total**
+**Stats:** 4 active today · 8 stale (>30d) · 7 dependabot · 5 drafts · **20 total**
+
+<details><summary><b>mdc-search</b> · 2 PRs</summary>
+
+| PR | Title | Author | Age |
+|---|---|---|---|
+| [#599](https://github.com/moodys-ma-mdc/mdc-search/pull/599) | fix: [MDCPT-98484] TypeAhead V2 exact-match navigation fixes | `aftimosm` | **today** |
+| [#598](https://github.com/moodys-ma-mdc/mdc-search/pull/598) | fix: [MDCPT-98484] Assert v2 nav rows + debt exact-match in identifie… | `moreraj` | **today** |
+
+</details>
 
 <details><summary><b>mdc-data-search</b> · 8 PRs</summary>
 
@@ -16,37 +25,8 @@ _Auto-generated 2026-08-03 16:30 UTC · covers 8 repos in `moodys-ma-mdc` · exc
 | [#234](https://github.com/moodys-ma-mdc/mdc-data-search/pull/234) | [CHORE] ai include dmc bool conversion | `joellerobinson` | 25d |
 | [#238](https://github.com/moodys-ma-mdc/mdc-data-search/pull/238) | Revert "Revert "[MDCPT-93140] Reject malformed range_filter with 400… | `ahmedhamdyse` | ~6w |
 | [#188](https://github.com/moodys-ma-mdc/mdc-data-search/pull/188) | [MDCPT-84270] Add search relevance triage skill _(draft)_ | `joellerobinson` | ~2mo |
-| [#79](https://github.com/moodys-ma-mdc/mdc-data-search/pull/79) | [MDCPT-72383] set aliases _(draft)_ | `sstults-non-empl` | ~4mo |
+| [#79](https://github.com/moodys-ma-mdc/mdc-data-search/pull/79) | [MDCPT-72383] set aliases _(draft)_ | `sstults-non-empl` | ~5mo |
 | [#46](https://github.com/moodys-ma-mdc/mdc-data-search/pull/46) | [MDCPT-79710] Add semantic release and release check GitHub Actions. | `ahmedhamdyse` | ~5mo |
-
-</details>
-
-<details><summary><b>mdc-data-search-spark-solr-jobs-v2</b> · 5 PRs</summary>
-
-| PR | Title | Author | Age |
-|---|---|---|---|
-| [#51](https://github.com/moodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2/pull/51) | [MDCPT-97906] Add Wiz vulnerability suppressions for latest CVE findi… | `yahia-elakeed-se` | **today** |
-| [#49](https://github.com/moodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2/pull/49) | Bump io.netty:netty-codec-http2 from 4.1.125.Final to 4.1.136.Final | `dependabot[bot]` | 8d |
-| [#48](https://github.com/moodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2/pull/48) | Bump io.netty:netty-codec-http from 4.1.125.Final to 4.1.136.Final | `dependabot[bot]` | 8d |
-| [#47](https://github.com/moodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2/pull/47) | Bump com.fasterxml.jackson.core:jackson-core from 2.17.0 to 2.18.8 | `dependabot[bot]` | 10d |
-| [#46](https://github.com/moodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2/pull/46) | Bump com.fasterxml.jackson.core:jackson-databind from 2.17.0 to 2.18.9 | `dependabot[bot]` | 10d |
-
-</details>
-
-<details><summary><b>mdc-search</b> · 2 PRs</summary>
-
-| PR | Title | Author | Age |
-|---|---|---|---|
-| [#597](https://github.com/moodys-ma-mdc/mdc-search/pull/597) | fix: [MDCPT-97995] [MDCPT-98010] [MDCPT-98484] TypeAhead V2 exact-mat… | `aftimosm` | **today** |
-| [#595](https://github.com/moodys-ma-mdc/mdc-search/pull/595) | chore: [MDCPT-98484] fix v2 identifier test locators and skip render-… | `moreraj` | **today** |
-
-</details>
-
-<details><summary><b>mdc-data-etl-flaghub-glue</b> · 1 PRs</summary>
-
-| PR | Title | Author | Age |
-|---|---|---|---|
-| [#10](https://github.com/moodys-ma-mdc/mdc-data-etl-flaghub-glue/pull/10) | [MDCPT-97215] implement delta processing and caching the pre-post sna… | `vishakayadav` | **today** |
 
 </details>
 
@@ -60,6 +40,17 @@ _Auto-generated 2026-08-03 16:30 UTC · covers 8 repos in `moodys-ma-mdc` · exc
 
 </details>
 
+<details><summary><b>mdc-data-search-spark-solr-jobs-v2</b> · 4 PRs</summary>
+
+| PR | Title | Author | Age |
+|---|---|---|---|
+| [#49](https://github.com/moodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2/pull/49) | Bump io.netty:netty-codec-http2 from 4.1.125.Final to 4.1.136.Final | `dependabot[bot]` | 8d |
+| [#48](https://github.com/moodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2/pull/48) | Bump io.netty:netty-codec-http from 4.1.125.Final to 4.1.136.Final | `dependabot[bot]` | 8d |
+| [#47](https://github.com/moodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2/pull/47) | Bump com.fasterxml.jackson.core:jackson-core from 2.17.0 to 2.18.8 | `dependabot[bot]` | 10d |
+| [#46](https://github.com/moodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2/pull/46) | Bump com.fasterxml.jackson.core:jackson-databind from 2.17.0 to 2.18.9 | `dependabot[bot]` | 10d |
+
+</details>
+
 <details><summary><b>mdc-data-search-quality-scripts</b> · 3 PRs</summary>
 
 | PR | Title | Author | Age |
@@ -70,7 +61,7 @@ _Auto-generated 2026-08-03 16:30 UTC · covers 8 repos in `moodys-ma-mdc` · exc
 
 </details>
 
-<sub>Repos with no open PRs: `mcfl-orion-portfolio-ingestion`, `mdc-global-search-api`</sub>
+<sub>Repos with no open PRs: `mdc-data-etl-flaghub-glue`, `mcfl-orion-portfolio-ingestion`, `mdc-global-search-api`</sub>
 
 ---
 
