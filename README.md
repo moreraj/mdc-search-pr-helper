@@ -1,26 +1,18 @@
 # Search/Glue/Ingestion · open PRs
 
-_Auto-generated 2026-08-04 18:11 UTC · covers 10 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
+_Auto-generated 2026-08-04 20:09 UTC · covers 10 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
 
-**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-data-search-solr%20repo%3Amoodys-ma-mdc/mdc-global-search-api%20repo%3Amoodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2%20repo%3Amoodys-ma-mdc/mcfl-astra-glue-etl%20repo%3Amoodys-ma-mdc/mdc-data-etl-flaghub-glue%20repo%3Amoodys-ma-mdc/mcfl-orion-portfolio-ingestion%20repo%3Amoodys-ma-mdc/mdc-search-bot&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
+**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-global-search-api%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-data-etl-flaghub-glue%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts%20repo%3Amoodys-ma-mdc/mdc-data-search-solr%20repo%3Amoodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2%20repo%3Amoodys-ma-mdc/mcfl-astra-glue-etl%20repo%3Amoodys-ma-mdc/mcfl-orion-portfolio-ingestion%20repo%3Amoodys-ma-mdc/mdc-search-bot&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
 
-**Stats:** 4 active today · 8 stale (>30d) · 7 dependabot · 7 drafts · **21 total**
-
-<details><summary><b>mdc-search</b> · 1 PRs</summary>
-
-| PR | Title | Author | Age |
-|---|---|---|---|
-| [#601](https://github.com/moodys-ma-mdc/mdc-search/pull/601) | fix: [MDCPT-98484] TypeAheadV2 dedup + exact-match fixes; upgrade fas… _(draft)_ | `aftimosm` | **today** |
-
-</details>
+**Stats:** 2 active today · 8 stale (>30d) · 7 dependabot · 6 drafts · **20 total**
 
 <details><summary><b>mdc-data-search</b> · 9 PRs</summary>
 
 | PR | Title | Author | Age |
 |---|---|---|---|
-| [#321](https://github.com/moodys-ma-mdc/mdc-data-search/pull/321) | [MDCPT-98462] Add e2e coverage for /artifact_search and /experiment | `moreraj` | **today** |
+| [#322](https://github.com/moodys-ma-mdc/mdc-data-search/pull/322) | [MDCPT-95876] Deepen typeahead + ai/multisearch e2e tests | `moreraj` | **today** |
 | [#320](https://github.com/moodys-ma-mdc/mdc-data-search/pull/320) | [MDCPT-95865] Add use-case boost param to org template _(draft)_ | `dbharadwaj-moodys` | **today** |
-| [#304](https://github.com/moodys-ma-mdc/mdc-data-search/pull/304) | [Chore] Bump setuptools from 78.1.1 to 83.0.0 in /apps/search-api | `dependabot[bot]` | **today** |
+| [#304](https://github.com/moodys-ma-mdc/mdc-data-search/pull/304) | [Chore] Bump setuptools from 78.1.1 to 83.0.0 in /apps/search-api | `dependabot[bot]` | 1d |
 | [#286](https://github.com/moodys-ma-mdc/mdc-data-search/pull/286) | [MDCPT-96282] Expose primary market sector + label in org search resp… | `ahmedhamdyse` | 15d |
 | [#234](https://github.com/moodys-ma-mdc/mdc-data-search/pull/234) | [CHORE] ai include dmc bool conversion | `joellerobinson` | 26d |
 | [#238](https://github.com/moodys-ma-mdc/mdc-data-search/pull/238) | Revert "Revert "[MDCPT-93140] Reject malformed range_filter with 400… | `ahmedhamdyse` | ~6w |
@@ -69,7 +61,7 @@ _Auto-generated 2026-08-04 18:11 UTC · covers 10 repos in `moodys-ma-mdc` · ex
 
 </details>
 
-<sub>Repos with no open PRs: `mdc-global-search-api`, `mcfl-astra-glue-etl`, `mdc-data-etl-flaghub-glue`, `mcfl-orion-portfolio-ingestion`</sub>
+<sub>Repos with no open PRs: `mdc-global-search-api`, `mdc-data-etl-flaghub-glue`, `mdc-search`, `mcfl-astra-glue-etl`, `mcfl-orion-portfolio-ingestion`</sub>
 
 ---
 
