@@ -1,16 +1,16 @@
 # Search/Glue/Ingestion · open PRs
 
-_Auto-generated 2026-08-04 16:15 UTC · covers 10 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
+_Auto-generated 2026-08-04 18:11 UTC · covers 10 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
 
-**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-search-solr%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts%20repo%3Amoodys-ma-mdc/mcfl-astra-glue-etl%20repo%3Amoodys-ma-mdc/mdc-data-etl-flaghub-glue%20repo%3Amoodys-ma-mdc/mdc-global-search-api%20repo%3Amoodys-ma-mdc/mcfl-orion-portfolio-ingestion%20repo%3Amoodys-ma-mdc/mdc-search-bot&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
+**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-data-search-solr%20repo%3Amoodys-ma-mdc/mdc-global-search-api%20repo%3Amoodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2%20repo%3Amoodys-ma-mdc/mcfl-astra-glue-etl%20repo%3Amoodys-ma-mdc/mdc-data-etl-flaghub-glue%20repo%3Amoodys-ma-mdc/mcfl-orion-portfolio-ingestion%20repo%3Amoodys-ma-mdc/mdc-search-bot&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
 
-**Stats:** 6 active today · 8 stale (>30d) · 8 dependabot · 6 drafts · **23 total**
+**Stats:** 4 active today · 8 stale (>30d) · 7 dependabot · 7 drafts · **21 total**
 
 <details><summary><b>mdc-search</b> · 1 PRs</summary>
 
 | PR | Title | Author | Age |
 |---|---|---|---|
-| [#600](https://github.com/moodys-ma-mdc/mdc-search/pull/600) | fix: [MDCPT-98484] TypeaheadV2 exact-match & dedup fixes | `aftimosm` | **today** |
+| [#601](https://github.com/moodys-ma-mdc/mdc-search/pull/601) | fix: [MDCPT-98484] TypeAheadV2 dedup + exact-match fixes; upgrade fas… _(draft)_ | `aftimosm` | **today** |
 
 </details>
 
@@ -27,25 +27,6 @@ _Auto-generated 2026-08-04 16:15 UTC · covers 10 repos in `moodys-ma-mdc` · ex
 | [#188](https://github.com/moodys-ma-mdc/mdc-data-search/pull/188) | [MDCPT-84270] Add search relevance triage skill _(draft)_ | `joellerobinson` | ~2mo |
 | [#79](https://github.com/moodys-ma-mdc/mdc-data-search/pull/79) | [MDCPT-72383] set aliases _(draft)_ | `sstults-non-empl` | ~5mo |
 | [#46](https://github.com/moodys-ma-mdc/mdc-data-search/pull/46) | [MDCPT-79710] Add semantic release and release check GitHub Actions. | `ahmedhamdyse` | ~5mo |
-
-</details>
-
-<details><summary><b>mdc-data-search-quality-scripts</b> · 4 PRs</summary>
-
-| PR | Title | Author | Age |
-|---|---|---|---|
-| [#335](https://github.com/moodys-ma-mdc/mdc-data-search-quality-scripts/pull/335) | build(deps): bump gitpython from 3.1.54 to 3.1.57 in /llm_judge_strea… | `dependabot[bot]` | **today** |
-| [#277](https://github.com/moodys-ma-mdc/mdc-data-search-quality-scripts/pull/277) | [MDCPT-65580] Tooling _(draft)_ | `mkr` | ~3mo |
-| [#285](https://github.com/moodys-ma-mdc/mdc-data-search-quality-scripts/pull/285) | [CHORE] Current INFO SK -> LCM index document conversion lambda _(draft)_ | `david-fisher` | ~3mo |
-| [#99](https://github.com/moodys-ma-mdc/mdc-data-search-quality-scripts/pull/99) | [MDCPT-31210] Code for structured chunk query evaluation / export _(draft)_ | `mkr` | ~3y |
-
-</details>
-
-<details><summary><b>mdc-global-search-api</b> · 1 PRs</summary>
-
-| PR | Title | Author | Age |
-|---|---|---|---|
-| [#141](https://github.com/moodys-ma-mdc/mdc-global-search-api/pull/141) | feat: [MDCPT-96592] Use case | `MaxAgliunin` | **today** |
 
 </details>
 
@@ -74,11 +55,21 @@ _Auto-generated 2026-08-04 16:15 UTC · covers 10 repos in `moodys-ma-mdc` · ex
 
 | PR | Title | Author | Age |
 |---|---|---|---|
-| [#39](https://github.com/moodys-ma-mdc/mdc-data-search-solr/pull/39) | [CHORE] Update README.md | `yahia-elakeed-se` | 10d |
+| [#39](https://github.com/moodys-ma-mdc/mdc-data-search-solr/pull/39) | [CHORE] Update README.md | `yahia-elakeed-se` | 11d |
 
 </details>
 
-<sub>Repos with no open PRs: `mcfl-astra-glue-etl`, `mdc-data-etl-flaghub-glue`, `mcfl-orion-portfolio-ingestion`</sub>
+<details><summary><b>mdc-data-search-quality-scripts</b> · 3 PRs</summary>
+
+| PR | Title | Author | Age |
+|---|---|---|---|
+| [#277](https://github.com/moodys-ma-mdc/mdc-data-search-quality-scripts/pull/277) | [MDCPT-65580] Tooling _(draft)_ | `mkr` | ~3mo |
+| [#285](https://github.com/moodys-ma-mdc/mdc-data-search-quality-scripts/pull/285) | [CHORE] Current INFO SK -> LCM index document conversion lambda _(draft)_ | `david-fisher` | ~3mo |
+| [#99](https://github.com/moodys-ma-mdc/mdc-data-search-quality-scripts/pull/99) | [MDCPT-31210] Code for structured chunk query evaluation / export _(draft)_ | `mkr` | ~3y |
+
+</details>
+
+<sub>Repos with no open PRs: `mdc-global-search-api`, `mcfl-astra-glue-etl`, `mdc-data-etl-flaghub-glue`, `mcfl-orion-portfolio-ingestion`</sub>
 
 ---
 
