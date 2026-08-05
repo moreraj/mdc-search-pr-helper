@@ -1,18 +1,10 @@
 # Search/Glue/Ingestion · open PRs
 
-_Auto-generated 2026-08-05 16:03 UTC · covers 11 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
+_Auto-generated 2026-08-05 18:06 UTC · covers 11 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
 
-**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-data-search-spark-solr-jobs%20repo%3Amoodys-ma-mdc/mcfl-orion-portfolio-ingestion%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts%20repo%3Amoodys-ma-mdc/mdc-search-bot%20repo%3Amoodys-ma-mdc/mdc-global-search-api%20repo%3Amoodys-ma-mdc/mdc-data-etl-flaghub-glue%20repo%3Amoodys-ma-mdc/mdc-data-search-solr%20repo%3Amoodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2%20repo%3Amoodys-ma-mdc/mcfl-astra-glue-etl&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
+**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-data-search-spark-solr-jobs%20repo%3Amoodys-ma-mdc/mcfl-orion-portfolio-ingestion%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts%20repo%3Amoodys-ma-mdc/mdc-search-bot%20repo%3Amoodys-ma-mdc/mdc-global-search-api%20repo%3Amoodys-ma-mdc/mdc-data-etl-flaghub-glue%20repo%3Amoodys-ma-mdc/mdc-data-search-solr%20repo%3Amoodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2%20repo%3Amoodys-ma-mdc/mcfl-astra-glue-etl&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
 
-**Stats:** 3 active today · 8 stale (>30d) · 9 dependabot · 6 drafts · **23 total**
-
-<details><summary><b>mdc-search</b> · 1 PRs</summary>
-
-| PR | Title | Author | Age |
-|---|---|---|---|
-| [#602](https://github.com/moodys-ma-mdc/mdc-search/pull/602) | feat: [MDCPT-95695] Character limit for V2 | `MaxAgliunin` | **today** |
-
-</details>
+**Stats:** 2 active today · 8 stale (>30d) · 9 dependabot · 6 drafts · **22 total**
 
 <details><summary><b>mdc-search-bot</b> · 4 PRs</summary>
 
@@ -56,7 +48,7 @@ _Auto-generated 2026-08-05 16:03 UTC · covers 11 repos in `moodys-ma-mdc` · ex
 
 | PR | Title | Author | Age |
 |---|---|---|---|
-| [#39](https://github.com/moodys-ma-mdc/mdc-data-search-solr/pull/39) | [CHORE] Update README.md | `yahia-elakeed-se` | 11d |
+| [#39](https://github.com/moodys-ma-mdc/mdc-data-search-solr/pull/39) | [CHORE] Update README.md | `yahia-elakeed-se` | 12d |
 
 </details>
 
@@ -78,7 +70,7 @@ _Auto-generated 2026-08-05 16:03 UTC · covers 11 repos in `moodys-ma-mdc` · ex
 
 </details>
 
-<sub>Repos with no open PRs: `mcfl-orion-portfolio-ingestion`, `mdc-global-search-api`, `mdc-data-etl-flaghub-glue`, `mcfl-astra-glue-etl`</sub>
+<sub>Repos with no open PRs: `mdc-search`, `mcfl-orion-portfolio-ingestion`, `mdc-global-search-api`, `mdc-data-etl-flaghub-glue`, `mcfl-astra-glue-etl`</sub>
 
 ---
 
