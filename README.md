@@ -1,6 +1,6 @@
 # Search/Glue/Ingestion · open PRs
 
-_Auto-generated 2026-08-05 23:06 UTC · covers 11 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
+_Auto-generated 2026-08-06 00:53 UTC · covers 11 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
 
 **[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts%20repo%3Amoodys-ma-mdc/mdc-data-etl-flaghub-glue%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-data-search-spark-solr-jobs%20repo%3Amoodys-ma-mdc/mcfl-orion-portfolio-ingestion%20repo%3Amoodys-ma-mdc/mdc-search-bot%20repo%3Amoodys-ma-mdc/mdc-global-search-api%20repo%3Amoodys-ma-mdc/mdc-data-search-solr%20repo%3Amoodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2%20repo%3Amoodys-ma-mdc/mcfl-astra-glue-etl&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
 
@@ -20,7 +20,7 @@ _Auto-generated 2026-08-05 23:06 UTC · covers 11 repos in `moodys-ma-mdc` · ex
 |---|---|---|---|
 | [#78](https://github.com/moodys-ma-mdc/mdc-search-bot/pull/78) | chore(deps): bump cryptography from 48.0.0 to 50.0.0 in /apps/api | `dependabot[bot]` | **today** |
 | [#77](https://github.com/moodys-ma-mdc/mdc-search-bot/pull/77) | chore(deps-dev): bump postcss from 8.5.15 to 8.5.25 in /apps/api/cdk | `dependabot[bot]` | 3d |
-| [#76](https://github.com/moodys-ma-mdc/mdc-search-bot/pull/76) | chore(deps-dev): bump shell-quote from 1.8.4 to 1.10.0 in /apps/api/c… | `dependabot[bot]` | 10d |
+| [#76](https://github.com/moodys-ma-mdc/mdc-search-bot/pull/76) | chore(deps-dev): bump shell-quote from 1.8.4 to 1.10.0 in /apps/api/c… | `dependabot[bot]` | 11d |
 | [#75](https://github.com/moodys-ma-mdc/mdc-search-bot/pull/75) | [MDCPT-XXXXX] phase 32: split.io feature flag gate for frontend | `aftimosm` | ~7w |
 
 </details>
@@ -47,7 +47,7 @@ _Auto-generated 2026-08-05 23:06 UTC · covers 11 repos in `moodys-ma-mdc` · ex
 | [#49](https://github.com/moodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2/pull/49) | Bump io.netty:netty-codec-http2 from 4.1.125.Final to 4.1.136.Final | `dependabot[bot]` | 10d |
 | [#48](https://github.com/moodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2/pull/48) | Bump io.netty:netty-codec-http from 4.1.125.Final to 4.1.136.Final | `dependabot[bot]` | 10d |
 | [#47](https://github.com/moodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2/pull/47) | Bump com.fasterxml.jackson.core:jackson-core from 2.17.0 to 2.18.8 | `dependabot[bot]` | 12d |
-| [#46](https://github.com/moodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2/pull/46) | Bump com.fasterxml.jackson.core:jackson-databind from 2.17.0 to 2.18.9 | `dependabot[bot]` | 12d |
+| [#46](https://github.com/moodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2/pull/46) | Bump com.fasterxml.jackson.core:jackson-databind from 2.17.0 to 2.18.9 | `dependabot[bot]` | 13d |
 
 </details>
 
