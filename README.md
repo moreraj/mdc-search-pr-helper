@@ -1,31 +1,17 @@
 # Search/Glue/Ingestion · open PRs
 
-_Auto-generated 2026-08-10 17:27 UTC · covers 4 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
+_Auto-generated 2026-08-10 18:27 UTC · covers 4 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
 
-**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mcfl-orion-portfolio-ingestion%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
+**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mcfl-orion-portfolio-ingestion%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
 
 **Stats:** 4 active today · 12 stale (>30d) · 2 dependabot · 7 drafts · **22 total**
 
-<details><summary><b>mdc-data-search-glue</b> · 8 PRs</summary>
-
-| PR | Title | Author | Age |
-|---|---|---|---|
-| [#2788](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2788) | [MDCPT-99293] Publish a region-keyed read parameter for the Precis | `ahmedhamdyse` | **today** |
-| [#2774](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2774) | [MDCPT-95684] fail loud on unresolved Postgres host. | `ahmedhamdyse` | 21d |
-| [#2775](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2775) | [MDCPT-96280] fail loud on unresolved Postgres host (orchestration). | `ahmedhamdyse` | 21d |
-| [#2767](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2767) | [MDCPT-95601] Fix research-sector S3-to-postgres KeyError on empty/un… | `ahmedhamdyse` | 26d |
-| [#2656](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2656) | [CHORE] Change CODEOWNERS to mdc-search team | `aftimosm` | ~8w |
-| [#2520](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2520) | Revert "[CHORE] revert-OS-authentication-to-unblock-STG" | `KavyaOS` | ~4mo |
-| [#2429](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2429) | [CHORE] Add S3 and OS audit job for local dev | `willimarmei` | ~5mo |
-| [#2365](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2365) | [CHORE] Update Antropic lib _(draft)_ | `sstults-non-empl` | ~5mo |
-
-</details>
-
-<details><summary><b>mdc-data-search</b> · 10 PRs</summary>
+<details><summary><b>mdc-data-search</b> · 11 PRs</summary>
 
 | PR | Title | Author | Age |
 |---|---|---|---|
 | [#339](https://github.com/moodys-ma-mdc/mdc-data-search/pull/339) | [MDCPT-99293] Keep Precis S3 URLs in the serving region. | `ahmedhamdyse` | **today** |
+| [#340](https://github.com/moodys-ma-mdc/mdc-data-search/pull/340) | feat: [MDCPT-99247] Point search results endpoints to STG | `MaxAgliunin` | **today** |
 | [#337](https://github.com/moodys-ma-mdc/mdc-data-search/pull/337) | [MDCPT-96590] Accept a use_case parameter on org search | `SeanFortney-Moodys` | **today** |
 | [#320](https://github.com/moodys-ma-mdc/mdc-data-search/pull/320) | [MDCPT-95865] Add use-case boost param to org template _(draft)_ | `dbharadwaj-moodys` | 6d |
 | [#304](https://github.com/moodys-ma-mdc/mdc-data-search/pull/304) | [Chore] Bump setuptools from 78.1.1 to 83.0.0 in /apps/search-api | `dependabot[bot]` | 6d |
@@ -46,6 +32,20 @@ _Auto-generated 2026-08-10 17:27 UTC · covers 4 repos in `moodys-ma-mdc` · exc
 | [#277](https://github.com/moodys-ma-mdc/mdc-data-search-quality-scripts/pull/277) | [MDCPT-65580] Tooling _(draft)_ | `mkr` | ~3mo |
 | [#285](https://github.com/moodys-ma-mdc/mdc-data-search-quality-scripts/pull/285) | [CHORE] Current INFO SK -> LCM index document conversion lambda _(draft)_ | `david-fisher` | ~3mo |
 | [#99](https://github.com/moodys-ma-mdc/mdc-data-search-quality-scripts/pull/99) | [MDCPT-31210] Code for structured chunk query evaluation / export _(draft)_ | `mkr` | ~3y |
+
+</details>
+
+<details><summary><b>mdc-data-search-glue</b> · 7 PRs</summary>
+
+| PR | Title | Author | Age |
+|---|---|---|---|
+| [#2774](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2774) | [MDCPT-95684] fail loud on unresolved Postgres host. | `ahmedhamdyse` | 21d |
+| [#2775](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2775) | [MDCPT-96280] fail loud on unresolved Postgres host (orchestration). | `ahmedhamdyse` | 21d |
+| [#2767](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2767) | [MDCPT-95601] Fix research-sector S3-to-postgres KeyError on empty/un… | `ahmedhamdyse` | 26d |
+| [#2656](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2656) | [CHORE] Change CODEOWNERS to mdc-search team | `aftimosm` | ~8w |
+| [#2520](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2520) | Revert "[CHORE] revert-OS-authentication-to-unblock-STG" | `KavyaOS` | ~4mo |
+| [#2429](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2429) | [CHORE] Add S3 and OS audit job for local dev | `willimarmei` | ~5mo |
+| [#2365](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2365) | [CHORE] Update Antropic lib _(draft)_ | `sstults-non-empl` | ~5mo |
 
 </details>
 
