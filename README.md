@@ -1,18 +1,19 @@
 # Search/Glue/Ingestion · open PRs
 
-_Auto-generated 2026-08-11 19:40 UTC · covers 4 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
+_Auto-generated 2026-08-11 20:53 UTC · covers 4 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
 
 **[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
 
-**Stats:** 5 active today · 11 stale (>30d) · 2 dependabot · 8 drafts · **23 total**
+**Stats:** 6 active today · 11 stale (>30d) · 2 dependabot · 8 drafts · **24 total**
 
-<details><summary><b>mdc-data-search</b> · 11 PRs</summary>
+<details><summary><b>mdc-data-search</b> · 12 PRs</summary>
 
 | PR | Title | Author | Age |
 |---|---|---|---|
-| [#286](https://github.com/moodys-ma-mdc/mdc-data-search/pull/286) | [MDCPT-96282] Expose primary market sector + label in org search resp… | `ahmedhamdyse` | **today** |
-| [#348](https://github.com/moodys-ma-mdc/mdc-data-search/pull/348) | [MDCPT-99658] Fix CloudWatch alarms — add ThresholdMetricId | `aftimosm` | **today** |
+| [#349](https://github.com/moodys-ma-mdc/mdc-data-search/pull/349) | [MDCPT-99807] Refactor EAI org & securities templates to fix type mat… | `lkocharian` | **today** |
 | [#343](https://github.com/moodys-ma-mdc/mdc-data-search/pull/343) | [MDCPT-98686] Add v2 marketing search endpoints | `aftimosm` | **today** |
+| [#350](https://github.com/moodys-ma-mdc/mdc-data-search/pull/350) | Revert "[MDCPT-99293] Keep Precis S3 URLs in the serving region." | `ahmedhamdyse` | **today** |
+| [#286](https://github.com/moodys-ma-mdc/mdc-data-search/pull/286) | [MDCPT-96282] Expose primary market sector + label in org search resp… | `ahmedhamdyse` | **today** |
 | [#345](https://github.com/moodys-ma-mdc/mdc-data-search/pull/345) | [MDCPT-99658] Add CloudWatch alarms for search API _(draft)_ | `aftimosm` | **today** |
 | [#337](https://github.com/moodys-ma-mdc/mdc-data-search/pull/337) | [MDCPT-96590] Accept a use_case parameter on org search | `SeanFortney-Moodys` | 1d |
 | [#320](https://github.com/moodys-ma-mdc/mdc-data-search/pull/320) | [MDCPT-95865] Add use-case boost param to org template _(draft)_ | `dbharadwaj-moodys` | 7d |
@@ -31,7 +32,7 @@ _Auto-generated 2026-08-11 19:40 UTC · covers 4 repos in `moodys-ma-mdc` · exc
 | [#2790](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2790) | [MDCPT-96283] Retain market sector path and drop unparseable sector f… | `ahmedhamdyse` | **today** |
 | [#2774](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2774) | [MDCPT-95684] fail loud on unresolved Postgres host. | `ahmedhamdyse` | 22d |
 | [#2775](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2775) | [MDCPT-96280] fail loud on unresolved Postgres host (orchestration). | `ahmedhamdyse` | 22d |
-| [#2767](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2767) | [MDCPT-95601] Fix research-sector S3-to-postgres KeyError on empty/un… | `ahmedhamdyse` | 27d |
+| [#2767](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2767) | [MDCPT-95601] Fix research-sector S3-to-postgres KeyError on empty/un… | `ahmedhamdyse` | 28d |
 | [#2656](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2656) | [CHORE] Change CODEOWNERS to mdc-search team | `aftimosm` | ~8w |
 | [#2520](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2520) | Revert "[CHORE] revert-OS-authentication-to-unblock-STG" | `KavyaOS` | ~4mo |
 | [#2429](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2429) | [CHORE] Add S3 and OS audit job for local dev | `willimarmei` | ~5mo |
