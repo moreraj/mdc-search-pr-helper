@@ -1,21 +1,22 @@
 # Search/Glue/Ingestion · open PRs
 
-_Auto-generated 2026-08-11 18:29 UTC · covers 4 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
+_Auto-generated 2026-08-11 19:40 UTC · covers 4 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
 
 **[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
 
-**Stats:** 4 active today · 11 stale (>30d) · 2 dependabot · 7 drafts · **22 total**
+**Stats:** 5 active today · 11 stale (>30d) · 2 dependabot · 8 drafts · **23 total**
 
-<details><summary><b>mdc-data-search</b> · 10 PRs</summary>
+<details><summary><b>mdc-data-search</b> · 11 PRs</summary>
 
 | PR | Title | Author | Age |
 |---|---|---|---|
 | [#286](https://github.com/moodys-ma-mdc/mdc-data-search/pull/286) | [MDCPT-96282] Expose primary market sector + label in org search resp… | `ahmedhamdyse` | **today** |
+| [#348](https://github.com/moodys-ma-mdc/mdc-data-search/pull/348) | [MDCPT-99658] Fix CloudWatch alarms — add ThresholdMetricId | `aftimosm` | **today** |
 | [#343](https://github.com/moodys-ma-mdc/mdc-data-search/pull/343) | [MDCPT-98686] Add v2 marketing search endpoints | `aftimosm` | **today** |
-| [#344](https://github.com/moodys-ma-mdc/mdc-data-search/pull/344) | [MDCPT-95875] Add e2e tests for /use_case_search and /judgement/judge | `moreraj` | **today** |
+| [#345](https://github.com/moodys-ma-mdc/mdc-data-search/pull/345) | [MDCPT-99658] Add CloudWatch alarms for search API _(draft)_ | `aftimosm` | **today** |
 | [#337](https://github.com/moodys-ma-mdc/mdc-data-search/pull/337) | [MDCPT-96590] Accept a use_case parameter on org search | `SeanFortney-Moodys` | 1d |
 | [#320](https://github.com/moodys-ma-mdc/mdc-data-search/pull/320) | [MDCPT-95865] Add use-case boost param to org template _(draft)_ | `dbharadwaj-moodys` | 7d |
-| [#304](https://github.com/moodys-ma-mdc/mdc-data-search/pull/304) | [Chore] Bump setuptools from 78.1.1 to 83.0.0 in /apps/search-api | `dependabot[bot]` | 7d |
+| [#304](https://github.com/moodys-ma-mdc/mdc-data-search/pull/304) | [Chore] Bump setuptools from 78.1.1 to 83.0.0 in /apps/search-api | `dependabot[bot]` | 8d |
 | [#234](https://github.com/moodys-ma-mdc/mdc-data-search/pull/234) | [CHORE] ai include dmc bool conversion | `joellerobinson` | ~5w |
 | [#238](https://github.com/moodys-ma-mdc/mdc-data-search/pull/238) | Revert "Revert "[MDCPT-93140] Reject malformed range_filter with 400… | `ahmedhamdyse` | ~7w |
 | [#188](https://github.com/moodys-ma-mdc/mdc-data-search/pull/188) | [MDCPT-84270] Add search relevance triage skill _(draft)_ | `joellerobinson` | ~3mo |
