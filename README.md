@@ -1,18 +1,10 @@
 # Search/Glue/Ingestion · open PRs
 
-_Auto-generated 2026-08-11 15:04 UTC · covers 4 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
+_Auto-generated 2026-08-11 16:25 UTC · covers 4 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
 
 **[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
 
-**Stats:** 5 active today · 11 stale (>30d) · 2 dependabot · 8 drafts · **23 total**
-
-<details><summary><b>mdc-search</b> · 1 PRs</summary>
-
-| PR | Title | Author | Age |
-|---|---|---|---|
-| [#605](https://github.com/moodys-ma-mdc/mdc-search/pull/605) | chore: [MDCPT-0000] Skip dev e2e on east during dev env outage | `moreraj` | **today** |
-
-</details>
+**Stats:** 4 active today · 11 stale (>30d) · 2 dependabot · 8 drafts · **22 total**
 
 <details><summary><b>mdc-data-search</b> · 10 PRs</summary>
 
@@ -56,6 +48,8 @@ _Auto-generated 2026-08-11 15:04 UTC · covers 4 repos in `moodys-ma-mdc` · exc
 | [#99](https://github.com/moodys-ma-mdc/mdc-data-search-quality-scripts/pull/99) | [MDCPT-31210] Code for structured chunk query evaluation / export _(draft)_ | `mkr` | ~3y |
 
 </details>
+
+<sub>Repos with no open PRs: `mdc-search`</sub>
 
 ---
 
