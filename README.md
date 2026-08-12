@@ -1,26 +1,16 @@
 # Search/Glue/Ingestion · open PRs
 
-_Auto-generated 2026-08-12 20:09 UTC · covers 8 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
+_Auto-generated 2026-08-12 21:22 UTC · covers 8 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
 
-**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-global-search-api%20repo%3Amoodys-ma-mdc/mdc-data-api-search-config-v2%20repo%3Amoodys-ma-mdc/mcfl-orion-portfolio-ingestion%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
+**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-data-api-search-config-v2%20repo%3Amoodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-global-search-api%20repo%3Amoodys-ma-mdc/mcfl-orion-portfolio-ingestion%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
 
 **Stats:** 5 active today · 14 stale (>30d) · 8 dependabot · 7 drafts · **29 total**
 
-<details><summary><b>mdc-data-api-search-config-v2</b> · 4 PRs</summary>
+<details><summary><b>mdc-data-search</b> · 10 PRs</summary>
 
 | PR | Title | Author | Age |
 |---|---|---|---|
-| [#33](https://github.com/moodys-ma-mdc/mdc-data-api-search-config-v2/pull/33) | [MDCPT-99214] Add event log rolling retention to Spark history server… | `yahia-elakeed-se` | **today** |
-| [#30](https://github.com/moodys-ma-mdc/mdc-data-api-search-config-v2/pull/30) | [CHORE] Add additional CVE IDs to WizVulnerabilities | `yahia-elakeed-se` | ~6w |
-| [#19](https://github.com/moodys-ma-mdc/mdc-data-api-search-config-v2/pull/19) | Bump org.apache.kafka:kafka-clients from 3.5.0 to 3.9.2 | `dependabot[bot]` | ~4mo |
-| [#15](https://github.com/moodys-ma-mdc/mdc-data-api-search-config-v2/pull/15) | Bump org.apache.spark:spark-core_2.12 from 3.4.0 to 3.5.7 | `dependabot[bot]` | ~5mo |
-
-</details>
-
-<details><summary><b>mdc-data-search</b> · 9 PRs</summary>
-
-| PR | Title | Author | Age |
-|---|---|---|---|
+| [#359](https://github.com/moodys-ma-mdc/mdc-data-search/pull/359) | feat: [MDCPT-98686] V2 marketing search endpoints | `aftimosm` | **today** |
 | [#356](https://github.com/moodys-ma-mdc/mdc-data-search/pull/356) | [MDCPT-99565] add peer_group_detail to eai org schema | `lkocharian` | **today** |
 | [#337](https://github.com/moodys-ma-mdc/mdc-data-search/pull/337) | [MDCPT-96590] Accept a use_case parameter on org search | `SeanFortney-Moodys` | **today** |
 | [#286](https://github.com/moodys-ma-mdc/mdc-data-search/pull/286) | [MDCPT-96282] Expose primary market sector + label in org search resp… | `ahmedhamdyse` | **today** |
@@ -67,6 +57,16 @@ _Auto-generated 2026-08-12 20:09 UTC · covers 8 repos in `moodys-ma-mdc` · exc
 | [#48](https://github.com/moodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2/pull/48) | Bump io.netty:netty-codec-http from 4.1.125.Final to 4.1.136.Final | `dependabot[bot]` | 17d |
 | [#47](https://github.com/moodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2/pull/47) | Bump com.fasterxml.jackson.core:jackson-core from 2.17.0 to 2.18.8 | `dependabot[bot]` | 19d |
 | [#46](https://github.com/moodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2/pull/46) | Bump com.fasterxml.jackson.core:jackson-databind from 2.17.0 to 2.18.9 | `dependabot[bot]` | 19d |
+
+</details>
+
+<details><summary><b>mdc-data-api-search-config-v2</b> · 3 PRs</summary>
+
+| PR | Title | Author | Age |
+|---|---|---|---|
+| [#30](https://github.com/moodys-ma-mdc/mdc-data-api-search-config-v2/pull/30) | [CHORE] Add additional CVE IDs to WizVulnerabilities | `yahia-elakeed-se` | ~6w |
+| [#19](https://github.com/moodys-ma-mdc/mdc-data-api-search-config-v2/pull/19) | Bump org.apache.kafka:kafka-clients from 3.5.0 to 3.9.2 | `dependabot[bot]` | ~4mo |
+| [#15](https://github.com/moodys-ma-mdc/mdc-data-api-search-config-v2/pull/15) | Bump org.apache.spark:spark-core_2.12 from 3.4.0 to 3.5.7 | `dependabot[bot]` | ~5mo |
 
 </details>
 
