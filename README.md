@@ -1,16 +1,16 @@
 # Search/Glue/Ingestion · open PRs
 
-_Auto-generated 2026-08-12 21:22 UTC · covers 8 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
+_Auto-generated 2026-08-12 22:19 UTC · covers 8 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
 
 **[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-data-api-search-config-v2%20repo%3Amoodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-global-search-api%20repo%3Amoodys-ma-mdc/mcfl-orion-portfolio-ingestion%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
 
-**Stats:** 5 active today · 14 stale (>30d) · 8 dependabot · 7 drafts · **29 total**
+**Stats:** 5 active today · 14 stale (>30d) · 8 dependabot · 8 drafts · **29 total**
 
 <details><summary><b>mdc-data-search</b> · 10 PRs</summary>
 
 | PR | Title | Author | Age |
 |---|---|---|---|
-| [#359](https://github.com/moodys-ma-mdc/mdc-data-search/pull/359) | feat: [MDCPT-98686] V2 marketing search endpoints | `aftimosm` | **today** |
+| [#359](https://github.com/moodys-ma-mdc/mdc-data-search/pull/359) | feat: [MDCPT-98686] V2 marketing search endpoints _(draft)_ | `aftimosm` | **today** |
 | [#356](https://github.com/moodys-ma-mdc/mdc-data-search/pull/356) | [MDCPT-99565] add peer_group_detail to eai org schema | `lkocharian` | **today** |
 | [#337](https://github.com/moodys-ma-mdc/mdc-data-search/pull/337) | [MDCPT-96590] Accept a use_case parameter on org search | `SeanFortney-Moodys` | **today** |
 | [#286](https://github.com/moodys-ma-mdc/mdc-data-search/pull/286) | [MDCPT-96282] Expose primary market sector + label in org search resp… | `ahmedhamdyse` | **today** |
