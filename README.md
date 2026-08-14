@@ -1,15 +1,16 @@
 # Search/Glue/Ingestion · open PRs
 
-_Auto-generated 2026-08-14 15:59 UTC · covers 10 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
+_Auto-generated 2026-08-14 17:04 UTC · covers 10 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
 
 **[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mcfl-orion-portfolio-ingestion%20repo%3Amoodys-ma-mdc/mdc-data-api-search-config-v2%20repo%3Amoodys-ma-mdc/mdc-data-etl-mflo-glue%20repo%3Amoodys-ma-mdc/mcfl-astra-glue-etl%20repo%3Amoodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2%20repo%3Amoodys-ma-mdc/mdc-global-search-api%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
 
-**Stats:** 4 active today · 13 stale (>30d) · 8 dependabot · 7 drafts · **25 total**
+**Stats:** 5 active today · 13 stale (>30d) · 8 dependabot · 7 drafts · **26 total**
 
-<details><summary><b>mdc-data-search</b> · 8 PRs</summary>
+<details><summary><b>mdc-data-search</b> · 9 PRs</summary>
 
 | PR | Title | Author | Age |
 |---|---|---|---|
+| [#365](https://github.com/moodys-ma-mdc/mdc-data-search/pull/365) | [MDCPT-99658] Add CloudWatch alarms with corrected ANOMALY_DETECTION_… | `aftimosm` | **today** |
 | [#360](https://github.com/moodys-ma-mdc/mdc-data-search/pull/360) | fix: [MDCPT-98686] fix /v2/global-search pagination returning empty p… | `aftimosm` | **today** |
 | [#362](https://github.com/moodys-ma-mdc/mdc-data-search/pull/362) | [MDCPT-99431] Refactor query boosting service to format rules for tem… | `lkocharian` | **today** |
 | [#286](https://github.com/moodys-ma-mdc/mdc-data-search/pull/286) | [MDCPT-96282] Expose primary market sector + label in org search resp… | `ahmedhamdyse` | **today** |
