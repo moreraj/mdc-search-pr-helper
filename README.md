@@ -1,24 +1,33 @@
 # Search/Glue/Ingestion · open PRs
 
-_Auto-generated 2026-08-17 18:48 UTC · covers 12 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
+_Auto-generated 2026-08-17 19:32 UTC · covers 12 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
 
-**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts%20repo%3Amoodys-ma-mdc/mdc-global-search-api%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-search-bot%20repo%3Amoodys-ma-mdc/mdc-data-etl-flaghub-glue%20repo%3Amoodys-ma-mdc/mcfl-orion-portfolio-ingestion%20repo%3Amoodys-ma-mdc/mdc-data-api-search-config-v2%20repo%3Amoodys-ma-mdc/mdc-data-etl-mflo-glue%20repo%3Amoodys-ma-mdc/mcfl-astra-glue-etl%20repo%3Amoodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
+**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts%20repo%3Amoodys-ma-mdc/mdc-global-search-api%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-search-bot%20repo%3Amoodys-ma-mdc/mdc-data-etl-flaghub-glue%20repo%3Amoodys-ma-mdc/mcfl-orion-portfolio-ingestion%20repo%3Amoodys-ma-mdc/mdc-data-api-search-config-v2%20repo%3Amoodys-ma-mdc/mdc-data-etl-mflo-glue%20repo%3Amoodys-ma-mdc/mcfl-astra-glue-etl&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
 
-**Stats:** 5 active today · 15 stale (>30d) · 13 dependabot · 7 drafts · **34 total**
+**Stats:** 7 active today · 15 stale (>30d) · 13 dependabot · 7 drafts · **35 total**
 
-<details><summary><b>mdc-data-search</b> · 9 PRs</summary>
+<details><summary><b>mdc-data-search</b> · 10 PRs</summary>
 
 | PR | Title | Author | Age |
 |---|---|---|---|
+| [#367](https://github.com/moodys-ma-mdc/mdc-data-search/pull/367) | [CHORE] Return 400 for malformed AI org search filters | `sstults-non-empl` | **today** |
 | [#366](https://github.com/moodys-ma-mdc/mdc-data-search/pull/366) | [MDCPT-99247] Update load balancer lookup to Secrets Manager | `moreraj` | **today** |
 | [#365](https://github.com/moodys-ma-mdc/mdc-data-search/pull/365) | [MDCPT-99658] Add CloudWatch alarms with corrected ANOMALY_DETECTION_… | `aftimosm` | 3d |
 | [#360](https://github.com/moodys-ma-mdc/mdc-data-search/pull/360) | fix: [MDCPT-98686] fix /v2/global-search pagination returning empty p… | `aftimosm` | 3d |
 | [#286](https://github.com/moodys-ma-mdc/mdc-data-search/pull/286) | [MDCPT-96282] Expose primary market sector + label in org search resp… | `ahmedhamdyse` | 3d |
 | [#320](https://github.com/moodys-ma-mdc/mdc-data-search/pull/320) | [MDCPT-95865] Add use-case boost param to org template _(draft)_ | `dbharadwaj-moodys` | 13d |
-| [#304](https://github.com/moodys-ma-mdc/mdc-data-search/pull/304) | [Chore] Bump setuptools from 78.1.1 to 83.0.0 in /apps/search-api | `dependabot[bot]` | 13d |
+| [#304](https://github.com/moodys-ma-mdc/mdc-data-search/pull/304) | [Chore] Bump setuptools from 78.1.1 to 83.0.0 in /apps/search-api | `dependabot[bot]` | 14d |
 | [#238](https://github.com/moodys-ma-mdc/mdc-data-search/pull/238) | Revert "Revert "[MDCPT-93140] Reject malformed range_filter with 400… | `ahmedhamdyse` | ~8w |
 | [#188](https://github.com/moodys-ma-mdc/mdc-data-search/pull/188) | [MDCPT-84270] Add search relevance triage skill _(draft)_ | `joellerobinson` | ~3mo |
 | [#79](https://github.com/moodys-ma-mdc/mdc-data-search/pull/79) | [MDCPT-72383] set aliases _(draft)_ | `sstults-non-empl` | ~5mo |
+
+</details>
+
+<details><summary><b>mdc-search</b> · 1 PRs</summary>
+
+| PR | Title | Author | Age |
+|---|---|---|---|
+| [#613](https://github.com/moodys-ma-mdc/mdc-search/pull/613) | [MDCPT-99247] update lb value | `moreraj` | **today** |
 
 </details>
 
@@ -30,11 +39,14 @@ _Auto-generated 2026-08-17 18:48 UTC · covers 12 repos in `moodys-ma-mdc` · ex
 
 </details>
 
-<details><summary><b>mdc-search</b> · 1 PRs</summary>
+<details><summary><b>mdc-data-search-spark-solr-jobs-v2</b> · 4 PRs</summary>
 
 | PR | Title | Author | Age |
 |---|---|---|---|
-| [#613](https://github.com/moodys-ma-mdc/mdc-search/pull/613) | [MDCPT-99247] update lb value | `moreraj` | **today** |
+| [#53](https://github.com/moodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2/pull/53) | Bump io.netty:netty-codec-http from 4.1.125.Final to 4.1.137.Final | `dependabot[bot]` | **today** |
+| [#49](https://github.com/moodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2/pull/49) | Bump io.netty:netty-codec-http2 from 4.1.125.Final to 4.1.136.Final | `dependabot[bot]` | 22d |
+| [#47](https://github.com/moodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2/pull/47) | Bump com.fasterxml.jackson.core:jackson-core from 2.17.0 to 2.18.8 | `dependabot[bot]` | 24d |
+| [#46](https://github.com/moodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2/pull/46) | Bump com.fasterxml.jackson.core:jackson-databind from 2.17.0 to 2.18.9 | `dependabot[bot]` | 24d |
 
 </details>
 
@@ -70,17 +82,6 @@ _Auto-generated 2026-08-17 18:48 UTC · covers 12 repos in `moodys-ma-mdc` · ex
 
 </details>
 
-<details><summary><b>mdc-data-search-spark-solr-jobs-v2</b> · 4 PRs</summary>
-
-| PR | Title | Author | Age |
-|---|---|---|---|
-| [#49](https://github.com/moodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2/pull/49) | Bump io.netty:netty-codec-http2 from 4.1.125.Final to 4.1.136.Final | `dependabot[bot]` | 22d |
-| [#48](https://github.com/moodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2/pull/48) | Bump io.netty:netty-codec-http from 4.1.125.Final to 4.1.136.Final | `dependabot[bot]` | 22d |
-| [#47](https://github.com/moodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2/pull/47) | Bump com.fasterxml.jackson.core:jackson-core from 2.17.0 to 2.18.8 | `dependabot[bot]` | 24d |
-| [#46](https://github.com/moodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2/pull/46) | Bump com.fasterxml.jackson.core:jackson-databind from 2.17.0 to 2.18.9 | `dependabot[bot]` | 24d |
-
-</details>
-
 <details><summary><b>mdc-data-search-glue</b> · 5 PRs</summary>
 
 | PR | Title | Author | Age |
@@ -97,7 +98,7 @@ _Auto-generated 2026-08-17 18:48 UTC · covers 12 repos in `moodys-ma-mdc` · ex
 
 | PR | Title | Author | Age |
 |---|---|---|---|
-| [#30](https://github.com/moodys-ma-mdc/mdc-data-api-search-config-v2/pull/30) | [CHORE] Add additional CVE IDs to WizVulnerabilities | `yahia-elakeed-se` | ~6w |
+| [#30](https://github.com/moodys-ma-mdc/mdc-data-api-search-config-v2/pull/30) | [CHORE] Add additional CVE IDs to WizVulnerabilities | `yahia-elakeed-se` | ~7w |
 | [#19](https://github.com/moodys-ma-mdc/mdc-data-api-search-config-v2/pull/19) | Bump org.apache.kafka:kafka-clients from 3.5.0 to 3.9.2 | `dependabot[bot]` | ~4mo |
 | [#15](https://github.com/moodys-ma-mdc/mdc-data-api-search-config-v2/pull/15) | Bump org.apache.spark:spark-core_2.12 from 3.4.0 to 3.5.7 | `dependabot[bot]` | ~5mo |
 
