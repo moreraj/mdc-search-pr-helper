@@ -1,45 +1,35 @@
 # Search/Glue/Ingestion · open PRs
 
-_Auto-generated 2026-08-18 14:39 UTC · covers 12 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
+_Auto-generated 2026-08-18 15:37 UTC · covers 12 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
 
-**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts%20repo%3Amoodys-ma-mdc/mdc-global-search-api%20repo%3Amoodys-ma-mdc/mdc-search-bot%20repo%3Amoodys-ma-mdc/mdc-data-etl-flaghub-glue%20repo%3Amoodys-ma-mdc/mcfl-orion-portfolio-ingestion%20repo%3Amoodys-ma-mdc/mdc-data-api-search-config-v2%20repo%3Amoodys-ma-mdc/mdc-data-etl-mflo-glue%20repo%3Amoodys-ma-mdc/mcfl-astra-glue-etl&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
+**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts%20repo%3Amoodys-ma-mdc/mdc-global-search-api%20repo%3Amoodys-ma-mdc/mdc-search-bot%20repo%3Amoodys-ma-mdc/mdc-data-etl-flaghub-glue%20repo%3Amoodys-ma-mdc/mcfl-orion-portfolio-ingestion%20repo%3Amoodys-ma-mdc/mdc-data-api-search-config-v2%20repo%3Amoodys-ma-mdc/mdc-data-etl-mflo-glue%20repo%3Amoodys-ma-mdc/mcfl-astra-glue-etl&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
 
-**Stats:** 10 active today · 15 stale (>30d) · 13 dependabot · 7 drafts · **39 total**
+**Stats:** 7 active today · 15 stale (>30d) · 13 dependabot · 7 drafts · **36 total**
 
-<details><summary><b>mdc-data-search</b> · 12 PRs</summary>
+<details><summary><b>mdc-search</b> · 2 PRs</summary>
+
+| PR | Title | Author | Age |
+|---|---|---|---|
+| [#614](https://github.com/moodys-ma-mdc/mdc-search/pull/614) | [MDCPT-100272] migrate my dev search bar | `ZurielTMoodys` | **today** |
+| [#615](https://github.com/moodys-ma-mdc/mdc-search/pull/615) | feat: [MDCPT-94663] Design updates | `MaxAgliunin` | **today** |
+
+</details>
+
+<details><summary><b>mdc-data-search</b> · 11 PRs</summary>
 
 | PR | Title | Author | Age |
 |---|---|---|---|
 | [#360](https://github.com/moodys-ma-mdc/mdc-data-search/pull/360) | fix: [MDCPT-98686] fix /v2/global-search pagination returning empty p… | `aftimosm` | **today** |
 | [#369](https://github.com/moodys-ma-mdc/mdc-data-search/pull/369) | [MDCPT-90260] Add address, identifier, and contact matching to MGM se… | `sstults-non-empl` | **today** |
 | [#368](https://github.com/moodys-ma-mdc/mdc-data-search/pull/368) | [CHORE] Render multiple not groups in the organization template | `sstults-non-empl` | **today** |
-| [#366](https://github.com/moodys-ma-mdc/mdc-data-search/pull/366) | [MDCPT-99247] Update load balancer lookup to Secrets Manager | `moreraj` | **today** |
 | [#367](https://github.com/moodys-ma-mdc/mdc-data-search/pull/367) | [CHORE] Return 400 for malformed AI org search filters | `sstults-non-empl` | **today** |
 | [#365](https://github.com/moodys-ma-mdc/mdc-data-search/pull/365) | [MDCPT-99658] Add CloudWatch alarms with corrected ANOMALY_DETECTION_… | `aftimosm` | 3d |
-| [#286](https://github.com/moodys-ma-mdc/mdc-data-search/pull/286) | [MDCPT-96282] Expose primary market sector + label in org search resp… | `ahmedhamdyse` | 3d |
-| [#320](https://github.com/moodys-ma-mdc/mdc-data-search/pull/320) | [MDCPT-95865] Add use-case boost param to org template _(draft)_ | `dbharadwaj-moodys` | 13d |
+| [#286](https://github.com/moodys-ma-mdc/mdc-data-search/pull/286) | [MDCPT-96282] Expose primary market sector + label in org search resp… | `ahmedhamdyse` | 4d |
+| [#320](https://github.com/moodys-ma-mdc/mdc-data-search/pull/320) | [MDCPT-95865] Add use-case boost param to org template _(draft)_ | `dbharadwaj-moodys` | 14d |
 | [#304](https://github.com/moodys-ma-mdc/mdc-data-search/pull/304) | [Chore] Bump setuptools from 78.1.1 to 83.0.0 in /apps/search-api | `dependabot[bot]` | 14d |
 | [#238](https://github.com/moodys-ma-mdc/mdc-data-search/pull/238) | Revert "Revert "[MDCPT-93140] Reject malformed range_filter with 400… | `ahmedhamdyse` | ~8w |
 | [#188](https://github.com/moodys-ma-mdc/mdc-data-search/pull/188) | [MDCPT-84270] Add search relevance triage skill _(draft)_ | `joellerobinson` | ~3mo |
 | [#79](https://github.com/moodys-ma-mdc/mdc-data-search/pull/79) | [MDCPT-72383] set aliases _(draft)_ | `sstults-non-empl` | ~5mo |
-
-</details>
-
-<details><summary><b>mdc-search</b> · 3 PRs</summary>
-
-| PR | Title | Author | Age |
-|---|---|---|---|
-| [#615](https://github.com/moodys-ma-mdc/mdc-search/pull/615) | feat: [MDCPT-94663] Design updates | `MaxAgliunin` | **today** |
-| [#614](https://github.com/moodys-ma-mdc/mdc-search/pull/614) | [MDCPT-100272] migrate my dev search bar | `ZurielTMoodys` | **today** |
-| [#613](https://github.com/moodys-ma-mdc/mdc-search/pull/613) | [MDCPT-99247] update lb value | `moreraj` | **today** |
-
-</details>
-
-<details><summary><b>mdc-global-search-api</b> · 1 PRs</summary>
-
-| PR | Title | Author | Age |
-|---|---|---|---|
-| [#147](https://github.com/moodys-ma-mdc/mdc-global-search-api/pull/147) | [MDCPT-99247] Update SEARCH_API_URL lookup to Secrets Manager | `moreraj` | **today** |
 
 </details>
 
@@ -108,7 +98,7 @@ _Auto-generated 2026-08-18 14:39 UTC · covers 12 repos in `moodys-ma-mdc` · ex
 
 </details>
 
-<sub>Repos with no open PRs: `mdc-data-etl-flaghub-glue`, `mdc-data-etl-mflo-glue`, `mcfl-astra-glue-etl`</sub>
+<sub>Repos with no open PRs: `mdc-global-search-api`, `mdc-data-etl-flaghub-glue`, `mdc-data-etl-mflo-glue`, `mcfl-astra-glue-etl`</sub>
 
 ---
 
