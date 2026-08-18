@@ -1,19 +1,29 @@
 # Search/Glue/Ingestion · open PRs
 
-_Auto-generated 2026-08-18 16:37 UTC · covers 12 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
+_Auto-generated 2026-08-18 17:33 UTC · covers 12 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
 
 **[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts%20repo%3Amoodys-ma-mdc/mdc-global-search-api%20repo%3Amoodys-ma-mdc/mdc-search-bot%20repo%3Amoodys-ma-mdc/mdc-data-etl-flaghub-glue%20repo%3Amoodys-ma-mdc/mcfl-orion-portfolio-ingestion%20repo%3Amoodys-ma-mdc/mdc-data-api-search-config-v2%20repo%3Amoodys-ma-mdc/mdc-data-etl-mflo-glue%20repo%3Amoodys-ma-mdc/mcfl-astra-glue-etl&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
 
-**Stats:** 9 active today · 15 stale (>30d) · 13 dependabot · 6 drafts · **37 total**
+**Stats:** 7 active today · 15 stale (>30d) · 13 dependabot · 6 drafts · **35 total**
 
-<details><summary><b>mdc-search</b> · 4 PRs</summary>
+<details><summary><b>mdc-data-search-glue</b> · 6 PRs</summary>
+
+| PR | Title | Author | Age |
+|---|---|---|---|
+| [#2797](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2797) | [MDCPT-97830] Ingest S3_timestamp arg to opensearch for rated and unr… | `KavyaOS` | **today** |
+| [#2767](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2767) | [MDCPT-95601] Fix research-sector S3-to-postgres KeyError on empty/un… | `ahmedhamdyse` | ~5w |
+| [#2656](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2656) | [CHORE] Change CODEOWNERS to mdc-search team | `aftimosm` | ~2mo |
+| [#2520](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2520) | Revert "[CHORE] revert-OS-authentication-to-unblock-STG" | `KavyaOS` | ~4mo |
+| [#2429](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2429) | [CHORE] Add S3 and OS audit job for local dev | `willimarmei` | ~5mo |
+| [#2365](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2365) | [CHORE] Update Antropic lib _(draft)_ | `sstults-non-empl` | ~5mo |
+
+</details>
+
+<details><summary><b>mdc-search</b> · 1 PRs</summary>
 
 | PR | Title | Author | Age |
 |---|---|---|---|
 | [#617](https://github.com/moodys-ma-mdc/mdc-search/pull/617) | [MDCPT-98894] consuming OneView event to determine search input place… | `bs-moodys` | **today** |
-| [#616](https://github.com/moodys-ma-mdc/mdc-search/pull/616) | [MDCPT-999013] sort compact/detailed testing | `moreraj` | **today** |
-| [#614](https://github.com/moodys-ma-mdc/mdc-search/pull/614) | [MDCPT-100272] migrate my dev search bar | `ZurielTMoodys` | **today** |
-| [#615](https://github.com/moodys-ma-mdc/mdc-search/pull/615) | feat: [MDCPT-94663] Design updates | `MaxAgliunin` | **today** |
 
 </details>
 
@@ -74,18 +84,6 @@ _Auto-generated 2026-08-18 16:37 UTC · covers 12 repos in `moodys-ma-mdc` · ex
 | [#277](https://github.com/moodys-ma-mdc/mdc-data-search-quality-scripts/pull/277) | [MDCPT-65580] Tooling _(draft)_ | `mkr` | ~4mo |
 | [#285](https://github.com/moodys-ma-mdc/mdc-data-search-quality-scripts/pull/285) | [CHORE] Current INFO SK -> LCM index document conversion lambda _(draft)_ | `david-fisher` | ~4mo |
 | [#99](https://github.com/moodys-ma-mdc/mdc-data-search-quality-scripts/pull/99) | [MDCPT-31210] Code for structured chunk query evaluation / export _(draft)_ | `mkr` | ~3y |
-
-</details>
-
-<details><summary><b>mdc-data-search-glue</b> · 5 PRs</summary>
-
-| PR | Title | Author | Age |
-|---|---|---|---|
-| [#2767](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2767) | [MDCPT-95601] Fix research-sector S3-to-postgres KeyError on empty/un… | `ahmedhamdyse` | ~5w |
-| [#2656](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2656) | [CHORE] Change CODEOWNERS to mdc-search team | `aftimosm` | ~2mo |
-| [#2520](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2520) | Revert "[CHORE] revert-OS-authentication-to-unblock-STG" | `KavyaOS` | ~4mo |
-| [#2429](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2429) | [CHORE] Add S3 and OS audit job for local dev | `willimarmei` | ~5mo |
-| [#2365](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2365) | [CHORE] Update Antropic lib _(draft)_ | `sstults-non-empl` | ~5mo |
 
 </details>
 
