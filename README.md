@@ -1,15 +1,16 @@
 # Search/Glue/Ingestion · open PRs
 
-_Auto-generated 2026-08-20 20:35 UTC · covers 6 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
+_Auto-generated 2026-08-20 21:33 UTC · covers 6 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
 
-**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts%20repo%3Amoodys-ma-mdc/mcfl-orion-portfolio-ingestion%20repo%3Amoodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
+**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mcfl-orion-portfolio-ingestion%20repo%3Amoodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
 
-**Stats:** 3 active today · 11 stale (>30d) · 5 dependabot · 8 drafts · **23 total**
+**Stats:** 4 active today · 11 stale (>30d) · 5 dependabot · 8 drafts · **24 total**
 
-<details><summary><b>mdc-data-search</b> · 6 PRs</summary>
+<details><summary><b>mdc-data-search</b> · 7 PRs</summary>
 
 | PR | Title | Author | Age |
 |---|---|---|---|
+| [#375](https://github.com/moodys-ma-mdc/mdc-data-search/pull/375) | [MDCPT-95931] OS Package API | `joellerobinson` | **today** |
 | [#374](https://github.com/moodys-ma-mdc/mdc-data-search/pull/374) | [MDCPT-99432] Add mustache parameter for injectable use-case boosts a… | `sstults-non-empl` | **today** |
 | [#365](https://github.com/moodys-ma-mdc/mdc-data-search/pull/365) | [MDCPT-99658] Add CloudWatch alarms with corrected ANOMALY_DETECTION_… | `aftimosm` | **today** |
 | [#372](https://github.com/moodys-ma-mdc/mdc-data-search/pull/372) | [MDCPT-96630] analyzer and field updates for organizations. _(draft)_ | `david-fisher` | 1d |
