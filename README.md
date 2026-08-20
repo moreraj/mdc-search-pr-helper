@@ -1,10 +1,10 @@
 # Search/Glue/Ingestion · open PRs
 
-_Auto-generated 2026-08-20 19:35 UTC · covers 7 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
+_Auto-generated 2026-08-20 20:35 UTC · covers 6 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
 
-**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts%20repo%3Amoodys-ma-mdc/mcfl-orion-portfolio-ingestion%20repo%3Amoodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2%20repo%3Amoodys-ma-mdc/mdc-global-search-api&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
+**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts%20repo%3Amoodys-ma-mdc/mcfl-orion-portfolio-ingestion%20repo%3Amoodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
 
-**Stats:** 4 active today · 11 stale (>30d) · 5 dependabot · 9 drafts · **24 total**
+**Stats:** 3 active today · 11 stale (>30d) · 5 dependabot · 8 drafts · **23 total**
 
 <details><summary><b>mdc-data-search</b> · 6 PRs</summary>
 
@@ -19,11 +19,10 @@ _Auto-generated 2026-08-20 19:35 UTC · covers 7 repos in `moodys-ma-mdc` · exc
 
 </details>
 
-<details><summary><b>mdc-search</b> · 3 PRs</summary>
+<details><summary><b>mdc-search</b> · 2 PRs</summary>
 
 | PR | Title | Author | Age |
 |---|---|---|---|
-| [#624](https://github.com/moodys-ma-mdc/mdc-search/pull/624) | test: [MDCPT-99012] Add e2e coverage for the Sectors results vertical _(draft)_ | `moreraj` | **today** |
 | [#617](https://github.com/moodys-ma-mdc/mdc-search/pull/617) | [MDCPT-98894] consuming OneView event to determine search input place… | `bs-moodys` | **today** |
 | [#619](https://github.com/moodys-ma-mdc/mdc-search/pull/619) | [MDCPT-98932] Decouple search-bar from CV2 React 16 (consume shared R… _(draft)_ | `mmaestri` | 1d |
 
@@ -71,8 +70,6 @@ _Auto-generated 2026-08-20 19:35 UTC · covers 7 repos in `moodys-ma-mdc` · exc
 | [#99](https://github.com/moodys-ma-mdc/mdc-data-search-quality-scripts/pull/99) | [MDCPT-31210] Code for structured chunk query evaluation / export _(draft)_ | `mkr` | ~3y |
 
 </details>
-
-<sub>Repos with no open PRs: `mdc-global-search-api`</sub>
 
 ---
 
