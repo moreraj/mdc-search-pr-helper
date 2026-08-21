@@ -1,15 +1,16 @@
 # Search/Glue/Ingestion · open PRs
 
-_Auto-generated 2026-08-21 16:40 UTC · covers 5 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
+_Auto-generated 2026-08-21 17:34 UTC · covers 5 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
 
 **[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mcfl-orion-portfolio-ingestion&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
 
-**Stats:** 4 active today · 11 stale (>30d) · 1 dependabot · 8 drafts · **20 total**
+**Stats:** 5 active today · 11 stale (>30d) · 1 dependabot · 8 drafts · **21 total**
 
-<details><summary><b>mdc-data-search</b> · 8 PRs</summary>
+<details><summary><b>mdc-data-search</b> · 9 PRs</summary>
 
 | PR | Title | Author | Age |
 |---|---|---|---|
+| [#382](https://github.com/moodys-ma-mdc/mdc-data-search/pull/382) | fix: [MDCPT-99658] Fix CloudWatch anomaly detection alarm validation… | `aftimosm` | **today** |
 | [#377](https://github.com/moodys-ma-mdc/mdc-data-search/pull/377) | [MDCPT-98686] Fix e2e tests in anonymous-api pipeline to use deployed… | `aftimosm` | **today** |
 | [#379](https://github.com/moodys-ma-mdc/mdc-data-search/pull/379) | fix: [MDCPT-98686] Wire range_filter through to template params in /v… | `aftimosm` | **today** |
 | [#375](https://github.com/moodys-ma-mdc/mdc-data-search/pull/375) | [MDCPT-95931] OS Package API | `joellerobinson` | **today** |
