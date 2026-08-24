@@ -1,21 +1,18 @@
 # Search/Glue/Ingestion · open PRs
 
-_Auto-generated 2026-08-24 17:35 UTC · covers 7 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
+_Auto-generated 2026-08-24 18:49 UTC · covers 7 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
 
-**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-legacy-services-search%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-data-etl-flaghub-glue%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mcfl-orion-portfolio-ingestion&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
+**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts%20repo%3Amoodys-ma-mdc/mdc-legacy-services-search%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-data-etl-flaghub-glue%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mcfl-orion-portfolio-ingestion&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
 
-**Stats:** 4 active today · 20 stale (>30d) · 9 dependabot · 8 drafts · **30 total**
+**Stats:** 4 active today · 20 stale (>30d) · 9 dependabot · 8 drafts · **27 total**
 
-<details><summary><b>mdc-data-search</b> · 9 PRs</summary>
+<details><summary><b>mdc-data-search</b> · 6 PRs</summary>
 
 | PR | Title | Author | Age |
 |---|---|---|---|
+| [#372](https://github.com/moodys-ma-mdc/mdc-data-search/pull/372) | [MDCPT-96630] analyzer and field updates for organizations. _(draft)_ | `david-fisher` | **today** |
 | [#375](https://github.com/moodys-ma-mdc/mdc-data-search/pull/375) | [MDCPT-95931] OS Package API | `joellerobinson` | **today** |
 | [#374](https://github.com/moodys-ma-mdc/mdc-data-search/pull/374) | [MDCPT-99432] Add mustache parameter for injectable use-case boosts a… | `sstults-non-empl` | **today** |
-| [#382](https://github.com/moodys-ma-mdc/mdc-data-search/pull/382) | fix: [MDCPT-99658] Fix CloudWatch anomaly detection alarm validation… | `aftimosm` | **today** |
-| [#377](https://github.com/moodys-ma-mdc/mdc-data-search/pull/377) | [MDCPT-98686] Fix e2e tests in anonymous-api pipeline to use deployed… | `aftimosm` | 3d |
-| [#379](https://github.com/moodys-ma-mdc/mdc-data-search/pull/379) | fix: [MDCPT-98686] Wire range_filter through to template params in /v… | `aftimosm` | 3d |
-| [#372](https://github.com/moodys-ma-mdc/mdc-data-search/pull/372) | [MDCPT-96630] analyzer and field updates for organizations. _(draft)_ | `david-fisher` | 4d |
 | [#238](https://github.com/moodys-ma-mdc/mdc-data-search/pull/238) | Revert "Revert "[MDCPT-93140] Reject malformed range_filter with 400… | `ahmedhamdyse` | ~2mo |
 | [#188](https://github.com/moodys-ma-mdc/mdc-data-search/pull/188) | [MDCPT-84270] Add search relevance triage skill _(draft)_ | `joellerobinson` | ~3mo |
 | [#79](https://github.com/moodys-ma-mdc/mdc-data-search/pull/79) | [MDCPT-72383] set aliases _(draft)_ | `sstults-non-empl` | ~5mo |
