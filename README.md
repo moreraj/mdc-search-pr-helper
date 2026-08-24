@@ -1,17 +1,18 @@
 # Search/Glue/Ingestion · open PRs
 
-_Auto-generated 2026-08-24 19:34 UTC · covers 7 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
+_Auto-generated 2026-08-24 20:37 UTC · covers 7 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
 
-**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts%20repo%3Amoodys-ma-mdc/mdc-legacy-services-search%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-data-etl-flaghub-glue%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mcfl-orion-portfolio-ingestion&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
+**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-global-search-api%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mcfl-astra-glue-etl%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts%20repo%3Amoodys-ma-mdc/mdc-legacy-services-search%20repo%3Amoodys-ma-mdc/mdc-data-search-glue&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
 
-**Stats:** 4 active today · 20 stale (>30d) · 9 dependabot · 8 drafts · **27 total**
+**Stats:** 5 active today · 20 stale (>30d) · 9 dependabot · 8 drafts · **27 total**
 
-<details><summary><b>mdc-data-search</b> · 6 PRs</summary>
+<details><summary><b>mdc-data-search</b> · 7 PRs</summary>
 
 | PR | Title | Author | Age |
 |---|---|---|---|
-| [#374](https://github.com/moodys-ma-mdc/mdc-data-search/pull/374) | [MDCPT-99432] Add mustache parameter for injectable use-case boosts a… | `sstults-non-empl` | **today** |
+| [#383](https://github.com/moodys-ma-mdc/mdc-data-search/pull/383) | [MDCPT-98686] Fix range_filter params nested under RANGE_FILTERS key | `aftimosm` | **today** |
 | [#375](https://github.com/moodys-ma-mdc/mdc-data-search/pull/375) | [MDCPT-95931] OS Package API | `joellerobinson` | **today** |
+| [#374](https://github.com/moodys-ma-mdc/mdc-data-search/pull/374) | [MDCPT-99432] Add mustache parameter for injectable use-case boosts a… | `sstults-non-empl` | **today** |
 | [#372](https://github.com/moodys-ma-mdc/mdc-data-search/pull/372) | [MDCPT-96630] analyzer and field updates for organizations. _(draft)_ | `david-fisher` | **today** |
 | [#238](https://github.com/moodys-ma-mdc/mdc-data-search/pull/238) | Revert "Revert "[MDCPT-93140] Reject malformed range_filter with 400… | `ahmedhamdyse` | ~2mo |
 | [#188](https://github.com/moodys-ma-mdc/mdc-data-search/pull/188) | [MDCPT-84270] Add search relevance triage skill _(draft)_ | `joellerobinson` | ~3mo |
@@ -40,14 +41,6 @@ _Auto-generated 2026-08-24 19:34 UTC · covers 7 repos in `moodys-ma-mdc` · exc
 
 </details>
 
-<details><summary><b>mcfl-orion-portfolio-ingestion</b> · 1 PRs</summary>
-
-| PR | Title | Author | Age |
-|---|---|---|---|
-| [#93](https://github.com/moodys-ma-mdc/mcfl-orion-portfolio-ingestion/pull/93) | Mcfl 2454 mcfl logging | `anany-moodys` | 7d |
-
-</details>
-
 <details><summary><b>mdc-data-search-quality-scripts</b> · 4 PRs</summary>
 
 | PR | Title | Author | Age |
@@ -71,11 +64,11 @@ _Auto-generated 2026-08-24 19:34 UTC · covers 7 repos in `moodys-ma-mdc` · exc
 | [#3](https://github.com/moodys-ma-mdc/mdc-legacy-services-search/pull/3) | Bump log4net from 2.0.8 to 2.0.10 in /MA.Content.Services.Search.Host | `dependabot[bot]` | ~10mo |
 | [#2](https://github.com/moodys-ma-mdc/mdc-legacy-services-search/pull/2) | Bump Newtonsoft.Json from 11.0.2 to 13.0.1 in /MA.Content.Services.Se… | `dependabot[bot]` | ~10mo |
 | [#1](https://github.com/moodys-ma-mdc/mdc-legacy-services-search/pull/1) | Bump Newtonsoft.Json from 11.0.2 to 13.0.1 in /MA.Content.Services.Se… | `dependabot[bot]` | ~10mo |
-| [#7](https://github.com/moodys-ma-mdc/mdc-legacy-services-search/pull/7) | [Snyk] Security upgrade Microsoft.AspNetCore.App from 2.1.3 to 2.1.20 | `sys-prod-devops-cicd` | ~3y |
+| [#7](https://github.com/moodys-ma-mdc/mdc-legacy-services-search/pull/7) | [Snyk] Security upgrade Microsoft.AspNetCore.App from 2.1.3 to 2.1.20 | `sys-prod-devops-cicd` | ~4y |
 
 </details>
 
-<sub>Repos with no open PRs: `mdc-data-etl-flaghub-glue`</sub>
+<sub>Repos with no open PRs: `mdc-global-search-api`, `mcfl-astra-glue-etl`</sub>
 
 ---
 
