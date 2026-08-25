@@ -1,17 +1,34 @@
 # Search/Glue/Ingestion · open PRs
 
-_Auto-generated 2026-08-25 20:35 UTC · covers 7 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
+_Auto-generated 2026-08-25 21:34 UTC · covers 8 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
 
-**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-data-etl-flaghub-glue%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts%20repo%3Amoodys-ma-mdc/mcfl-orion-portfolio-ingestion%20repo%3Amoodys-ma-mdc/mdc-global-search-api&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
+**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-legacy-services-search%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-data-etl-flaghub-glue%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts%20repo%3Amoodys-ma-mdc/mcfl-orion-portfolio-ingestion%20repo%3Amoodys-ma-mdc/mdc-global-search-api&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
 
-**Stats:** 4 active today · 11 stale (>30d) · 1 dependabot · 8 drafts · **20 total**
+**Stats:** 5 active today · 20 stale (>30d) · 9 dependabot · 8 drafts · **30 total**
+
+<details><summary><b>mdc-legacy-services-search</b> · 10 PRs</summary>
+
+| PR | Title | Author | Age |
+|---|---|---|---|
+| [#43](https://github.com/moodys-ma-mdc/mdc-legacy-services-search/pull/43) | Snappier | `JesreelGo` | **today** |
+| [#9](https://github.com/moodys-ma-mdc/mdc-legacy-services-search/pull/9) | Bump MongoDB.Driver from 2.5.0 to 2.19.0 in /MA.Content.Services.Sear… | `dependabot[bot]` | ~10mo |
+| [#8](https://github.com/moodys-ma-mdc/mdc-legacy-services-search/pull/8) | Bump MongoDB.Driver from 2.5.0 to 2.19.0 in /MA.Content.Services.Sear… | `dependabot[bot]` | ~10mo |
+| [#6](https://github.com/moodys-ma-mdc/mdc-legacy-services-search/pull/6) | Bump Newtonsoft.Json from 11.0.2 to 13.0.1 in /MA.Content.Services.Se… | `dependabot[bot]` | ~10mo |
+| [#5](https://github.com/moodys-ma-mdc/mdc-legacy-services-search/pull/5) | Bump Microsoft.AspNetCore.App from 2.1.3 to 2.1.22 in /MA.Content.Ser… | `dependabot[bot]` | ~10mo |
+| [#4](https://github.com/moodys-ma-mdc/mdc-legacy-services-search/pull/4) | Bump Microsoft.AspNetCore.App from 2.1.3 to 2.1.22 in /MA.Content.Ser… | `dependabot[bot]` | ~10mo |
+| [#3](https://github.com/moodys-ma-mdc/mdc-legacy-services-search/pull/3) | Bump log4net from 2.0.8 to 2.0.10 in /MA.Content.Services.Search.Host | `dependabot[bot]` | ~10mo |
+| [#2](https://github.com/moodys-ma-mdc/mdc-legacy-services-search/pull/2) | Bump Newtonsoft.Json from 11.0.2 to 13.0.1 in /MA.Content.Services.Se… | `dependabot[bot]` | ~10mo |
+| [#1](https://github.com/moodys-ma-mdc/mdc-legacy-services-search/pull/1) | Bump Newtonsoft.Json from 11.0.2 to 13.0.1 in /MA.Content.Services.Se… | `dependabot[bot]` | ~10mo |
+| [#7](https://github.com/moodys-ma-mdc/mdc-legacy-services-search/pull/7) | [Snyk] Security upgrade Microsoft.AspNetCore.App from 2.1.3 to 2.1.20 | `sys-prod-devops-cicd` | ~4y |
+
+</details>
 
 <details><summary><b>mdc-data-search</b> · 8 PRs</summary>
 
 | PR | Title | Author | Age |
 |---|---|---|---|
-| [#389](https://github.com/moodys-ma-mdc/mdc-data-search/pull/389) | [MDCPT-91413] Fix the two e2e tests #387 missed and de-vacuum the emp… | `moreraj` | **today** |
 | [#390](https://github.com/moodys-ma-mdc/mdc-data-search/pull/390) | [MDCPT-98686] Use http scheme for internal ALB in e2e URL normalizati… | `aftimosm` | **today** |
+| [#389](https://github.com/moodys-ma-mdc/mdc-data-search/pull/389) | [MDCPT-91413] Fix the two e2e tests #387 missed and de-vacuum the emp… | `moreraj` | **today** |
 | [#374](https://github.com/moodys-ma-mdc/mdc-data-search/pull/374) | [MDCPT-99432] Add mustache parameter for injectable use-case boosts a… | `sstults-non-empl` | **today** |
 | [#372](https://github.com/moodys-ma-mdc/mdc-data-search/pull/372) | [MDCPT-96630] analyzer and field updates for organizations. _(draft)_ | `david-fisher` | **today** |
 | [#375](https://github.com/moodys-ma-mdc/mdc-data-search/pull/375) | [MDCPT-95931] OS Package API | `joellerobinson` | 1d |
