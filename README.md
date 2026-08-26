@@ -1,24 +1,44 @@
 # Search/Glue/Ingestion · open PRs
 
-_Auto-generated 2026-08-26 14:50 UTC · covers 8 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
+_Auto-generated 2026-08-26 16:22 UTC · covers 8 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
 
-**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-global-search-api%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mcfl-orion-portfolio-ingestion%20repo%3Amoodys-ma-mdc/mdc-legacy-services-search%20repo%3Amoodys-ma-mdc/mdc-data-etl-flaghub-glue%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
+**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-global-search-api%20repo%3Amoodys-ma-mdc/mcfl-orion-portfolio-ingestion%20repo%3Amoodys-ma-mdc/mdc-legacy-services-search%20repo%3Amoodys-ma-mdc/mdc-data-etl-flaghub-glue%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
 
-**Stats:** 6 active today · 20 stale (>30d) · 9 dependabot · 7 drafts · **31 total**
+**Stats:** 6 active today · 20 stale (>30d) · 9 dependabot · 8 drafts · **31 total**
 
-<details><summary><b>mdc-data-search</b> · 9 PRs</summary>
+<details><summary><b>mdc-data-search-glue</b> · 7 PRs</summary>
 
 | PR | Title | Author | Age |
 |---|---|---|---|
-| [#393](https://github.com/moodys-ma-mdc/mdc-data-search/pull/393) | [MDCPT-98686] Upgrade OpenSSL packages to fix HIGH severity CVEs | `aftimosm` | **today** |
+| [#2809](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2809) | [MDCPT-101680] Fix null-propagation row loss in orgv2 unrated split | `spearsear` | **today** |
+| [#2799](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2799) | [CHORE] Read EAI peer group details parquet directory in a single Spa… | `ahmedhamdyse` | 7d |
+| [#2767](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2767) | [MDCPT-95601] Fix research-sector S3-to-postgres KeyError on empty/un… | `ahmedhamdyse` | ~6w |
+| [#2656](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2656) | [CHORE] Change CODEOWNERS to mdc-search team | `aftimosm` | ~2mo |
+| [#2520](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2520) | Revert "[CHORE] revert-OS-authentication-to-unblock-STG" | `KavyaOS` | ~5mo |
+| [#2429](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2429) | [CHORE] Add S3 and OS audit job for local dev | `willimarmei` | ~5mo |
+| [#2365](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2365) | [CHORE] Update Antropic lib _(draft)_ | `sstults-non-empl` | ~5mo |
+
+</details>
+
+<details><summary><b>mdc-data-search</b> · 7 PRs</summary>
+
+| PR | Title | Author | Age |
+|---|---|---|---|
+| [#394](https://github.com/moodys-ma-mdc/mdc-data-search/pull/394) | [DRAFT] Upgrade OpenSSL packages to fix HIGH severity CVEs _(draft)_ | `aftimosm` | **today** |
 | [#392](https://github.com/moodys-ma-mdc/mdc-data-search/pull/392) | [MDCPT-100703] Add track_total_hits fallback to mdc_event_template | `sstults-non-empl` | **today** |
-| [#374](https://github.com/moodys-ma-mdc/mdc-data-search/pull/374) | [MDCPT-99432] Add mustache parameter for injectable use-case boosts a… | `sstults-non-empl` | **today** |
 | [#372](https://github.com/moodys-ma-mdc/mdc-data-search/pull/372) | [MDCPT-96630] analyzer and field updates for organizations. | `david-fisher` | **today** |
-| [#389](https://github.com/moodys-ma-mdc/mdc-data-search/pull/389) | [MDCPT-91413] Fix the two e2e tests #387 missed and de-vacuum the emp… | `moreraj` | **today** |
 | [#375](https://github.com/moodys-ma-mdc/mdc-data-search/pull/375) | [MDCPT-95931] OS Package API | `joellerobinson` | 1d |
 | [#238](https://github.com/moodys-ma-mdc/mdc-data-search/pull/238) | Revert "Revert "[MDCPT-93140] Reject malformed range_filter with 400… | `ahmedhamdyse` | ~2mo |
 | [#188](https://github.com/moodys-ma-mdc/mdc-data-search/pull/188) | [MDCPT-84270] Add search relevance triage skill _(draft)_ | `joellerobinson` | ~3mo |
 | [#79](https://github.com/moodys-ma-mdc/mdc-data-search/pull/79) | [MDCPT-72383] set aliases _(draft)_ | `sstults-non-empl` | ~5mo |
+
+</details>
+
+<details><summary><b>mdc-global-search-api</b> · 1 PRs</summary>
+
+| PR | Title | Author | Age |
+|---|---|---|---|
+| [#148](https://github.com/moodys-ma-mdc/mdc-global-search-api/pull/148) | [MDCPT-90228] Derive all 7 gateway paths in endpoint test helper | `moreraj` | **today** |
 
 </details>
 
@@ -47,19 +67,6 @@ _Auto-generated 2026-08-26 14:50 UTC · covers 8 repos in `moodys-ma-mdc` · exc
 
 </details>
 
-<details><summary><b>mdc-data-search-glue</b> · 6 PRs</summary>
-
-| PR | Title | Author | Age |
-|---|---|---|---|
-| [#2799](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2799) | [CHORE] Read EAI peer group details parquet directory in a single Spa… | `ahmedhamdyse` | 6d |
-| [#2767](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2767) | [MDCPT-95601] Fix research-sector S3-to-postgres KeyError on empty/un… | `ahmedhamdyse` | ~6w |
-| [#2656](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2656) | [CHORE] Change CODEOWNERS to mdc-search team | `aftimosm` | ~2mo |
-| [#2520](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2520) | Revert "[CHORE] revert-OS-authentication-to-unblock-STG" | `KavyaOS` | ~5mo |
-| [#2429](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2429) | [CHORE] Add S3 and OS audit job for local dev | `willimarmei` | ~5mo |
-| [#2365](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2365) | [CHORE] Update Antropic lib _(draft)_ | `sstults-non-empl` | ~5mo |
-
-</details>
-
 <details><summary><b>mcfl-orion-portfolio-ingestion</b> · 1 PRs</summary>
 
 | PR | Title | Author | Age |
@@ -79,7 +86,7 @@ _Auto-generated 2026-08-26 14:50 UTC · covers 8 repos in `moodys-ma-mdc` · exc
 
 </details>
 
-<sub>Repos with no open PRs: `mdc-global-search-api`, `mdc-data-etl-flaghub-glue`</sub>
+<sub>Repos with no open PRs: `mdc-data-etl-flaghub-glue`</sub>
 
 ---
 
