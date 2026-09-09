@@ -1,19 +1,10 @@
 # Search/Glue/Ingestion · open PRs
 
-_Auto-generated 2026-09-09 17:44 UTC · covers 8 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
+_Auto-generated 2026-09-09 20:48 UTC · covers 7 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
 
-**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2%20repo%3Amoodys-ma-mdc/mdc-global-search-api%20repo%3Amoodys-ma-mdc/mdc-data-etl-mflo-glue%20repo%3Amoodys-ma-mdc/mdc-data-etl-flaghub-glue&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
+**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts%20repo%3Amoodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2%20repo%3Amoodys-ma-mdc/mdc-global-search-api%20repo%3Amoodys-ma-mdc/mdc-data-etl-mflo-glue&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
 
-**Stats:** 4 active today · 11 stale (>30d) · 3 dependabot · 7 drafts · **21 total**
-
-<details><summary><b>mdc-search</b> · 2 PRs</summary>
-
-| PR | Title | Author | Age |
-|---|---|---|---|
-| [#648](https://github.com/moodys-ma-mdc/mdc-search/pull/648) | test: [MDCPT-00000] fix v2 identifier locators and deal-id reload race | `moreraj` | **today** |
-| [#619](https://github.com/moodys-ma-mdc/mdc-search/pull/619) | [MDCPT-98932] Decouple search-bar from CV2 React 16 (consume shared R… _(draft)_ | `mmaestri` | 2d |
-
-</details>
+**Stats:** 1 active today · 11 stale (>30d) · 3 dependabot · 7 drafts · **20 total**
 
 <details><summary><b>mdc-data-search-quality-scripts</b> · 5 PRs</summary>
 
@@ -31,7 +22,7 @@ _Auto-generated 2026-09-09 17:44 UTC · covers 8 repos in `moodys-ma-mdc` · exc
 
 | PR | Title | Author | Age |
 |---|---|---|---|
-| [#438](https://github.com/moodys-ma-mdc/mdc-data-search/pull/438) | [MDCPT-90260] Drop GET support from /mgm/search, validate listed codes | `dave-moody` | **today** |
+| [#438](https://github.com/moodys-ma-mdc/mdc-data-search/pull/438) | [MDCPT-90260] Drop GET support from /mgm/search, validate listed codes | `dave-moody` | 1d |
 | [#429](https://github.com/moodys-ma-mdc/mdc-data-search/pull/429) | [CHORE] Ignore the root pyproject.toml PyCharm generates | `sstults-non-empl` | 5d |
 | [#238](https://github.com/moodys-ma-mdc/mdc-data-search/pull/238) | Revert "Revert "[MDCPT-93140] Reject malformed range_filter with 400… | `ahmedhamdyse` | ~3mo |
 | [#188](https://github.com/moodys-ma-mdc/mdc-data-search/pull/188) | [MDCPT-84270] Add search relevance triage skill _(draft)_ | `joellerobinson` | ~4mo |
@@ -43,8 +34,8 @@ _Auto-generated 2026-09-09 17:44 UTC · covers 8 repos in `moodys-ma-mdc` · exc
 
 | PR | Title | Author | Age |
 |---|---|---|---|
-| [#54](https://github.com/moodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2/pull/54) | Bump io.netty:netty-handler from 4.1.118.Final to 4.1.137.Final | `dependabot[bot]` | **today** |
-| [#53](https://github.com/moodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2/pull/53) | Bump io.netty:netty-codec-http from 4.1.125.Final to 4.1.137.Final | `dependabot[bot]` | 22d |
+| [#54](https://github.com/moodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2/pull/54) | Bump io.netty:netty-handler from 4.1.118.Final to 4.1.137.Final | `dependabot[bot]` | 1d |
+| [#53](https://github.com/moodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2/pull/53) | Bump io.netty:netty-codec-http from 4.1.125.Final to 4.1.137.Final | `dependabot[bot]` | 23d |
 
 </details>
 
@@ -53,6 +44,14 @@ _Auto-generated 2026-09-09 17:44 UTC · covers 8 repos in `moodys-ma-mdc` · exc
 | PR | Title | Author | Age |
 |---|---|---|---|
 | [#7](https://github.com/moodys-ma-mdc/mdc-data-etl-mflo-glue/pull/7) | add madatasharing configs | `tmoran1` | 1d |
+
+</details>
+
+<details><summary><b>mdc-search</b> · 1 PRs</summary>
+
+| PR | Title | Author | Age |
+|---|---|---|---|
+| [#619](https://github.com/moodys-ma-mdc/mdc-search/pull/619) | [MDCPT-98932] Decouple search-bar from CV2 React 16 (consume shared R… _(draft)_ | `mmaestri` | 2d |
 
 </details>
 
@@ -69,7 +68,7 @@ _Auto-generated 2026-09-09 17:44 UTC · covers 8 repos in `moodys-ma-mdc` · exc
 
 </details>
 
-<sub>Repos with no open PRs: `mdc-global-search-api`, `mdc-data-etl-flaghub-glue`</sub>
+<sub>Repos with no open PRs: `mdc-global-search-api`</sub>
 
 ---
 
