@@ -1,10 +1,10 @@
 # Search/Glue/Ingestion · open PRs
 
-_Auto-generated 2026-09-14 22:40 UTC · covers 8 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
+_Auto-generated 2026-09-15 01:18 UTC · covers 7 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
 
-**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-data-search-preprocessing%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-data-search-solr%20repo%3Amoodys-ma-mdc/mdc-global-search-api%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts%20repo%3Amoodys-ma-mdc/mdc-search-bot&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
+**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-data-search-preprocessing%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-data-search-solr%20repo%3Amoodys-ma-mdc/mdc-global-search-api%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
 
-**Stats:** 2 active today · 23 stale (>30d) · 8 dependabot · 11 drafts · **34 total**
+**Stats:** 2 active today · 18 stale (>30d) · 1 dependabot · 11 drafts · **26 total**
 
 <details><summary><b>mdc-data-search-preprocessing</b> · 8 PRs</summary>
 
@@ -32,21 +32,6 @@ _Auto-generated 2026-09-14 22:40 UTC · covers 8 repos in `moodys-ma-mdc` · exc
 | [#238](https://github.com/moodys-ma-mdc/mdc-data-search/pull/238) | Revert "Revert "[MDCPT-93140] Reject malformed range_filter with 400… | `ahmedhamdyse` | ~3mo |
 | [#188](https://github.com/moodys-ma-mdc/mdc-data-search/pull/188) | [MDCPT-84270] Add search relevance triage skill _(draft)_ | `joellerobinson` | ~4mo |
 | [#79](https://github.com/moodys-ma-mdc/mdc-data-search/pull/79) | [MDCPT-72383] set aliases _(draft)_ | `sstults-non-empl` | ~6mo |
-
-</details>
-
-<details><summary><b>mdc-search-bot</b> · 8 PRs</summary>
-
-| PR | Title | Author | Age |
-|---|---|---|---|
-| [#82](https://github.com/moodys-ma-mdc/mdc-search-bot/pull/82) | chore(deps-dev): bump baseline-browser-mapping from 2.10.35 to 2.11.2… | `dependabot[bot]` | 3d |
-| [#81](https://github.com/moodys-ma-mdc/mdc-search-bot/pull/81) | chore(deps-dev): bump postcss-selector-parser from 7.1.2 to 7.1.5 in… | `dependabot[bot]` | 12d |
-| [#80](https://github.com/moodys-ma-mdc/mdc-search-bot/pull/80) | chore(deps-dev): bump nanoid from 3.3.12 to 3.3.18 in /apps/api/cdk | `dependabot[bot]` | 28d |
-| [#79](https://github.com/moodys-ma-mdc/mdc-search-bot/pull/79) | chore(deps-dev): bump postcss from 8.5.15 to 8.5.26 in /apps/teams-re… | `dependabot[bot]` | ~6w |
-| [#78](https://github.com/moodys-ma-mdc/mdc-search-bot/pull/78) | chore(deps): bump cryptography from 48.0.0 to 50.0.0 in /apps/api | `dependabot[bot]` | ~6w |
-| [#77](https://github.com/moodys-ma-mdc/mdc-search-bot/pull/77) | chore(deps-dev): bump postcss from 8.5.15 to 8.5.25 in /apps/api/cdk | `dependabot[bot]` | ~6w |
-| [#76](https://github.com/moodys-ma-mdc/mdc-search-bot/pull/76) | chore(deps-dev): bump shell-quote from 1.8.4 to 1.10.0 in /apps/api/c… | `dependabot[bot]` | ~7w |
-| [#75](https://github.com/moodys-ma-mdc/mdc-search-bot/pull/75) | [MDCPT-XXXXX] phase 32: split.io feature flag gate for frontend | `aftimosm` | ~3mo |
 
 </details>
 
