@@ -1,10 +1,10 @@
 # Search/Glue/Ingestion · open PRs
 
-_Auto-generated 2026-09-15 18:03 UTC · covers 7 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
+_Auto-generated 2026-09-15 21:40 UTC · covers 7 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
 
-**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-data-search-solr%20repo%3Amoodys-ma-mdc/mdc-data-search-preprocessing%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-global-search-api%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
+**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-data-search-solr%20repo%3Amoodys-ma-mdc/mdc-data-search-preprocessing%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-global-search-api%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
 
-**Stats:** 3 active today · 18 stale (>30d) · 1 dependabot · 11 drafts · **25 total**
+**Stats:** 2 active today · 18 stale (>30d) · 1 dependabot · 11 drafts · **25 total**
 
 <details><summary><b>mdc-data-search-solr</b> · 1 PRs</summary>
 
@@ -19,9 +19,9 @@ _Auto-generated 2026-09-15 18:03 UTC · covers 7 repos in `moodys-ma-mdc` · exc
 | PR | Title | Author | Age |
 |---|---|---|---|
 | [#438](https://github.com/moodys-ma-mdc/mdc-data-search/pull/438) | [MDCPT-90260] Drop GET support from /mgm/search, validate listed codes | `dave-moody` | **today** |
-| [#454](https://github.com/moodys-ma-mdc/mdc-data-search/pull/454) | [MDCPT-103366] Add CCR monitoring to new admin app _(draft)_ | `SeanFortney-Moodys` | **today** |
+| [#454](https://github.com/moodys-ma-mdc/mdc-data-search/pull/454) | [MDCPT-103366] Add CCR monitoring to new admin app _(draft)_ | `SeanFortney-Moodys` | 1d |
 | [#444](https://github.com/moodys-ma-mdc/mdc-data-search/pull/444) | [CHORE] configure Waitress trusted_proxy to pass X-Forwarded-For from… _(draft)_ | `aftimosm` | 4d |
-| [#441](https://github.com/moodys-ma-mdc/mdc-data-search/pull/441) | [MDCPT-98688] Scope marketing organization results to the Capital Mar… _(draft)_ | `sstults-non-empl` | 4d |
+| [#441](https://github.com/moodys-ma-mdc/mdc-data-search/pull/441) | [MDCPT-98688] Scope marketing organization results to the Capital Mar… _(draft)_ | `sstults-non-empl` | 5d |
 | [#238](https://github.com/moodys-ma-mdc/mdc-data-search/pull/238) | Revert "Revert "[MDCPT-93140] Reject malformed range_filter with 400… | `ahmedhamdyse` | ~3mo |
 | [#188](https://github.com/moodys-ma-mdc/mdc-data-search/pull/188) | [MDCPT-84270] Add search relevance triage skill _(draft)_ | `joellerobinson` | ~4mo |
 | [#79](https://github.com/moodys-ma-mdc/mdc-data-search/pull/79) | [MDCPT-72383] set aliases _(draft)_ | `sstults-non-empl` | ~6mo |
