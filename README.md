@@ -1,16 +1,16 @@
 # Search/Glue/Ingestion · open PRs
 
-_Auto-generated 2026-09-18 17:36 UTC · covers 10 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
+_Auto-generated 2026-09-18 20:44 UTC · covers 9 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
 
-**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-search-bot%20repo%3Amoodys-ma-mdc/mdc-mv-data-search-api%20repo%3Amoodys-ma-mdc/mdc-data-search-glue-privatepdf%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-global-search-api%20repo%3Amoodys-ma-mdc/mdc-data-search-preprocessing%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-data-etl-mflo-glue%20repo%3Amoodys-ma-mdc/mdc-data-search-solr&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
+**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-data-search-preprocessing%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-search-bot%20repo%3Amoodys-ma-mdc/mdc-mv-data-search-api%20repo%3Amoodys-ma-mdc/mdc-data-search-glue-privatepdf%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-global-search-api%20repo%3Amoodys-ma-mdc/mdc-data-etl-mflo-glue&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
 
-**Stats:** 4 active today · 53 stale (>30d) · 20 dependabot · 12 drafts · **65 total**
+**Stats:** 2 active today · 53 stale (>30d) · 20 dependabot · 11 drafts · **64 total**
 
 <details><summary><b>mdc-data-search-preprocessing</b> · 8 PRs</summary>
 
 | PR | Title | Author | Age |
 |---|---|---|---|
-| [#589](https://github.com/moodys-ma-mdc/mdc-data-search-preprocessing/pull/589) | [MDCPT-99660] Cast ids to strings for debts & tranches _(draft)_ | `lkocharian` | **today** |
+| [#589](https://github.com/moodys-ma-mdc/mdc-data-search-preprocessing/pull/589) | [MDCPT-99660] Cast ids to strings for deals, debts, and tranches | `lkocharian` | **today** |
 | [#572](https://github.com/moodys-ma-mdc/mdc-data-search-preprocessing/pull/572) | Revert "[CHORE] Reverting OS authentication to unblock STG" | `KavyaOS` | ~5mo |
 | [#570](https://github.com/moodys-ma-mdc/mdc-data-search-preprocessing/pull/570) | Bump requests from 2.32.3 to 2.33.0 | `dependabot[bot]` | ~6mo |
 | [#561](https://github.com/moodys-ma-mdc/mdc-data-search-preprocessing/pull/561) | Revert "[MDCPT-74831] org glue cutover" _(draft)_ | `joellerobinson` | ~8mo |
@@ -35,27 +35,26 @@ _Auto-generated 2026-09-18 17:36 UTC · covers 10 repos in `moodys-ma-mdc` · ex
 
 </details>
 
-<details><summary><b>mdc-search</b> · 2 PRs</summary>
-
-| PR | Title | Author | Age |
-|---|---|---|---|
-| [#660](https://github.com/moodys-ma-mdc/mdc-search/pull/660) | fix: [MDCPT-104499] Remove dialog when no recent searches | `MaxAgliunin` | **today** |
-| [#657](https://github.com/moodys-ma-mdc/mdc-search/pull/657) | [MDCPT-98932] Decouple search-bar from CV2 React 16 (consume shared R… _(draft)_ | `mmaestri` | 2d |
-
-</details>
-
 <details><summary><b>mdc-data-search</b> · 8 PRs</summary>
 
 | PR | Title | Author | Age |
 |---|---|---|---|
-| [#461](https://github.com/moodys-ma-mdc/mdc-data-search/pull/461) | Chore/schemathesis search poc _(draft)_ | `aftimosm` | **today** |
+| [#461](https://github.com/moodys-ma-mdc/mdc-data-search/pull/461) | Chore/schemathesis search poc _(draft)_ | `aftimosm` | 1d |
 | [#460](https://github.com/moodys-ma-mdc/mdc-data-search/pull/460) | [MDCPT-104501] Gate typeahead/globalsearch-all S3 index cutover on ca… | `aftimosm` | 1d |
 | [#438](https://github.com/moodys-ma-mdc/mdc-data-search/pull/438) | [MDCPT-90260] Drop GET support from /mgm/search, validate listed codes | `dave-moody` | 1d |
-| [#441](https://github.com/moodys-ma-mdc/mdc-data-search/pull/441) | [MDCPT-98688] Scope marketing organization results to the Capital Mar… _(draft)_ | `sstults-non-empl` | 1d |
+| [#441](https://github.com/moodys-ma-mdc/mdc-data-search/pull/441) | [MDCPT-98688] Scope marketing organization results to the Capital Mar… _(draft)_ | `sstults-non-empl` | 2d |
 | [#454](https://github.com/moodys-ma-mdc/mdc-data-search/pull/454) | [MDCPT-103366] Add CCR monitoring to new admin app _(draft)_ | `SeanFortney-Moodys` | 2d |
 | [#238](https://github.com/moodys-ma-mdc/mdc-data-search/pull/238) | Revert "Revert "[MDCPT-93140] Reject malformed range_filter with 400… | `ahmedhamdyse` | ~3mo |
 | [#188](https://github.com/moodys-ma-mdc/mdc-data-search/pull/188) | [MDCPT-84270] Add search relevance triage skill _(draft)_ | `joellerobinson` | ~4mo |
 | [#79](https://github.com/moodys-ma-mdc/mdc-data-search/pull/79) | [MDCPT-72383] set aliases _(draft)_ | `sstults-non-empl` | ~6mo |
+
+</details>
+
+<details><summary><b>mdc-search</b> · 1 PRs</summary>
+
+| PR | Title | Author | Age |
+|---|---|---|---|
+| [#657](https://github.com/moodys-ma-mdc/mdc-search/pull/657) | [MDCPT-98932] Decouple search-bar from CV2 React 16 (consume shared R… _(draft)_ | `mmaestri` | 2d |
 
 </details>
 
@@ -120,7 +119,7 @@ _Auto-generated 2026-09-18 17:36 UTC · covers 10 repos in `moodys-ma-mdc` · ex
 
 </details>
 
-<sub>Repos with no open PRs: `mdc-global-search-api`, `mdc-data-etl-mflo-glue`, `mdc-data-search-solr`</sub>
+<sub>Repos with no open PRs: `mdc-global-search-api`, `mdc-data-etl-mflo-glue`</sub>
 
 ---
 
