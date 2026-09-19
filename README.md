@@ -1,6 +1,6 @@
 # Search/Glue/Ingestion · open PRs
 
-_Auto-generated 2026-09-18 23:09 UTC · covers 9 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
+_Auto-generated 2026-09-19 01:28 UTC · covers 9 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
 
 **[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-data-search-preprocessing%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-search-bot%20repo%3Amoodys-ma-mdc/mdc-mv-data-search-api%20repo%3Amoodys-ma-mdc/mdc-data-search-glue-privatepdf%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-global-search-api%20repo%3Amoodys-ma-mdc/mdc-data-etl-mflo-glue&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
 
@@ -82,7 +82,7 @@ _Auto-generated 2026-09-18 23:09 UTC · covers 9 repos in `moodys-ma-mdc` · exc
 | [#52](https://github.com/moodys-ma-mdc/mdc-data-search-glue-privatepdf/pull/52) | [Snyk] Security upgrade wheel from 0.41.1 to 0.46.2 | `sys-prod-devops-cicd` | ~8mo |
 | [#51](https://github.com/moodys-ma-mdc/mdc-data-search-glue-privatepdf/pull/51) | Bump wheel from 0.41.1 to 0.46.2 in /apps/pipeline | `dependabot[bot]` | ~8mo |
 | [#50](https://github.com/moodys-ma-mdc/mdc-data-search-glue-privatepdf/pull/50) | [Snyk] Security upgrade urllib3 from 1.26.20 to 2.6.3 | `sys-prod-devops-cicd` | ~8mo |
-| [#49](https://github.com/moodys-ma-mdc/mdc-data-search-glue-privatepdf/pull/49) | [Snyk] Security upgrade urllib3 from 1.26.20 to 2.6.0 | `sys-prod-devops-cicd` | ~9mo |
+| [#49](https://github.com/moodys-ma-mdc/mdc-data-search-glue-privatepdf/pull/49) | [Snyk] Security upgrade urllib3 from 1.26.20 to 2.6.0 | `sys-prod-devops-cicd` | ~10mo |
 | [#48](https://github.com/moodys-ma-mdc/mdc-data-search-glue-privatepdf/pull/48) | [Snyk] Security upgrade pdfminer.six from 20231228 to 20251107 | `sys-prod-devops-cicd` | ~10mo |
 | [#45](https://github.com/moodys-ma-mdc/mdc-data-search-glue-privatepdf/pull/45) | [Mdcpt-64605] deploy async privatepdf resources from privatepdf repo | `gurionmarks` | ~12mo |
 | [#35](https://github.com/moodys-ma-mdc/mdc-data-search-glue-privatepdf/pull/35) | [Snyk] Security upgrade urllib3 from 1.26.20 to 2.5.0 | `sys-prod-devops-cicd` | ~1y |
