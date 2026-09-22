@@ -1,8 +1,8 @@
 # Search/Glue/Ingestion · open PRs
 
-_Auto-generated 2026-09-21 22:45 UTC · covers 8 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
+_Auto-generated 2026-09-22 01:32 UTC · covers 9 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
 
-**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mcfl-orion-portfolio-ingestion%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-search-bot%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-data-search-preprocessing%20repo%3Amoodys-ma-mdc/mdc-mv-data-search-api%20repo%3Amoodys-ma-mdc/mdc-data-search-glue-privatepdf&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
+**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-etl-flaghub-glue%20repo%3Amoodys-ma-mdc/mcfl-orion-portfolio-ingestion%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-search-bot%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-data-search-preprocessing%20repo%3Amoodys-ma-mdc/mdc-mv-data-search-api%20repo%3Amoodys-ma-mdc/mdc-data-search-glue-privatepdf&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
 
 **Stats:** 4 active today · 52 stale (>30d) · 22 dependabot · 12 drafts · **66 total**
 
@@ -112,9 +112,9 @@ _Auto-generated 2026-09-21 22:45 UTC · covers 8 repos in `moodys-ma-mdc` · exc
 | [#114](https://github.com/moodys-ma-mdc/mdc-mv-data-search-api/pull/114) | [Snyk] Security upgrade urllib3 from 2.5.0 to 2.6.3 | `sys-prod-devops-cicd` | ~8mo |
 | [#96](https://github.com/moodys-ma-mdc/mdc-mv-data-search-api/pull/96) | Bump urllib3 from 2.5.0 to 2.6.3 in /apps/web-search | `dependabot[bot]` | ~8mo |
 | [#113](https://github.com/moodys-ma-mdc/mdc-mv-data-search-api/pull/113) | Bump urllib3 from 2.5.0 to 2.6.3 in /apps/anonymous-search | `dependabot[bot]` | ~8mo |
-| [#111](https://github.com/moodys-ma-mdc/mdc-mv-data-search-api/pull/111) | Bump werkzeug from 3.1.4 to 3.1.5 in /packages/mdc_common | `dependabot[bot]` | ~8mo |
-| [#110](https://github.com/moodys-ma-mdc/mdc-mv-data-search-api/pull/110) | Bump werkzeug from 3.0.6 to 3.1.5 in /apps/anonymous-search | `dependabot[bot]` | ~8mo |
-| [#109](https://github.com/moodys-ma-mdc/mdc-mv-data-search-api/pull/109) | Bump werkzeug from 3.0.6 to 3.1.5 in /apps/web-search | `dependabot[bot]` | ~8mo |
+| [#111](https://github.com/moodys-ma-mdc/mdc-mv-data-search-api/pull/111) | Bump werkzeug from 3.1.4 to 3.1.5 in /packages/mdc_common | `dependabot[bot]` | ~9mo |
+| [#110](https://github.com/moodys-ma-mdc/mdc-mv-data-search-api/pull/110) | Bump werkzeug from 3.0.6 to 3.1.5 in /apps/anonymous-search | `dependabot[bot]` | ~9mo |
+| [#109](https://github.com/moodys-ma-mdc/mdc-mv-data-search-api/pull/109) | Bump werkzeug from 3.0.6 to 3.1.5 in /apps/web-search | `dependabot[bot]` | ~9mo |
 | [#87](https://github.com/moodys-ma-mdc/mdc-mv-data-search-api/pull/87) | [Snyk] Security upgrade aiohttp from 3.12.15 to 3.13.3 | `sys-prod-devops-cicd` | ~9mo |
 | [#84](https://github.com/moodys-ma-mdc/mdc-mv-data-search-api/pull/84) | Bump aiohttp from 3.13.2 to 3.13.3 in /apps/web-search | `dependabot[bot]` | ~9mo |
 | [#83](https://github.com/moodys-ma-mdc/mdc-mv-data-search-api/pull/83) | Bump aiohttp from 3.13.2 to 3.13.3 in /apps/anonymous-search | `dependabot[bot]` | ~9mo |
@@ -127,6 +127,8 @@ _Auto-generated 2026-09-21 22:45 UTC · covers 8 repos in `moodys-ma-mdc` · exc
 | [#1](https://github.com/moodys-ma-mdc/mdc-mv-data-search-api/pull/1) | [CHORE] - first round of libs poc | `aftimosm` | ~1y |
 
 </details>
+
+<sub>Repos with no open PRs: `mdc-data-etl-flaghub-glue`</sub>
 
 ---
 
