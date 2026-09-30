@@ -1,16 +1,17 @@
 # Search/Glue/Ingestion · open PRs
 
-_Auto-generated 2026-09-30 02:18 UTC · covers 24 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
+_Auto-generated 2026-09-30 19:02 UTC · covers 21 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
 
-**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-data-search-solr%20repo%3Amoodys-ma-mdc/mdc-data-search-api%20repo%3Amoodys-ma-mdc/mdc-global-search-api%20repo%3Amoodys-ma-mdc/mdc-mv-data-search-api%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts%20repo%3Amoodys-ma-mdc/mdc-data-search-infra-builder%20repo%3Amoodys-ma-mdc/mdc-data-search-document-db-kafka%20repo%3Amoodys-ma-mdc/mdc-data-private-search-api%20repo%3Amoodys-ma-mdc/mdc-data-etl-sovereign-financials-glue%20repo%3Amoodys-ma-mdc/mdc-data-etl-sf-glue%20repo%3Amoodys-ma-mdc/mdc-data-etl-s3-sync-glue%20repo%3Amoodys-ma-mdc/mdc-data-api-search-config%20repo%3Amoodys-ma-mdc/di-data-search-ml-frontend-poc%20repo%3Amoodys-ma-mdc/di-data-search-ingestion-workflow%20repo%3Amoodys-ma-mdc/di-data-search-data-bridge%20repo%3Amoodys-ma-mdc/di-data-api-search%20repo%3Amoodys-ma-mdc/mdc-data-search-query-sampler%20repo%3Amoodys-ma-mdc/mdc-data-search-quepid%20repo%3Amoodys-ma-mdc/mdc-data-search-preprocessing%20repo%3Amoodys-ma-mdc/mdc-data-search-spark-solr-jobs%20repo%3Amoodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2%20repo%3Amoodys-ma-mdc/mdc-search&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
+**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-data-api-search-config-v2%20repo%3Amoodys-ma-mdc/mdc-data-search-solr%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts%20repo%3Amoodys-ma-mdc/mdc-data-search-query-sampler%20repo%3Amoodys-ma-mdc/mdc-data-search-quepid%20repo%3Amoodys-ma-mdc/mdc-data-search-preprocessing%20repo%3Amoodys-ma-mdc/mdc-data-search-api%20repo%3Amoodys-ma-mdc/mdc-global-search-api%20repo%3Amoodys-ma-mdc/mdc-mv-data-search-api%20repo%3Amoodys-ma-mdc/mdc-data-search-infra-builder%20repo%3Amoodys-ma-mdc/mdc-data-search-document-db-kafka%20repo%3Amoodys-ma-mdc/mdc-data-private-search-api%20repo%3Amoodys-ma-mdc/mdc-data-etl-sovereign-financials-glue%20repo%3Amoodys-ma-mdc/mdc-data-etl-sf-glue%20repo%3Amoodys-ma-mdc/mdc-data-etl-s3-sync-glue%20repo%3Amoodys-ma-mdc/mdc-data-api-search-config%20repo%3Amoodys-ma-mdc/di-data-search-ml-frontend-poc%20repo%3Amoodys-ma-mdc/di-data-search-ingestion-workflow%20repo%3Amoodys-ma-mdc/di-data-search-data-bridge&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
 
-**Stats:** 7 active today · 85 stale (>30d) · 30 dependabot · 12 drafts · **100 total**
+**Stats:** 7 active today · 87 stale (>30d) · 25 dependabot · 14 drafts · **100 total**
 
-<details><summary><b>mdc-data-search</b> · 5 PRs</summary>
+<details><summary><b>mdc-data-search</b> · 6 PRs</summary>
 
 | PR | Title | Author | Age |
 |---|---|---|---|
-| [#480](https://github.com/moodys-ma-mdc/mdc-data-search/pull/480) | [MDCPT-106364] Add code-quality checks (linting, typing, complexity) | `MaxAgliunin` | **today** |
+| [#482](https://github.com/moodys-ma-mdc/mdc-data-search/pull/482) | [MDCPT-98687] Assert marketing search excludes reports, deals, sectors | `moreraj` | **today** |
+| [#481](https://github.com/moodys-ma-mdc/mdc-data-search/pull/481) | [MDCPT-106364] Pre-commit check | `MaxAgliunin` | **today** |
 | [#461](https://github.com/moodys-ma-mdc/mdc-data-search/pull/461) | Chore/schemathesis search poc _(draft)_ | `aftimosm` | 12d |
 | [#238](https://github.com/moodys-ma-mdc/mdc-data-search/pull/238) | Revert "Revert "[MDCPT-93140] Reject malformed range_filter with 400… | `ahmedhamdyse` | ~3mo |
 | [#188](https://github.com/moodys-ma-mdc/mdc-data-search/pull/188) | [MDCPT-84270] Add search relevance triage skill _(draft)_ | `joellerobinson` | ~4mo |
@@ -18,12 +19,23 @@ _Auto-generated 2026-09-30 02:18 UTC · covers 24 repos in `moodys-ma-mdc` · ex
 
 </details>
 
+<details><summary><b>mdc-data-api-search-config-v2</b> · 4 PRs</summary>
+
+| PR | Title | Author | Age |
+|---|---|---|---|
+| [#44](https://github.com/moodys-ma-mdc/mdc-data-api-search-config-v2/pull/44) | [CHORE] Update mdcsvc-dockerfile | `yahia-elakeed-se` | **today** |
+| [#30](https://github.com/moodys-ma-mdc/mdc-data-api-search-config-v2/pull/30) | [CHORE] Add additional CVE IDs to WizVulnerabilities | `yahia-elakeed-se` | ~3mo |
+| [#19](https://github.com/moodys-ma-mdc/mdc-data-api-search-config-v2/pull/19) | Bump org.apache.kafka:kafka-clients from 3.5.0 to 3.9.2 | `dependabot[bot]` | ~6mo |
+| [#15](https://github.com/moodys-ma-mdc/mdc-data-api-search-config-v2/pull/15) | Bump org.apache.spark:spark-core_2.12 from 3.4.0 to 3.5.7 | `dependabot[bot]` | ~7mo |
+
+</details>
+
 <details><summary><b>mdc-data-search-solr</b> · 2 PRs</summary>
 
 | PR | Title | Author | Age |
 |---|---|---|---|
-| [#48](https://github.com/moodys-ma-mdc/mdc-data-search-solr/pull/48) | [MDCPT-103828] Restore Opsgenie/Teams alerting alongside new PagerDut… | `yahia-elakeed-se` | **today** |
-| [#47](https://github.com/moodys-ma-mdc/mdc-data-search-solr/pull/47) | MDCPT-103829 Add EBS snapshot reuse for faster Solr task recovery | `yahia-elakeed-se` | 5d |
+| [#49](https://github.com/moodys-ma-mdc/mdc-data-search-solr/pull/49) | [MDCPT-103828] Update dockerfile | `yahia-elakeed-se` | **today** |
+| [#47](https://github.com/moodys-ma-mdc/mdc-data-search-solr/pull/47) | MDCPT-103829 Add EBS snapshot reuse for faster Solr task recovery | `yahia-elakeed-se` | 6d |
 
 </details>
 
@@ -31,14 +43,14 @@ _Auto-generated 2026-09-30 02:18 UTC · covers 24 repos in `moodys-ma-mdc` · ex
 
 | PR | Title | Author | Age |
 |---|---|---|---|
-| [#2846](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2846) | [MDCPT-103034] Pin MPNet realtime variant name, restore auto-scaling… | `ahmedhamdyse` | **today** |
-| [#2845](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2845) | [MDCPT-103034] Deregister MPNet realtime auto-scaling (1) | `ahmedhamdyse` | **today** |
+| [#2850](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2850) | [CHORE] Remove duplicate MINIBATCH_SIZE key in sagemaker-deploy templ… | `ahmedhamdyse` | **today** |
 | [#2847](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2847) | [MDCPT-103034] Split DeployCondition into per-group regional conditio… | `ahmedhamdyse` | **today** |
+| [#2851](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2851) | [MDCPT-103034] Compute ModelArtifactTimestamp per region (5) | `ahmedhamdyse` | **today** |
 | [#2799](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2799) | [CHORE] Read EAI peer group details parquet directory in a single Spa… | `ahmedhamdyse` | ~6w |
 | [#2767](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2767) | [MDCPT-95601] Fix research-sector S3-to-postgres KeyError on empty/un… | `ahmedhamdyse` | ~3mo |
 | [#2656](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2656) | [CHORE] Change CODEOWNERS to mdc-search team | `aftimosm` | ~4mo |
 | [#2520](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2520) | Revert "[CHORE] revert-OS-authentication-to-unblock-STG" | `KavyaOS` | ~6mo |
-| [#2429](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2429) | [CHORE] Add S3 and OS audit job for local dev | `willimarmei` | ~6mo |
+| [#2429](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2429) | [CHORE] Add S3 and OS audit job for local dev | `willimarmei` | ~7mo |
 | [#2365](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2365) | [CHORE] Update Antropic lib _(draft)_ | `sstults-non-empl` | ~7mo |
 
 </details>
@@ -47,7 +59,7 @@ _Auto-generated 2026-09-30 02:18 UTC · covers 24 repos in `moodys-ma-mdc` · ex
 
 | PR | Title | Author | Age |
 |---|---|---|---|
-| [#931](https://github.com/moodys-ma-mdc/mdc-data-search-api/pull/931) | [MDCPT-105801] Add ruff formatter/linter + CI enforcement _(draft)_ | `aftimosm` | **today** |
+| [#931](https://github.com/moodys-ma-mdc/mdc-data-search-api/pull/931) | [MDCPT-105801] Add ruff formatter/linter + CI enforcement _(draft)_ | `aftimosm` | 1d |
 | [#929](https://github.com/moodys-ma-mdc/mdc-data-search-api/pull/929) | [CHORE] Cache SSM embedding endpoint lookup to eliminate per-request… | `sahilhaslani` | ~2mo |
 | [#919](https://github.com/moodys-ma-mdc/mdc-data-search-api/pull/919) | Bump flask from 3.0.0 to 3.1.3 | `dependabot[bot]` | ~7mo |
 | [#900](https://github.com/moodys-ma-mdc/mdc-data-search-api/pull/900) | [CHORE] Refactor search result collating | `sstults-non-empl` | ~8mo |
@@ -57,39 +69,15 @@ _Auto-generated 2026-09-30 02:18 UTC · covers 24 repos in `moodys-ma-mdc` · ex
 
 </details>
 
-<details><summary><b>mdc-data-search-spark-solr-jobs</b> · 1 PRs</summary>
+<details><summary><b>mdc-data-search-quality-scripts</b> · 5 PRs</summary>
 
 | PR | Title | Author | Age |
 |---|---|---|---|
-| [#200](https://github.com/moodys-ma-mdc/mdc-data-search-spark-solr-jobs/pull/200) | Bump com.fasterxml.jackson.core:jackson-databind from 2.6.5 to 2.18.10 | `dependabot[bot]` | **today** |
-
-</details>
-
-<details><summary><b>mdc-data-search-spark-solr-jobs-v2</b> · 2 PRs</summary>
-
-| PR | Title | Author | Age |
-|---|---|---|---|
-| [#55](https://github.com/moodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2/pull/55) | Bump com.fasterxml.jackson.core:jackson-databind from 2.17.0 to 2.18.… | `dependabot[bot]` | 1d |
-| [#54](https://github.com/moodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2/pull/54) | Bump io.netty:netty-handler from 4.1.118.Final to 4.1.137.Final | `dependabot[bot]` | 21d |
-
-</details>
-
-<details><summary><b>mdc-search</b> · 1 PRs</summary>
-
-| PR | Title | Author | Age |
-|---|---|---|---|
-| [#668](https://github.com/moodys-ma-mdc/mdc-search/pull/668) | test: [MDCPT-95695] paste over-limit Chinese query instead of typing | `moreraj` | 1d |
-
-</details>
-
-<details><summary><b>mdc-data-search-quality-scripts</b> · 4 PRs</summary>
-
-| PR | Title | Author | Age |
-|---|---|---|---|
-| [#341](https://github.com/moodys-ma-mdc/mdc-data-search-quality-scripts/pull/341) | [CHORE] build(deps): bump anyio from 4.4.0 to 4.14.2 in /llm_judge_st… | `dependabot[bot]` | 6d |
-| [#339](https://github.com/moodys-ma-mdc/mdc-data-search-quality-scripts/pull/339) | [CHORE] MDC Learning-To-Rank POC | `sstults-non-empl` | 22d |
+| [#341](https://github.com/moodys-ma-mdc/mdc-data-search-quality-scripts/pull/341) | [CHORE] build(deps): bump anyio from 4.4.0 to 4.14.2 in /llm_judge_st… | `dependabot[bot]` | 7d |
+| [#339](https://github.com/moodys-ma-mdc/mdc-data-search-quality-scripts/pull/339) | [CHORE] MDC Learning-To-Rank POC | `sstults-non-empl` | 23d |
 | [#277](https://github.com/moodys-ma-mdc/mdc-data-search-quality-scripts/pull/277) | [MDCPT-65580] Tooling _(draft)_ | `mkr` | ~5mo |
 | [#285](https://github.com/moodys-ma-mdc/mdc-data-search-quality-scripts/pull/285) | [CHORE] Current INFO SK -> LCM index document conversion lambda _(draft)_ | `david-fisher` | ~5mo |
+| [#99](https://github.com/moodys-ma-mdc/mdc-data-search-quality-scripts/pull/99) | [MDCPT-31210] Code for structured chunk query evaluation / export _(draft)_ | `mkr` | ~3y |
 
 </details>
 
@@ -97,16 +85,17 @@ _Auto-generated 2026-09-30 02:18 UTC · covers 24 repos in `moodys-ma-mdc` · ex
 
 | PR | Title | Author | Age |
 |---|---|---|---|
-| [#123](https://github.com/moodys-ma-mdc/mdc-data-search-quepid/pull/123) | [CHORE] Fix Wiz security failures 2x _(draft)_ | `dave-moody` | 7d |
+| [#123](https://github.com/moodys-ma-mdc/mdc-data-search-quepid/pull/123) | [CHORE] Fix Wiz security failures 2x _(draft)_ | `dave-moody` | 8d |
 
 </details>
 
-<details><summary><b>mdc-data-search-document-db-kafka</b> · 2 PRs</summary>
+<details><summary><b>mdc-data-search-document-db-kafka</b> · 3 PRs</summary>
 
 | PR | Title | Author | Age |
 |---|---|---|---|
 | [#33](https://github.com/moodys-ma-mdc/mdc-data-search-document-db-kafka/pull/33) | Bump setuptools from 80.3.1 to 83.0.0 | `dependabot[bot]` | ~2mo |
 | [#25](https://github.com/moodys-ma-mdc/mdc-data-search-document-db-kafka/pull/25) | [CHORE] Update .codesecurityrc | `yahia-elakeed-se` | ~1y |
+| [#16](https://github.com/moodys-ma-mdc/mdc-data-search-document-db-kafka/pull/16) | [Snyk] Security upgrade setuptools from 70.0.0 to 78.1.1 | `sys-prod-devops-cicd` | ~1y |
 
 </details>
 
@@ -122,33 +111,7 @@ _Auto-generated 2026-09-30 02:18 UTC · covers 24 repos in `moodys-ma-mdc` · ex
 
 </details>
 
-<details><summary><b>di-data-api-search</b> · 19 PRs</summary>
-
-| PR | Title | Author | Age |
-|---|---|---|---|
-| [#208](https://github.com/moodys-ma-mdc/di-data-api-search/pull/208) | [MDCPT-83143]-conftest | `hgoldman-moodys` | ~6mo |
-| [#204](https://github.com/moodys-ma-mdc/di-data-api-search/pull/204) | Bump org.apache.tomcat.embed:tomcat-embed-core from 9.0.105 to 9.0.113 | `dependabot[bot]` | ~7mo |
-| [#203](https://github.com/moodys-ma-mdc/di-data-api-search/pull/203) | Bump org.apache.zookeeper:zookeeper from 3.9.3 to 3.9.5 | `dependabot[bot]` | ~7mo |
-| [#200](https://github.com/moodys-ma-mdc/di-data-api-search/pull/200) | Bump com.fasterxml.jackson.core:jackson-core from 2.16.2 to 2.18.6 | `dependabot[bot]` | ~7mo |
-| [#195](https://github.com/moodys-ma-mdc/di-data-api-search/pull/195) | [Snyk] Security upgrade org.apache.solr:solr-core from 9.5.0 to 9.10.1 | `sys-prod-devops-cicd` | ~8mo |
-| [#194](https://github.com/moodys-ma-mdc/di-data-api-search/pull/194) | Bump ch.qos.logback:logback-core from 1.5.19 to 1.5.25 | `dependabot[bot]` | ~8mo |
-| [#193](https://github.com/moodys-ma-mdc/di-data-api-search/pull/193) | Bump org.apache.solr:solr-core from 9.5.0 to 9.10.1 | `dependabot[bot]` | ~8mo |
-| [#192](https://github.com/moodys-ma-mdc/di-data-api-search/pull/192) | [Snyk] Security upgrade org.apache.spark:spark-core_2.12 from 3.3.3 t… | `sys-prod-devops-cicd` | ~9mo |
-| [#191](https://github.com/moodys-ma-mdc/di-data-api-search/pull/191) | [Snyk] Security upgrade io.netty:netty-codec-http from 4.2.5.Final to… | `sys-prod-devops-cicd` | ~10mo |
-| [#189](https://github.com/moodys-ma-mdc/di-data-api-search/pull/189) | [MDCPT-56061] Fix SnykSASTScan | `yahia-elakeed-se` | ~10mo |
-| [#190](https://github.com/moodys-ma-mdc/di-data-api-search/pull/190) | Bump io.netty:netty-codec-http from 4.2.5.Final to 4.2.8.Final | `dependabot[bot]` | ~10mo |
-| [#187](https://github.com/moodys-ma-mdc/di-data-api-search/pull/187) | [CHORE] Add more details to readme | `willimarmei` | ~11mo |
-| [#186](https://github.com/moodys-ma-mdc/di-data-api-search/pull/186) | [Snyk] Security upgrade org.apache.solr:solr-core from 9.5.0 to 9.10.0 | `sys-prod-devops-cicd` | ~11mo |
-| [#161](https://github.com/moodys-ma-mdc/di-data-api-search/pull/161) | Bump org.eclipse.jetty.http2:http2-common from 11.0.20 to 11.0.26 | `dependabot[bot]` | ~11mo |
-| [#179](https://github.com/moodys-ma-mdc/di-data-api-search/pull/179) | [Snyk] Fix for 2 vulnerabilities | `sys-prod-devops-cicd` | ~11mo |
-| [#174](https://github.com/moodys-ma-mdc/di-data-api-search/pull/174) | [Snyk] Security upgrade org.apache.spark:spark-core_2.12 from 3.3.3 t… | `sys-prod-devops-cicd` | ~12mo |
-| [#171](https://github.com/moodys-ma-mdc/di-data-api-search/pull/171) | [Snyk] Security upgrade org.apache.zookeeper:zookeeper from 3.9.3 to… | `sys-prod-devops-cicd` | ~1y |
-| [#169](https://github.com/moodys-ma-mdc/di-data-api-search/pull/169) | [Snyk] Security upgrade org.springframework:spring-web from 5.3.38 to… | `sys-prod-devops-cicd` | ~1y |
-| [#168](https://github.com/moodys-ma-mdc/di-data-api-search/pull/168) | [Snyk] Security upgrade software.amazon.awssdk:ssm from 2.31.35 to 2.… | `sys-prod-devops-cicd` | ~1y |
-
-</details>
-
-<details><summary><b>mdc-data-search-preprocessing</b> · 6 PRs</summary>
+<details><summary><b>mdc-data-search-preprocessing</b> · 7 PRs</summary>
 
 | PR | Title | Author | Age |
 |---|---|---|---|
@@ -157,7 +120,8 @@ _Auto-generated 2026-09-30 02:18 UTC · covers 24 repos in `moodys-ma-mdc` · ex
 | [#561](https://github.com/moodys-ma-mdc/mdc-data-search-preprocessing/pull/561) | Revert "[MDCPT-74831] org glue cutover" _(draft)_ | `joellerobinson` | ~9mo |
 | [#519](https://github.com/moodys-ma-mdc/mdc-data-search-preprocessing/pull/519) | [MDCPT-65425] Processing queries in parallel and in batches | `sstults-non-empl` | ~12mo |
 | [#525](https://github.com/moodys-ma-mdc/mdc-data-search-preprocessing/pull/525) | [MDCPT-65232] Ingest Additional Metadata to Add to Type-Ahead UI. | `ahmedhamdyse` | ~12mo |
-| [#524](https://github.com/moodys-ma-mdc/mdc-data-search-preprocessing/pull/524) | [MDCPT-65159] Proactively requesting all INFO SKs for organizationV2… _(draft)_ | `mkr` | ~12mo |
+| [#524](https://github.com/moodys-ma-mdc/mdc-data-search-preprocessing/pull/524) | [MDCPT-65159] Proactively requesting all INFO SKs for organizationV2… _(draft)_ | `mkr` | ~1y |
+| [#498](https://github.com/moodys-ma-mdc/mdc-data-search-preprocessing/pull/498) | [CHORE] Revert "[MDCPT-60610] Add eu-central region" | `joellerobinson` | ~1y |
 
 </details>
 
@@ -169,13 +133,16 @@ _Auto-generated 2026-09-30 02:18 UTC · covers 24 repos in `moodys-ma-mdc` · ex
 
 </details>
 
-<details><summary><b>di-data-search-data-bridge</b> · 3 PRs</summary>
+<details><summary><b>di-data-search-data-bridge</b> · 6 PRs</summary>
 
 | PR | Title | Author | Age |
 |---|---|---|---|
 | [#68](https://github.com/moodys-ma-mdc/di-data-search-data-bridge/pull/68) | Bump requests from 2.32.3 to 2.33.0 | `dependabot[bot]` | ~6mo |
 | [#67](https://github.com/moodys-ma-mdc/di-data-search-data-bridge/pull/67) | [Snyk] Security upgrade urllib3 from 1.26.20 to 2.6.3 | `sys-prod-devops-cicd` | ~9mo |
 | [#66](https://github.com/moodys-ma-mdc/di-data-search-data-bridge/pull/66) | [Snyk] Security upgrade urllib3 from 1.26.20 to 2.6.0 | `sys-prod-devops-cicd` | ~10mo |
+| [#64](https://github.com/moodys-ma-mdc/di-data-search-data-bridge/pull/64) | [Snyk] Security upgrade urllib3 from 1.26.20 to 2.5.0 | `sys-prod-devops-cicd` | ~1y |
+| [#63](https://github.com/moodys-ma-mdc/di-data-search-data-bridge/pull/63) | [Snyk] Security upgrade requests from 2.32.3 to 2.32.4 | `sys-prod-devops-cicd` | ~1y |
+| [#59](https://github.com/moodys-ma-mdc/di-data-search-data-bridge/pull/59) | [Snyk] Security upgrade setuptools from 70.0.0 to 78.1.1 | `sys-prod-devops-cicd` | ~1y |
 
 </details>
 
@@ -187,7 +154,7 @@ _Auto-generated 2026-09-30 02:18 UTC · covers 24 repos in `moodys-ma-mdc` · ex
 
 </details>
 
-<details><summary><b>mdc-mv-data-search-api</b> · 18 PRs</summary>
+<details><summary><b>mdc-mv-data-search-api</b> · 20 PRs</summary>
 
 | PR | Title | Author | Age |
 |---|---|---|---|
@@ -209,10 +176,12 @@ _Auto-generated 2026-09-30 02:18 UTC · covers 24 repos in `moodys-ma-mdc` · ex
 | [#71](https://github.com/moodys-ma-mdc/mdc-mv-data-search-api/pull/71) | [Snyk] Security upgrade werkzeug from 3.0.6 to 3.1.4 | `sys-prod-devops-cicd` | ~10mo |
 | [#70](https://github.com/moodys-ma-mdc/mdc-mv-data-search-api/pull/70) | [Snyk] Security upgrade werkzeug from 3.0.6 to 3.1.4 | `sys-prod-devops-cicd` | ~10mo |
 | [#54](https://github.com/moodys-ma-mdc/mdc-mv-data-search-api/pull/54) | [CHORE] remove unused endpoints. | `joellerobinson` | ~1y |
+| [#25](https://github.com/moodys-ma-mdc/mdc-mv-data-search-api/pull/25) | Mdcpt 60534 create shared utils folder _(draft)_ | `lchoe24` | ~1y |
+| [#1](https://github.com/moodys-ma-mdc/mdc-mv-data-search-api/pull/1) | [CHORE] - first round of libs poc | `aftimosm` | ~1y |
 
 </details>
 
-<details><summary><b>mdc-data-private-search-api</b> · 8 PRs</summary>
+<details><summary><b>mdc-data-private-search-api</b> · 15 PRs</summary>
 
 | PR | Title | Author | Age |
 |---|---|---|---|
@@ -224,6 +193,13 @@ _Auto-generated 2026-09-30 02:18 UTC · covers 24 repos in `moodys-ma-mdc` · ex
 | [#57](https://github.com/moodys-ma-mdc/mdc-data-private-search-api/pull/57) | [Snyk] Security upgrade aiohttp from 3.12.15 to 3.13.3 | `sys-prod-devops-cicd` | ~9mo |
 | [#56](https://github.com/moodys-ma-mdc/mdc-data-private-search-api/pull/56) | [Snyk] Security upgrade urllib3 from 2.0.7 to 2.6.0 | `sys-prod-devops-cicd` | ~10mo |
 | [#54](https://github.com/moodys-ma-mdc/mdc-data-private-search-api/pull/54) | [Snyk] Security upgrade werkzeug from 3.0.6 to 3.1.4 | `sys-prod-devops-cicd` | ~10mo |
+| [#33](https://github.com/moodys-ma-mdc/mdc-data-private-search-api/pull/33) | Bump requests from 2.32.3 to 2.32.4 | `dependabot[bot]` | ~1y |
+| [#30](https://github.com/moodys-ma-mdc/mdc-data-private-search-api/pull/30) | [CHORE] Bump setuptools from 70.0.0 to 78.1.1 | `dependabot[bot]` | ~1y |
+| [#29](https://github.com/moodys-ma-mdc/mdc-data-private-search-api/pull/29) | Bump flask-cors from 5.0.0 to 6.0.0 | `dependabot[bot]` | ~1y |
+| [#36](https://github.com/moodys-ma-mdc/mdc-data-private-search-api/pull/36) | [MDCPT-61157] - update to python 3.13.x | `jamesearlywine-moodys` | ~1y |
+| [#35](https://github.com/moodys-ma-mdc/mdc-data-private-search-api/pull/35) | [Snyk] Security upgrade urllib3 from 2.0.7 to 2.5.0 | `sys-prod-devops-cicd` | ~1y |
+| [#34](https://github.com/moodys-ma-mdc/mdc-data-private-search-api/pull/34) | [Snyk] Security upgrade requests from 2.32.3 to 2.32.4 | `sys-prod-devops-cicd` | ~1y |
+| [#28](https://github.com/moodys-ma-mdc/mdc-data-private-search-api/pull/28) | [Snyk] Security upgrade setuptools from 70.0.0 to 78.1.1 | `sys-prod-devops-cicd` | ~1y |
 
 </details>
 
@@ -236,17 +212,20 @@ _Auto-generated 2026-09-30 02:18 UTC · covers 24 repos in `moodys-ma-mdc` · ex
 
 </details>
 
-<details><summary><b>di-data-search-ml-frontend-poc</b> · 3 PRs</summary>
+<details><summary><b>di-data-search-ml-frontend-poc</b> · 6 PRs</summary>
 
 | PR | Title | Author | Age |
 |---|---|---|---|
 | [#17](https://github.com/moodys-ma-mdc/di-data-search-ml-frontend-poc/pull/17) | [Snyk] Fix for 2 vulnerabilities | `sys-prod-devops-cicd` | ~9mo |
 | [#16](https://github.com/moodys-ma-mdc/di-data-search-ml-frontend-poc/pull/16) | [Snyk] Security upgrade @angular/compiler from 13.1.3 to 19.2.17 | `sys-prod-devops-cicd` | ~10mo |
 | [#15](https://github.com/moodys-ma-mdc/di-data-search-ml-frontend-poc/pull/15) | [Snyk] Security upgrade @angular/common from 13.1.3 to 19.2.16 | `sys-prod-devops-cicd` | ~10mo |
+| [#13](https://github.com/moodys-ma-mdc/di-data-search-ml-frontend-poc/pull/13) | [Snyk] Upgrade primeicons from 5.0.0 to 6.0.1 | `sys-prod-devops-cicd` | ~3y |
+| [#12](https://github.com/moodys-ma-mdc/di-data-search-ml-frontend-poc/pull/12) | [Snyk] Upgrade primeflex from 3.1.3 to 3.3.1 | `sys-prod-devops-cicd` | ~3y |
+| [#11](https://github.com/moodys-ma-mdc/di-data-search-ml-frontend-poc/pull/11) | [Snyk] Upgrade zone.js from 0.11.5 to 0.13.1 | `sys-prod-devops-cicd` | ~3y |
 
 </details>
 
-<sub>Repos with no open PRs: `mdc-global-search-api`, `mdc-data-search-infra-builder`, `mdc-data-etl-s3-sync-glue`, `mdc-data-search-query-sampler`</sub>
+<sub>Repos with no open PRs: `mdc-data-search-query-sampler`, `mdc-global-search-api`, `mdc-data-search-infra-builder`, `mdc-data-etl-s3-sync-glue`</sub>
 
 ---
 
