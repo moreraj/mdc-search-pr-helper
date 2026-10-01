@@ -1,10 +1,10 @@
 # Search/Glue/Ingestion · open PRs
 
-_Auto-generated 2026-09-30 23:09 UTC · covers 21 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
+_Auto-generated 2026-10-01 02:18 UTC · covers 20 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
 
-**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-etl-mflo-glue%20repo%3Amoodys-ma-mdc/mdc-data-search-solr%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-data-api-search-config-v2%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts%20repo%3Amoodys-ma-mdc/mdc-data-search-query-sampler%20repo%3Amoodys-ma-mdc/mdc-data-search-quepid%20repo%3Amoodys-ma-mdc/mdc-data-search-preprocessing%20repo%3Amoodys-ma-mdc/mdc-data-search-api%20repo%3Amoodys-ma-mdc/mdc-global-search-api%20repo%3Amoodys-ma-mdc/mdc-mv-data-search-api%20repo%3Amoodys-ma-mdc/mdc-data-search-infra-builder%20repo%3Amoodys-ma-mdc/mdc-data-search-document-db-kafka%20repo%3Amoodys-ma-mdc/mdc-data-private-search-api%20repo%3Amoodys-ma-mdc/mdc-data-etl-sovereign-financials-glue%20repo%3Amoodys-ma-mdc/mdc-data-etl-sf-glue%20repo%3Amoodys-ma-mdc/mdc-data-etl-s3-sync-glue%20repo%3Amoodys-ma-mdc/mdc-data-api-search-config%20repo%3Amoodys-ma-mdc/di-data-search-ml-frontend-poc%20repo%3Amoodys-ma-mdc/di-data-search-ingestion-workflow&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
+**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts%20repo%3Amoodys-ma-mdc/mdc-data-etl-mflo-glue%20repo%3Amoodys-ma-mdc/mdc-data-search-solr%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-data-api-search-config-v2%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-data-search-query-sampler%20repo%3Amoodys-ma-mdc/mdc-data-search-quepid%20repo%3Amoodys-ma-mdc/mdc-data-search-preprocessing%20repo%3Amoodys-ma-mdc/mdc-data-search-api%20repo%3Amoodys-ma-mdc/mdc-global-search-api%20repo%3Amoodys-ma-mdc/mdc-mv-data-search-api%20repo%3Amoodys-ma-mdc/mdc-data-search-infra-builder%20repo%3Amoodys-ma-mdc/mdc-data-search-document-db-kafka%20repo%3Amoodys-ma-mdc/mdc-data-private-search-api%20repo%3Amoodys-ma-mdc/mdc-data-etl-sovereign-financials-glue%20repo%3Amoodys-ma-mdc/mdc-data-etl-sf-glue%20repo%3Amoodys-ma-mdc/mdc-data-etl-s3-sync-glue%20repo%3Amoodys-ma-mdc/mdc-data-api-search-config%20repo%3Amoodys-ma-mdc/di-data-search-ml-frontend-poc&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
 
-**Stats:** 5 active today · 89 stale (>30d) · 30 dependabot · 14 drafts · **100 total**
+**Stats:** 5 active today · 89 stale (>30d) · 31 dependabot · 14 drafts · **100 total**
 
 <details><summary><b>mdc-data-search-glue</b> · 9 PRs</summary>
 
@@ -123,14 +123,6 @@ _Auto-generated 2026-09-30 23:09 UTC · covers 21 repos in `moodys-ma-mdc` · ex
 
 </details>
 
-<details><summary><b>di-data-search-ingestion-workflow</b> · 1 PRs</summary>
-
-| PR | Title | Author | Age |
-|---|---|---|---|
-| [#60](https://github.com/moodys-ma-mdc/di-data-search-ingestion-workflow/pull/60) | [MDCPT-83528] rm orgv2 | `joellerobinson` | ~6mo |
-
-</details>
-
 <details><summary><b>mdc-data-etl-sovereign-financials-glue</b> · 1 PRs</summary>
 
 | PR | Title | Author | Age |
@@ -197,7 +189,7 @@ _Auto-generated 2026-09-30 23:09 UTC · covers 21 repos in `moodys-ma-mdc` · ex
 
 </details>
 
-<details><summary><b>di-data-search-ml-frontend-poc</b> · 14 PRs</summary>
+<details><summary><b>di-data-search-ml-frontend-poc</b> · 15 PRs</summary>
 
 | PR | Title | Author | Age |
 |---|---|---|---|
@@ -213,6 +205,7 @@ _Auto-generated 2026-09-30 23:09 UTC · covers 21 repos in `moodys-ma-mdc` · ex
 | [#7](https://github.com/moodys-ma-mdc/di-data-search-ml-frontend-poc/pull/7) | Bump webpack and @angular-devkit/build-angular | `dependabot[bot]` | ~3y |
 | [#6](https://github.com/moodys-ma-mdc/di-data-search-ml-frontend-poc/pull/6) | Bump engine.io and socket.io | `dependabot[bot]` | ~3y |
 | [#5](https://github.com/moodys-ma-mdc/di-data-search-ml-frontend-poc/pull/5) | Bump loader-utils from 2.0.2 to 2.0.4 | `dependabot[bot]` | ~3y |
+| [#2](https://github.com/moodys-ma-mdc/di-data-search-ml-frontend-poc/pull/2) | Bump json5 from 2.2.1 to 2.2.3 | `dependabot[bot]` | ~3y |
 | [#4](https://github.com/moodys-ma-mdc/di-data-search-ml-frontend-poc/pull/4) | Bump decode-uri-component from 0.2.0 to 0.2.2 | `dependabot[bot]` | ~3y |
 | [#3](https://github.com/moodys-ma-mdc/di-data-search-ml-frontend-poc/pull/3) | Bump http-cache-semantics from 4.1.0 to 4.1.1 | `dependabot[bot]` | ~3y |
 
