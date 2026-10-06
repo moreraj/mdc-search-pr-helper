@@ -1,18 +1,17 @@
 # Search/Glue/Ingestion · open PRs
 
-_Auto-generated 2026-10-06 19:23 UTC · covers 10 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
+_Auto-generated 2026-10-06 23:11 UTC · covers 10 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
 
-**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-data-search-preprocessing%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts%20repo%3Amoodys-ma-mdc/mdc-data-etl-flaghub-glue%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-data-search-spark-solr-jobs%20repo%3Amoodys-ma-mdc/mdc-data-search-solr%20repo%3Amoodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2%20repo%3Amoodys-ma-mdc/mdc-global-search-api&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
+**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-data-search-preprocessing%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts%20repo%3Amoodys-ma-mdc/mdc-data-etl-flaghub-glue%20repo%3Amoodys-ma-mdc/mdc-data-search-spark-solr-jobs%20repo%3Amoodys-ma-mdc/mdc-data-search-solr%20repo%3Amoodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2%20repo%3Amoodys-ma-mdc/mdc-global-search-api&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
 
-**Stats:** 10 active today · 19 stale (>30d) · 5 dependabot · 9 drafts · **34 total**
+**Stats:** 7 active today · 19 stale (>30d) · 5 dependabot · 10 drafts · **32 total**
 
-<details><summary><b>mdc-data-search</b> · 10 PRs</summary>
+<details><summary><b>mdc-data-search</b> · 9 PRs</summary>
 
 | PR | Title | Author | Age |
 |---|---|---|---|
-| [#491](https://github.com/moodys-ma-mdc/mdc-data-search/pull/491) | [MDCPT-105811] Add lint/format/typecheck/test targets to search-api M… | `aftimosm` | **today** |
+| [#493](https://github.com/moodys-ma-mdc/mdc-data-search/pull/493) | [MDCPT-105843] Stand up uv workspace root _(draft)_ | `aftimosm` | **today** |
 | [#487](https://github.com/moodys-ma-mdc/mdc-data-search/pull/487) | [MDCPT-103533] Return city and operating_revenue in the org result pa… | `sstults-non-empl` | **today** |
-| [#488](https://github.com/moodys-ma-mdc/mdc-data-search/pull/488) | [MDCPT-106374] Remove debt rating history app domain index schema | `lkocharian` | **today** |
 | [#490](https://github.com/moodys-ma-mdc/mdc-data-search/pull/490) | [CHORE] Update the documentation to specify installing pre-commit. | `david-fisher` | **today** |
 | [#483](https://github.com/moodys-ma-mdc/mdc-data-search/pull/483) | [MDCPT-107148] Deploy search-api in eu-central-1 | `ahmedhamdyse` | **today** |
 | [#486](https://github.com/moodys-ma-mdc/mdc-data-search/pull/486) | [CHORE] Bump werkzeug from 3.1.6 to 3.1.9 in /apps/search-api | `dependabot[bot]` | **today** |
@@ -23,11 +22,10 @@ _Auto-generated 2026-10-06 19:23 UTC · covers 10 repos in `moodys-ma-mdc` · ex
 
 </details>
 
-<details><summary><b>mdc-search</b> · 3 PRs</summary>
+<details><summary><b>mdc-search</b> · 2 PRs</summary>
 
 | PR | Title | Author | Age |
 |---|---|---|---|
-| [#669](https://github.com/moodys-ma-mdc/mdc-search/pull/669) | fix: [MDCPT-99056] Fix failed translation | `MaxAgliunin` | **today** |
 | [#657](https://github.com/moodys-ma-mdc/mdc-search/pull/657) | [MDCPT-98932] Decouple search-bar from CV2 React 16 (consume shared R… | `mmaestri` | **today** |
 | [#668](https://github.com/moodys-ma-mdc/mdc-search/pull/668) | test: [MDCPT-95695] paste over-limit Chinese query instead of typing | `moreraj` | 2d |
 
@@ -45,7 +43,7 @@ _Auto-generated 2026-10-06 19:23 UTC · covers 10 repos in `moodys-ma-mdc` · ex
 
 | PR | Title | Author | Age |
 |---|---|---|---|
-| [#55](https://github.com/moodys-ma-mdc/mdc-data-search-solr/pull/55) | [CHORE] Rollback snapshot backup | `yahia-elakeed-se` | **today** |
+| [#55](https://github.com/moodys-ma-mdc/mdc-data-search-solr/pull/55) | [CHORE] Rollback snapshot backup | `yahia-elakeed-se` | 1d |
 
 </details>
 
@@ -54,7 +52,7 @@ _Auto-generated 2026-10-06 19:23 UTC · covers 10 repos in `moodys-ma-mdc` · ex
 | PR | Title | Author | Age |
 |---|---|---|---|
 | [#56](https://github.com/moodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2/pull/56) | Bump com.fasterxml.jackson.core:jackson-databind from 2.17.0 to 2.18.… | `dependabot[bot]` | 1d |
-| [#54](https://github.com/moodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2/pull/54) | Bump io.netty:netty-handler from 4.1.118.Final to 4.1.137.Final | `dependabot[bot]` | 27d |
+| [#54](https://github.com/moodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2/pull/54) | Bump io.netty:netty-handler from 4.1.118.Final to 4.1.137.Final | `dependabot[bot]` | 28d |
 
 </details>
 
