@@ -1,10 +1,18 @@
 # Search/Glue/Ingestion · open PRs
 
-_Auto-generated 2026-10-06 23:11 UTC · covers 10 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
+_Auto-generated 2026-10-07 02:38 UTC · covers 10 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
 
-**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-data-search-preprocessing%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts%20repo%3Amoodys-ma-mdc/mdc-data-etl-flaghub-glue%20repo%3Amoodys-ma-mdc/mdc-data-search-spark-solr-jobs%20repo%3Amoodys-ma-mdc/mdc-data-search-solr%20repo%3Amoodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2%20repo%3Amoodys-ma-mdc/mdc-global-search-api&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
+**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-etl-flaghub-glue%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-data-search-preprocessing%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts%20repo%3Amoodys-ma-mdc/mdc-data-search-spark-solr-jobs%20repo%3Amoodys-ma-mdc/mdc-data-search-solr%20repo%3Amoodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2%20repo%3Amoodys-ma-mdc/mdc-global-search-api&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
 
-**Stats:** 7 active today · 19 stale (>30d) · 5 dependabot · 10 drafts · **32 total**
+**Stats:** 7 active today · 19 stale (>30d) · 5 dependabot · 10 drafts · **33 total**
+
+<details><summary><b>mdc-data-etl-flaghub-glue</b> · 1 PRs</summary>
+
+| PR | Title | Author | Age |
+|---|---|---|---|
+| [#41](https://github.com/moodys-ma-mdc/mdc-data-etl-flaghub-glue/pull/41) | [MDCPT-107385]-SQL planning issue in STG | `virgil-raj` | **today** |
+
+</details>
 
 <details><summary><b>mdc-data-search</b> · 9 PRs</summary>
 
@@ -35,7 +43,7 @@ _Auto-generated 2026-10-06 23:11 UTC · covers 10 repos in `moodys-ma-mdc` · ex
 
 | PR | Title | Author | Age |
 |---|---|---|---|
-| [#201](https://github.com/moodys-ma-mdc/mdc-data-search-spark-solr-jobs/pull/201) | Bump com.fasterxml.jackson.core:jackson-databind from 2.6.5 to 2.18.11 | `dependabot[bot]` | **today** |
+| [#201](https://github.com/moodys-ma-mdc/mdc-data-search-spark-solr-jobs/pull/201) | Bump com.fasterxml.jackson.core:jackson-databind from 2.6.5 to 2.18.11 | `dependabot[bot]` | 1d |
 
 </details>
 
@@ -94,7 +102,7 @@ _Auto-generated 2026-10-06 23:11 UTC · covers 10 repos in `moodys-ma-mdc` · ex
 
 </details>
 
-<sub>Repos with no open PRs: `mdc-data-etl-flaghub-glue`, `mdc-global-search-api`</sub>
+<sub>Repos with no open PRs: `mdc-global-search-api`</sub>
 
 ---
 
