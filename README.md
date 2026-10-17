@@ -1,6 +1,6 @@
 # Search/Glue/Ingestion · open PRs
 
-_Auto-generated 2026-10-16 23:23 UTC · covers 7 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
+_Auto-generated 2026-10-17 01:27 UTC · covers 7 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
 
 **[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-data-search-solr%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts%20repo%3Amoodys-ma-mdc/mdc-global-search-api%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
 
@@ -32,7 +32,7 @@ _Auto-generated 2026-10-16 23:23 UTC · covers 7 repos in `moodys-ma-mdc` · exc
 
 | PR | Title | Author | Age |
 |---|---|---|---|
-| [#58](https://github.com/moodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2/pull/58) | Bump org.apache.spark:spark-core_2.12 from 3.5.6 to 3.5.8 | `dependabot[bot]` | 3d |
+| [#58](https://github.com/moodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2/pull/58) | Bump org.apache.spark:spark-core_2.12 from 3.5.6 to 3.5.8 | `dependabot[bot]` | 4d |
 | [#57](https://github.com/moodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2/pull/57) | Bump com.fasterxml.jackson.core:jackson-core from 2.17.0 to 2.18.11 | `dependabot[bot]` | 8d |
 | [#56](https://github.com/moodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2/pull/56) | Bump com.fasterxml.jackson.core:jackson-databind from 2.17.0 to 2.18.… | `dependabot[bot]` | 11d |
 
