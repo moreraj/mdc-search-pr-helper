@@ -1,10 +1,10 @@
 # Search/Glue/Ingestion · open PRs
 
-_Auto-generated 2026-10-20 21:48 UTC · covers 10 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
+_Auto-generated 2026-10-21 00:28 UTC · covers 10 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
 
-**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-cds-ingestion%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-data-etl-flaghub-glue%20repo%3Amoodys-ma-mdc/mdc-data-etl-mflo-glue%20repo%3Amoodys-ma-mdc/mdc-search-bot%20repo%3Amoodys-ma-mdc/mdc-data-api-search-config-v2%20repo%3Amoodys-ma-mdc/mdc-data-search-preprocessing%20repo%3Amoodys-ma-mdc/di-data-search-ingestion-workflow&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
+**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-cds-ingestion%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-data-etl-flaghub-glue%20repo%3Amoodys-ma-mdc/mdc-data-etl-mflo-glue%20repo%3Amoodys-ma-mdc/mdc-search-bot%20repo%3Amoodys-ma-mdc/mdc-data-api-search-config-v2%20repo%3Amoodys-ma-mdc/mdc-data-search-preprocessing%20repo%3Amoodys-ma-mdc/di-data-search-ingestion-workflow&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
 
-**Stats:** 13 active today · 24 stale (>30d) · 15 dependabot · 14 drafts · **44 total**
+**Stats:** 11 active today · 24 stale (>30d) · 15 dependabot · 14 drafts · **43 total**
 
 <details><summary><b>mdc-data-search</b> · 3 PRs</summary>
 
@@ -13,23 +13,6 @@ _Auto-generated 2026-10-20 21:48 UTC · covers 10 repos in `moodys-ma-mdc` · ex
 | [#520](https://github.com/moodys-ma-mdc/mdc-data-search/pull/520) | chore: [MDCPT-105812] Add pyright strict config for search-api _(draft)_ | `aftimosm` | **today** |
 | [#483](https://github.com/moodys-ma-mdc/mdc-data-search/pull/483) | [MDCPT-107148] Deploy search-api in eu-central-1 | `ahmedhamdyse` | 14d |
 | [#461](https://github.com/moodys-ma-mdc/mdc-data-search/pull/461) | Chore/schemathesis search poc _(draft)_ | `aftimosm` | ~5w |
-
-</details>
-
-<details><summary><b>mdc-cds-ingestion</b> · 10 PRs</summary>
-
-| PR | Title | Author | Age |
-|---|---|---|---|
-| [#9](https://github.com/moodys-ma-mdc/mdc-cds-ingestion/pull/9) | [MDCPT-110281] Migrate core-bson-hasher | `tonylootens` | **today** |
-| [#11](https://github.com/moodys-ma-mdc/mdc-cds-ingestion/pull/11) | [MDCPT-110281] Migrate core-flink-autoscaler _(draft)_ | `tonylootens` | **today** |
-| [#7](https://github.com/moodys-ma-mdc/mdc-cds-ingestion/pull/7) | [MDCPT-110281] Migrate core-aws-managed-flink _(draft)_ | `tonylootens` | **today** |
-| [#10](https://github.com/moodys-ma-mdc/mdc-cds-ingestion/pull/10) | [MDCPT-110281] Migrate core-bson-patch _(draft)_ | `tonylootens` | **today** |
-| [#5](https://github.com/moodys-ma-mdc/mdc-cds-ingestion/pull/5) | [MDCPT-110281] Migrate cds-ingestion-lake-compaction _(draft)_ | `tonylootens` | **today** |
-| [#6](https://github.com/moodys-ma-mdc/mdc-cds-ingestion/pull/6) | [MDCPT-110281] Migrate cds-mongosync _(draft)_ | `tonylootens` | **today** |
-| [#8](https://github.com/moodys-ma-mdc/mdc-cds-ingestion/pull/8) | [MDCPT-110281] Migrate core-bson-filter _(draft)_ | `tonylootens` | **today** |
-| [#4](https://github.com/moodys-ma-mdc/mdc-cds-ingestion/pull/4) | [MDCPT-110281] Migrate cds-ingestion-lake-archive _(draft)_ | `tonylootens` | **today** |
-| [#3](https://github.com/moodys-ma-mdc/mdc-cds-ingestion/pull/3) | [MDCPT-110281] Migrate cds-ingestion-dblifecycle _(draft)_ | `tonylootens` | **today** |
-| [#2](https://github.com/moodys-ma-mdc/mdc-cds-ingestion/pull/2) | [MDCPT-110281] Migrate cds-ingestion-change-events-replay _(draft)_ | `tonylootens` | **today** |
 
 </details>
 
@@ -42,11 +25,27 @@ _Auto-generated 2026-10-20 21:48 UTC · covers 10 repos in `moodys-ma-mdc` · ex
 
 </details>
 
+<details><summary><b>mdc-cds-ingestion</b> · 9 PRs</summary>
+
+| PR | Title | Author | Age |
+|---|---|---|---|
+| [#11](https://github.com/moodys-ma-mdc/mdc-cds-ingestion/pull/11) | [MDCPT-110281] Migrate core-flink-autoscaler _(draft)_ | `tonylootens` | **today** |
+| [#7](https://github.com/moodys-ma-mdc/mdc-cds-ingestion/pull/7) | [MDCPT-110281] Migrate core-aws-managed-flink _(draft)_ | `tonylootens` | **today** |
+| [#10](https://github.com/moodys-ma-mdc/mdc-cds-ingestion/pull/10) | [MDCPT-110281] Migrate core-bson-patch _(draft)_ | `tonylootens` | **today** |
+| [#5](https://github.com/moodys-ma-mdc/mdc-cds-ingestion/pull/5) | [MDCPT-110281] Migrate cds-ingestion-lake-compaction _(draft)_ | `tonylootens` | **today** |
+| [#6](https://github.com/moodys-ma-mdc/mdc-cds-ingestion/pull/6) | [MDCPT-110281] Migrate cds-mongosync _(draft)_ | `tonylootens` | **today** |
+| [#8](https://github.com/moodys-ma-mdc/mdc-cds-ingestion/pull/8) | [MDCPT-110281] Migrate core-bson-filter _(draft)_ | `tonylootens` | **today** |
+| [#4](https://github.com/moodys-ma-mdc/mdc-cds-ingestion/pull/4) | [MDCPT-110281] Migrate cds-ingestion-lake-archive _(draft)_ | `tonylootens` | **today** |
+| [#3](https://github.com/moodys-ma-mdc/mdc-cds-ingestion/pull/3) | [MDCPT-110281] Migrate cds-ingestion-dblifecycle _(draft)_ | `tonylootens` | **today** |
+| [#2](https://github.com/moodys-ma-mdc/mdc-cds-ingestion/pull/2) | [MDCPT-110281] Migrate cds-ingestion-change-events-replay _(draft)_ | `tonylootens` | **today** |
+
+</details>
+
 <details><summary><b>mdc-search-bot</b> · 13 PRs</summary>
 
 | PR | Title | Author | Age |
 |---|---|---|---|
-| [#87](https://github.com/moodys-ma-mdc/mdc-search-bot/pull/87) | chore(deps-dev): bump postcss-selector-parser from 7.1.2 to 7.1.6 in… | `dependabot[bot]` | **today** |
+| [#87](https://github.com/moodys-ma-mdc/mdc-search-bot/pull/87) | chore(deps-dev): bump postcss-selector-parser from 7.1.2 to 7.1.6 in… | `dependabot[bot]` | 1d |
 | [#86](https://github.com/moodys-ma-mdc/mdc-search-bot/pull/86) | chore(deps-dev): bump handlebars from 4.7.9 to 4.7.10 in /apps/teams-… | `dependabot[bot]` | 1d |
 | [#85](https://github.com/moodys-ma-mdc/mdc-search-bot/pull/85) | chore(deps): bump werkzeug from 3.1.8 to 3.1.9 in /apps/api | `dependabot[bot]` | 6d |
 | [#84](https://github.com/moodys-ma-mdc/mdc-search-bot/pull/84) | chore(deps): bump urllib3 from 2.7.0 to 2.8.0 in /apps/api | `dependabot[bot]` | 11d |
