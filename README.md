@@ -1,6 +1,6 @@
 # Search/Glue/Ingestion · open PRs
 
-_Auto-generated 2026-10-23 21:35 UTC · covers 8 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
+_Auto-generated 2026-10-24 00:25 UTC · covers 8 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
 
 **[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-search-bot%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-legacy-services-search%20repo%3Amoodys-ma-mdc/mcfl-astra-glue-etl%20repo%3Amoodys-ma-mdc/mdc-data-search-preprocessing&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
 
@@ -25,7 +25,7 @@ _Auto-generated 2026-10-23 21:35 UTC · covers 8 repos in `moodys-ma-mdc` · exc
 | PR | Title | Author | Age |
 |---|---|---|---|
 | [#88](https://github.com/moodys-ma-mdc/mdc-search-bot/pull/88) | chore(deps-dev): bump follow-redirects from 1.16.0 to 1.16.1 in /apps… | `dependabot[bot]` | **today** |
-| [#87](https://github.com/moodys-ma-mdc/mdc-search-bot/pull/87) | chore(deps-dev): bump postcss-selector-parser from 7.1.2 to 7.1.6 in… | `dependabot[bot]` | 3d |
+| [#87](https://github.com/moodys-ma-mdc/mdc-search-bot/pull/87) | chore(deps-dev): bump postcss-selector-parser from 7.1.2 to 7.1.6 in… | `dependabot[bot]` | 4d |
 | [#86](https://github.com/moodys-ma-mdc/mdc-search-bot/pull/86) | chore(deps-dev): bump handlebars from 4.7.9 to 4.7.10 in /apps/teams-… | `dependabot[bot]` | 4d |
 | [#85](https://github.com/moodys-ma-mdc/mdc-search-bot/pull/85) | chore(deps): bump werkzeug from 3.1.8 to 3.1.9 in /apps/api | `dependabot[bot]` | 9d |
 | [#84](https://github.com/moodys-ma-mdc/mdc-search-bot/pull/84) | chore(deps): bump urllib3 from 2.7.0 to 2.8.0 in /apps/api | `dependabot[bot]` | 14d |
