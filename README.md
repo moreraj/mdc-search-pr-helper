@@ -1,10 +1,10 @@
 # Search/Glue/Ingestion · open PRs
 
-_Auto-generated 2026-10-27 23:04 UTC · covers 12 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
+_Auto-generated 2026-10-28 02:31 UTC · covers 12 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
 
-**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-cds-search-common%20repo%3Amoodys-ma-mdc/di-data-api-search%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-legacy-services-search%20repo%3Amoodys-ma-mdc/mdc-data-api-search-config%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts%20repo%3Amoodys-ma-mdc/mdc-cds-ingestion-ssot-filtered%20repo%3Amoodys-ma-mdc/mdc-cds-ingestion-ssot2db%20repo%3Amoodys-ma-mdc/mdc-cds-search%20repo%3Amoodys-ma-mdc/mdc-search-bot&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
+**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-etl-flaghub-glue%20repo%3Amoodys-ma-mdc/mdc-cds-search-common%20repo%3Amoodys-ma-mdc/di-data-api-search%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-legacy-services-search%20repo%3Amoodys-ma-mdc/mdc-data-api-search-config%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts%20repo%3Amoodys-ma-mdc/mdc-cds-ingestion-ssot-filtered%20repo%3Amoodys-ma-mdc/mdc-cds-ingestion-ssot2db%20repo%3Amoodys-ma-mdc/mdc-cds-search&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
 
-**Stats:** 6 active today · 52 stale (>30d) · 38 dependabot · 9 drafts · **75 total**
+**Stats:** 6 active today · 43 stale (>30d) · 25 dependabot · 9 drafts · **61 total**
 
 <details><summary><b>mdc-cds-search-common</b> · 2 PRs</summary>
 
@@ -83,27 +83,6 @@ _Auto-generated 2026-10-27 23:04 UTC · covers 12 repos in `moodys-ma-mdc` · ex
 
 </details>
 
-<details><summary><b>mdc-search-bot</b> · 14 PRs</summary>
-
-| PR | Title | Author | Age |
-|---|---|---|---|
-| [#88](https://github.com/moodys-ma-mdc/mdc-search-bot/pull/88) | chore(deps-dev): bump follow-redirects from 1.16.0 to 1.16.1 in /apps… | `dependabot[bot]` | 4d |
-| [#87](https://github.com/moodys-ma-mdc/mdc-search-bot/pull/87) | chore(deps-dev): bump postcss-selector-parser from 7.1.2 to 7.1.6 in… | `dependabot[bot]` | 8d |
-| [#86](https://github.com/moodys-ma-mdc/mdc-search-bot/pull/86) | chore(deps-dev): bump handlebars from 4.7.9 to 4.7.10 in /apps/teams-… | `dependabot[bot]` | 8d |
-| [#85](https://github.com/moodys-ma-mdc/mdc-search-bot/pull/85) | chore(deps): bump werkzeug from 3.1.8 to 3.1.9 in /apps/api | `dependabot[bot]` | 13d |
-| [#84](https://github.com/moodys-ma-mdc/mdc-search-bot/pull/84) | chore(deps): bump urllib3 from 2.7.0 to 2.8.0 in /apps/api | `dependabot[bot]` | 18d |
-| [#83](https://github.com/moodys-ma-mdc/mdc-search-bot/pull/83) | chore(deps): bump anyio from 4.13.0 to 4.14.2 in /apps/api | `dependabot[bot]` | ~5w |
-| [#82](https://github.com/moodys-ma-mdc/mdc-search-bot/pull/82) | chore(deps-dev): bump baseline-browser-mapping from 2.10.35 to 2.11.2… | `dependabot[bot]` | ~7w |
-| [#81](https://github.com/moodys-ma-mdc/mdc-search-bot/pull/81) | chore(deps-dev): bump postcss-selector-parser from 7.1.2 to 7.1.5 in… | `dependabot[bot]` | ~8w |
-| [#80](https://github.com/moodys-ma-mdc/mdc-search-bot/pull/80) | chore(deps-dev): bump nanoid from 3.3.12 to 3.3.18 in /apps/api/cdk | `dependabot[bot]` | ~2mo |
-| [#79](https://github.com/moodys-ma-mdc/mdc-search-bot/pull/79) | chore(deps-dev): bump postcss from 8.5.15 to 8.5.26 in /apps/teams-re… | `dependabot[bot]` | ~3mo |
-| [#78](https://github.com/moodys-ma-mdc/mdc-search-bot/pull/78) | chore(deps): bump cryptography from 48.0.0 to 50.0.0 in /apps/api | `dependabot[bot]` | ~3mo |
-| [#77](https://github.com/moodys-ma-mdc/mdc-search-bot/pull/77) | chore(deps-dev): bump postcss from 8.5.15 to 8.5.25 in /apps/api/cdk | `dependabot[bot]` | ~3mo |
-| [#76](https://github.com/moodys-ma-mdc/mdc-search-bot/pull/76) | chore(deps-dev): bump shell-quote from 1.8.4 to 1.10.0 in /apps/api/c… | `dependabot[bot]` | ~3mo |
-| [#75](https://github.com/moodys-ma-mdc/mdc-search-bot/pull/75) | [MDCPT-XXXXX] phase 32: split.io feature flag gate for frontend | `aftimosm` | ~4mo |
-
-</details>
-
 <details><summary><b>mdc-data-search-quality-scripts</b> · 4 PRs</summary>
 
 | PR | Title | Author | Age |
@@ -129,7 +108,7 @@ _Auto-generated 2026-10-27 23:04 UTC · covers 12 repos in `moodys-ma-mdc` · ex
 | [#192](https://github.com/moodys-ma-mdc/di-data-api-search/pull/192) | [Snyk] Security upgrade org.apache.spark:spark-core_2.12 from 3.3.3 t… | `sys-prod-devops-cicd` | ~9mo |
 | [#191](https://github.com/moodys-ma-mdc/di-data-api-search/pull/191) | [Snyk] Security upgrade io.netty:netty-codec-http from 4.2.5.Final to… | `sys-prod-devops-cicd` | ~10mo |
 | [#189](https://github.com/moodys-ma-mdc/di-data-api-search/pull/189) | [MDCPT-56061] Fix SnykSASTScan | `yahia-elakeed-se` | ~10mo |
-| [#190](https://github.com/moodys-ma-mdc/di-data-api-search/pull/190) | Bump io.netty:netty-codec-http from 4.2.5.Final to 4.2.8.Final | `dependabot[bot]` | ~10mo |
+| [#190](https://github.com/moodys-ma-mdc/di-data-api-search/pull/190) | Bump io.netty:netty-codec-http from 4.2.5.Final to 4.2.8.Final | `dependabot[bot]` | ~11mo |
 | [#187](https://github.com/moodys-ma-mdc/di-data-api-search/pull/187) | [CHORE] Add more details to readme | `willimarmei` | ~12mo |
 | [#186](https://github.com/moodys-ma-mdc/di-data-api-search/pull/186) | [Snyk] Security upgrade org.apache.solr:solr-core from 9.5.0 to 9.10.0 | `sys-prod-devops-cicd` | ~12mo |
 | [#161](https://github.com/moodys-ma-mdc/di-data-api-search/pull/161) | Bump org.eclipse.jetty.http2:http2-common from 11.0.20 to 11.0.26 | `dependabot[bot]` | ~12mo |
@@ -158,7 +137,7 @@ _Auto-generated 2026-10-27 23:04 UTC · covers 12 repos in `moodys-ma-mdc` · ex
 
 </details>
 
-<sub>Repos with no open PRs: `mdc-cds-search`</sub>
+<sub>Repos with no open PRs: `mdc-data-etl-flaghub-glue`, `mdc-cds-search`</sub>
 
 ---
 
