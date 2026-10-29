@@ -1,65 +1,53 @@
 # Search/Glue/Ingestion · open PRs
 
-_Auto-generated 2026-10-29 02:44 UTC · covers 15 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
+_Auto-generated 2026-10-29 19:29 UTC · covers 16 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
 
-**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-data-search-quepid%20repo%3Amoodys-ma-mdc/mdc-data-api-search-config%20repo%3Amoodys-ma-mdc/mdc-cds-ingestion-dblifecycle%20repo%3Amoodys-ma-mdc/mdc-cds-ingestion-change-events-replay%20repo%3Amoodys-ma-mdc/mdc-data-private-search-api%20repo%3Amoodys-ma-mdc/mdc-data-search-document-db-kafka%20repo%3Amoodys-ma-mdc/mdc-cds-ingestion-db2se%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-data-etl-flaghub-glue%20repo%3Amoodys-ma-mdc/mdc-cds-search-common%20repo%3Amoodys-ma-mdc/di-data-api-search%20repo%3Amoodys-ma-mdc/mdc-legacy-services-search&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
+**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-search-quepid%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts%20repo%3Amoodys-ma-mdc/mdc-data-etl-flaghub-glue%20repo%3Amoodys-ma-mdc/mdc-cds-ingestion-ssot2labels%20repo%3Amoodys-ma-mdc/mdc-data-api-search-config%20repo%3Amoodys-ma-mdc/mdc-cds-ingestion-dblifecycle%20repo%3Amoodys-ma-mdc/mdc-cds-ingestion-change-events-replay%20repo%3Amoodys-ma-mdc/mdc-data-private-search-api%20repo%3Amoodys-ma-mdc/mdc-data-search-document-db-kafka%20repo%3Amoodys-ma-mdc/mdc-cds-ingestion-db2se%20repo%3Amoodys-ma-mdc/mdc-cds-search-common%20repo%3Amoodys-ma-mdc/di-data-api-search%20repo%3Amoodys-ma-mdc/mdc-legacy-services-search&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
 
-**Stats:** 14 active today · 61 stale (>30d) · 31 dependabot · 10 drafts · **80 total**
+**Stats:** 7 active today · 61 stale (>30d) · 35 dependabot · 9 drafts · **82 total**
 
-<details><summary><b>mdc-data-search</b> · 5 PRs</summary>
+<details><summary><b>mdc-data-search</b> · 6 PRs</summary>
 
 | PR | Title | Author | Age |
 |---|---|---|---|
-| [#559](https://github.com/moodys-ma-mdc/mdc-data-search/pull/559) | [MDCPT-112257] Add the template and package config sync to admin-api _(draft)_ | `aftimosm` | **today** |
-| [#543](https://github.com/moodys-ma-mdc/mdc-data-search/pull/543) | [MDCPT-108525] add ai tools use case | `joellerobinson` | **today** |
+| [#559](https://github.com/moodys-ma-mdc/mdc-data-search/pull/559) | Waiting to merge until release is done [MDCPT-112257] Add the templat… | `aftimosm` | **today** |
+| [#560](https://github.com/moodys-ma-mdc/mdc-data-search/pull/560) | [MDCPT-105684] Make cached SSM reads the default and retire get_param… | `sstults-non-empl` | **today** |
+| [#543](https://github.com/moodys-ma-mdc/mdc-data-search/pull/543) | [MDCPT-108525] add ai tools use case | `joellerobinson` | 1d |
 | [#544](https://github.com/moodys-ma-mdc/mdc-data-search/pull/544) | Bump setuptools from 83.0.0 to 84.1.0 in /apps/search-api | `dependabot[bot]` | 2d |
-| [#483](https://github.com/moodys-ma-mdc/mdc-data-search/pull/483) | [MDCPT-107148] Deploy search-api in eu-central-1 | `ahmedhamdyse` | 22d |
+| [#483](https://github.com/moodys-ma-mdc/mdc-data-search/pull/483) | [MDCPT-107148] Deploy search-api in eu-central-1 | `ahmedhamdyse` | 23d |
 | [#461](https://github.com/moodys-ma-mdc/mdc-data-search/pull/461) | Chore/schemathesis search poc _(draft)_ | `aftimosm` | ~6w |
 
 </details>
 
-<details><summary><b>mdc-data-search-glue</b> · 7 PRs</summary>
+<details><summary><b>mdc-cds-ingestion-ssot2labels</b> · 5 PRs</summary>
 
 | PR | Title | Author | Age |
 |---|---|---|---|
-| [#2899](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2899) | [MDCPT-112962] Add Wiz exception for pymongo CVE-2026-106435 | `ZurielTMoodys` | **today** |
-| [#2894](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2894) | [MDCPT-102354] Remove dependencies on the mdc-data-private-search Ope… | `ahmedhamdyse` | 1d |
-| [#2887](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2887) | [CHORE] Research sector: batch taxonomy lookups via reference/multi _(draft)_ | `michael-zehngut` | 7d |
-| [#2656](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2656) | [CHORE] Change CODEOWNERS to mdc-search team | `aftimosm` | ~4mo |
-| [#2520](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2520) | Revert "[CHORE] revert-OS-authentication-to-unblock-STG" | `KavyaOS` | ~7mo |
-| [#2429](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2429) | [CHORE] Add S3 and OS audit job for local dev | `willimarmei` | ~7mo |
-| [#2365](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2365) | [CHORE] Update Antropic lib _(draft)_ | `sstults-non-empl` | ~8mo |
+| [#5](https://github.com/moodys-ma-mdc/mdc-cds-ingestion-ssot2labels/pull/5) | [MDCPT-110313] Add buildspec.yml for the maven pipeline _(draft)_ | `tonylootens` | **today** |
+| [#3](https://github.com/moodys-ma-mdc/mdc-cds-ingestion-ssot2labels/pull/3) | build(deps): Bump org.apache.kafka:kafka-clients from 3.9.1 to 3.9.2 | `dependabot[bot]` | **today** |
+| [#1](https://github.com/moodys-ma-mdc/mdc-cds-ingestion-ssot2labels/pull/1) | build(deps): Bump org.apache.logging.log4j:log4j-core from 2.17.1 to… | `dependabot[bot]` | **today** |
+| [#4](https://github.com/moodys-ma-mdc/mdc-cds-ingestion-ssot2labels/pull/4) | build(deps): Bump org.apache.logging.log4j:log4j-api from 2.17.1 to 2… | `dependabot[bot]` | **today** |
+| [#2](https://github.com/moodys-ma-mdc/mdc-cds-ingestion-ssot2labels/pull/2) | build(deps): Bump org.opensearch:opensearch from 2.5.0 to 2.11.1 | `dependabot[bot]` | **today** |
 
 </details>
 
-<details><summary><b>mdc-data-search-quepid</b> · 2 PRs</summary>
+<details><summary><b>mdc-cds-ingestion-change-events-replay</b> · 2 PRs</summary>
 
 | PR | Title | Author | Age |
 |---|---|---|---|
-| [#124](https://github.com/moodys-ma-mdc/mdc-data-search-quepid/pull/124) | [MDCPT-81508] Build Quepid from pinned upstream commit instead of sub… _(draft)_ | `dave-moody` | **today** |
-| [#123](https://github.com/moodys-ma-mdc/mdc-data-search-quepid/pull/123) | [CHORE] Fix Wiz security failures 2x _(draft)_ | `dave-moody` | 5d |
+| [#2](https://github.com/moodys-ma-mdc/mdc-cds-ingestion-change-events-replay/pull/2) | build(deps): Bump org.apache.commons:commons-configuration2 from 2.12… | `dependabot[bot]` | 1d |
+| [#3](https://github.com/moodys-ma-mdc/mdc-cds-ingestion-change-events-replay/pull/3) | build(deps): Bump org.apache.logging.log4j:log4j-api from 2.25.1 to 2… | `dependabot[bot]` | 1d |
 
 </details>
 
-<details><summary><b>mdc-cds-ingestion-change-events-replay</b> · 3 PRs</summary>
+<details><summary><b>mdc-cds-ingestion-dblifecycle</b> · 4 PRs</summary>
 
 | PR | Title | Author | Age |
 |---|---|---|---|
-| [#8](https://github.com/moodys-ma-mdc/mdc-cds-ingestion-change-events-replay/pull/8) | [MDCPT-110300] Re-apply the dependency pins (Wiz gate) - DO NOT MERGE… | `XilinLi2023` | **today** |
-| [#2](https://github.com/moodys-ma-mdc/mdc-cds-ingestion-change-events-replay/pull/2) | build(deps): Bump org.apache.commons:commons-configuration2 from 2.12… | `dependabot[bot]` | **today** |
-| [#3](https://github.com/moodys-ma-mdc/mdc-cds-ingestion-change-events-replay/pull/3) | build(deps): Bump org.apache.logging.log4j:log4j-api from 2.25.1 to 2… | `dependabot[bot]` | **today** |
-
-</details>
-
-<details><summary><b>mdc-cds-ingestion-dblifecycle</b> · 5 PRs</summary>
-
-| PR | Title | Author | Age |
-|---|---|---|---|
-| [#6](https://github.com/moodys-ma-mdc/mdc-cds-ingestion-dblifecycle/pull/6) | [MDCPT-110301] Pin netty, jackson, guava and kafka-clients to fixed v… | `XilinLi2023` | **today** |
-| [#4](https://github.com/moodys-ma-mdc/mdc-cds-ingestion-dblifecycle/pull/4) | build(deps): bump org.apache.logging.log4j:log4j-core from 2.25.1 to… | `dependabot[bot]` | **today** |
-| [#3](https://github.com/moodys-ma-mdc/mdc-cds-ingestion-dblifecycle/pull/3) | build(deps): bump org.apache.logging.log4j:log4j-api from 2.25.1 to 2… | `dependabot[bot]` | **today** |
-| [#1](https://github.com/moodys-ma-mdc/mdc-cds-ingestion-dblifecycle/pull/1) | build(deps): bump org.apache.commons:commons-configuration2 from 2.12… | `dependabot[bot]` | **today** |
-| [#2](https://github.com/moodys-ma-mdc/mdc-cds-ingestion-dblifecycle/pull/2) | build(deps): bump org.apache.kafka:kafka-clients from 3.9.1 to 3.9.2 | `dependabot[bot]` | **today** |
+| [#4](https://github.com/moodys-ma-mdc/mdc-cds-ingestion-dblifecycle/pull/4) | build(deps): bump org.apache.logging.log4j:log4j-core from 2.25.1 to… | `dependabot[bot]` | 1d |
+| [#3](https://github.com/moodys-ma-mdc/mdc-cds-ingestion-dblifecycle/pull/3) | build(deps): bump org.apache.logging.log4j:log4j-api from 2.25.1 to 2… | `dependabot[bot]` | 1d |
+| [#1](https://github.com/moodys-ma-mdc/mdc-cds-ingestion-dblifecycle/pull/1) | build(deps): bump org.apache.commons:commons-configuration2 from 2.12… | `dependabot[bot]` | 1d |
+| [#2](https://github.com/moodys-ma-mdc/mdc-cds-ingestion-dblifecycle/pull/2) | build(deps): bump org.apache.kafka:kafka-clients from 3.9.1 to 3.9.2 | `dependabot[bot]` | 1d |
 
 </details>
 
@@ -67,7 +55,7 @@ _Auto-generated 2026-10-29 02:44 UTC · covers 15 repos in `moodys-ma-mdc` · ex
 
 | PR | Title | Author | Age |
 |---|---|---|---|
-| [#1](https://github.com/moodys-ma-mdc/mdc-cds-ingestion-db2se/pull/1) | [MDCPT-110310] Add buildspec.yml for the maven pipeline _(draft)_ | `tonylootens` | **today** |
+| [#1](https://github.com/moodys-ma-mdc/mdc-cds-ingestion-db2se/pull/1) | [MDCPT-110310] Add buildspec.yml for the maven pipeline _(draft)_ | `tonylootens` | 1d |
 
 </details>
 
@@ -75,7 +63,28 @@ _Auto-generated 2026-10-29 02:44 UTC · covers 15 repos in `moodys-ma-mdc` · ex
 
 | PR | Title | Author | Age |
 |---|---|---|---|
-| [#657](https://github.com/moodys-ma-mdc/mdc-search/pull/657) | [MDCPT-98932] Decouple search-bar from CV2 React 16 (consume shared R… | `mmaestri` | **today** |
+| [#657](https://github.com/moodys-ma-mdc/mdc-search/pull/657) | [MDCPT-98932] Decouple search-bar from CV2 React 16 (consume shared R… | `mmaestri` | 1d |
+
+</details>
+
+<details><summary><b>mdc-data-search-glue</b> · 6 PRs</summary>
+
+| PR | Title | Author | Age |
+|---|---|---|---|
+| [#2894](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2894) | [MDCPT-102354] Remove dependencies on the mdc-data-private-search Ope… | `ahmedhamdyse` | 2d |
+| [#2887](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2887) | [CHORE] Research sector: batch taxonomy lookups via reference/multi _(draft)_ | `michael-zehngut` | 8d |
+| [#2656](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2656) | [CHORE] Change CODEOWNERS to mdc-search team | `aftimosm` | ~5mo |
+| [#2520](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2520) | Revert "[CHORE] revert-OS-authentication-to-unblock-STG" | `KavyaOS` | ~7mo |
+| [#2429](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2429) | [CHORE] Add S3 and OS audit job for local dev | `willimarmei` | ~8mo |
+| [#2365](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2365) | [CHORE] Update Antropic lib _(draft)_ | `sstults-non-empl` | ~8mo |
+
+</details>
+
+<details><summary><b>mdc-data-search-quepid</b> · 1 PRs</summary>
+
+| PR | Title | Author | Age |
+|---|---|---|---|
+| [#123](https://github.com/moodys-ma-mdc/mdc-data-search-quepid/pull/123) | [CHORE] Fix Wiz security failures 2x _(draft)_ | `dave-moody` | 6d |
 
 </details>
 
