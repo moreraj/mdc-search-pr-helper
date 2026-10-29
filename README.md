@@ -1,10 +1,22 @@
 # Search/Glue/Ingestion · open PRs
 
-_Auto-generated 2026-10-28 23:26 UTC · covers 15 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
+_Auto-generated 2026-10-29 02:44 UTC · covers 15 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
 
-**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-data-search-quepid%20repo%3Amoodys-ma-mdc/mdc-data-api-search-config%20repo%3Amoodys-ma-mdc/mdc-cds-ingestion-dblifecycle%20repo%3Amoodys-ma-mdc/mdc-cds-ingestion-change-events-replay%20repo%3Amoodys-ma-mdc/mdc-data-private-search-api%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-data-search-document-db-kafka%20repo%3Amoodys-ma-mdc/mdc-cds-ingestion-db2se%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-data-etl-flaghub-glue%20repo%3Amoodys-ma-mdc/mdc-cds-search-common%20repo%3Amoodys-ma-mdc/di-data-api-search%20repo%3Amoodys-ma-mdc/mdc-legacy-services-search&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
+**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-data-search-quepid%20repo%3Amoodys-ma-mdc/mdc-data-api-search-config%20repo%3Amoodys-ma-mdc/mdc-cds-ingestion-dblifecycle%20repo%3Amoodys-ma-mdc/mdc-cds-ingestion-change-events-replay%20repo%3Amoodys-ma-mdc/mdc-data-private-search-api%20repo%3Amoodys-ma-mdc/mdc-data-search-document-db-kafka%20repo%3Amoodys-ma-mdc/mdc-cds-ingestion-db2se%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-data-etl-flaghub-glue%20repo%3Amoodys-ma-mdc/mdc-cds-search-common%20repo%3Amoodys-ma-mdc/di-data-api-search%20repo%3Amoodys-ma-mdc/mdc-legacy-services-search&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
 
-**Stats:** 13 active today · 61 stale (>30d) · 31 dependabot · 9 drafts · **79 total**
+**Stats:** 14 active today · 61 stale (>30d) · 31 dependabot · 10 drafts · **80 total**
+
+<details><summary><b>mdc-data-search</b> · 5 PRs</summary>
+
+| PR | Title | Author | Age |
+|---|---|---|---|
+| [#559](https://github.com/moodys-ma-mdc/mdc-data-search/pull/559) | [MDCPT-112257] Add the template and package config sync to admin-api _(draft)_ | `aftimosm` | **today** |
+| [#543](https://github.com/moodys-ma-mdc/mdc-data-search/pull/543) | [MDCPT-108525] add ai tools use case | `joellerobinson` | **today** |
+| [#544](https://github.com/moodys-ma-mdc/mdc-data-search/pull/544) | Bump setuptools from 83.0.0 to 84.1.0 in /apps/search-api | `dependabot[bot]` | 2d |
+| [#483](https://github.com/moodys-ma-mdc/mdc-data-search/pull/483) | [MDCPT-107148] Deploy search-api in eu-central-1 | `ahmedhamdyse` | 22d |
+| [#461](https://github.com/moodys-ma-mdc/mdc-data-search/pull/461) | Chore/schemathesis search poc _(draft)_ | `aftimosm` | ~6w |
+
+</details>
 
 <details><summary><b>mdc-data-search-glue</b> · 7 PRs</summary>
 
@@ -56,17 +68,6 @@ _Auto-generated 2026-10-28 23:26 UTC · covers 15 repos in `moodys-ma-mdc` · ex
 | PR | Title | Author | Age |
 |---|---|---|---|
 | [#1](https://github.com/moodys-ma-mdc/mdc-cds-ingestion-db2se/pull/1) | [MDCPT-110310] Add buildspec.yml for the maven pipeline _(draft)_ | `tonylootens` | **today** |
-
-</details>
-
-<details><summary><b>mdc-data-search</b> · 4 PRs</summary>
-
-| PR | Title | Author | Age |
-|---|---|---|---|
-| [#543](https://github.com/moodys-ma-mdc/mdc-data-search/pull/543) | [MDCPT-108525] add ai tools use case | `joellerobinson` | **today** |
-| [#544](https://github.com/moodys-ma-mdc/mdc-data-search/pull/544) | Bump setuptools from 83.0.0 to 84.1.0 in /apps/search-api | `dependabot[bot]` | 2d |
-| [#483](https://github.com/moodys-ma-mdc/mdc-data-search/pull/483) | [MDCPT-107148] Deploy search-api in eu-central-1 | `ahmedhamdyse` | 22d |
-| [#461](https://github.com/moodys-ma-mdc/mdc-data-search/pull/461) | Chore/schemathesis search poc _(draft)_ | `aftimosm` | ~6w |
 
 </details>
 
