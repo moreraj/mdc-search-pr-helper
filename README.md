@@ -1,10 +1,22 @@
 # Search/Glue/Ingestion · open PRs
 
-_Auto-generated 2026-10-30 23:07 UTC · covers 19 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
+_Auto-generated 2026-10-31 02:39 UTC · covers 19 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
 
-**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-data-search-quepid%20repo%3Amoodys-ma-mdc/mdc-global-search-api%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-cds-deals-search-api%20repo%3Amoodys-ma-mdc/mdc-cds-search-common%20repo%3Amoodys-ma-mdc/mdc-cds-ingestion-lake-compaction%20repo%3Amoodys-ma-mdc/mdc-data-search-solr%20repo%3Amoodys-ma-mdc/mdc-cds-ingestion-lake-archive%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts%20repo%3Amoodys-ma-mdc/mdc-data-etl-flaghub-glue%20repo%3Amoodys-ma-mdc/mdc-cds-ingestion-ssot2labels%20repo%3Amoodys-ma-mdc/mdc-data-api-search-config%20repo%3Amoodys-ma-mdc/mdc-cds-ingestion-dblifecycle%20repo%3Amoodys-ma-mdc/mdc-cds-ingestion-change-events-replay%20repo%3Amoodys-ma-mdc/mdc-data-private-search-api%20repo%3Amoodys-ma-mdc/mdc-data-search-document-db-kafka%20repo%3Amoodys-ma-mdc/mdc-cds-ingestion-db2se&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
+**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-data-search-quepid%20repo%3Amoodys-ma-mdc/mdc-global-search-api%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-cds-deals-search-api%20repo%3Amoodys-ma-mdc/mdc-cds-search-common%20repo%3Amoodys-ma-mdc/mdc-cds-ingestion-lake-compaction%20repo%3Amoodys-ma-mdc/mdc-data-search-solr%20repo%3Amoodys-ma-mdc/mdc-cds-ingestion-lake-archive%20repo%3Amoodys-ma-mdc/mdc-data-etl-flaghub-glue%20repo%3Amoodys-ma-mdc/mdc-cds-ingestion-ssot2labels%20repo%3Amoodys-ma-mdc/mdc-data-api-search-config%20repo%3Amoodys-ma-mdc/mdc-cds-ingestion-dblifecycle%20repo%3Amoodys-ma-mdc/mdc-cds-ingestion-change-events-replay%20repo%3Amoodys-ma-mdc/mdc-data-private-search-api%20repo%3Amoodys-ma-mdc/mdc-data-search-document-db-kafka%20repo%3Amoodys-ma-mdc/mdc-cds-ingestion-db2se&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
 
-**Stats:** 14 active today · 32 stale (>30d) · 24 dependabot · 12 drafts · **62 total**
+**Stats:** 15 active today · 32 stale (>30d) · 25 dependabot · 12 drafts · **63 total**
+
+<details><summary><b>mdc-data-search-quality-scripts</b> · 5 PRs</summary>
+
+| PR | Title | Author | Age |
+|---|---|---|---|
+| [#349](https://github.com/moodys-ma-mdc/mdc-data-search-quality-scripts/pull/349) | build(deps): bump tornado from 6.5.9 to 6.6 in /llm_judge_streamlit | `dependabot[bot]` | **today** |
+| [#339](https://github.com/moodys-ma-mdc/mdc-data-search-quality-scripts/pull/339) | [CHORE] MDC Learning-To-Rank POC | `sstults-non-empl` | ~8w |
+| [#277](https://github.com/moodys-ma-mdc/mdc-data-search-quality-scripts/pull/277) | [MDCPT-65580] Tooling _(draft)_ | `mkr` | ~6mo |
+| [#285](https://github.com/moodys-ma-mdc/mdc-data-search-quality-scripts/pull/285) | [CHORE] Current INFO SK -> LCM index document conversion lambda _(draft)_ | `david-fisher` | ~6mo |
+| [#99](https://github.com/moodys-ma-mdc/mdc-data-search-quality-scripts/pull/99) | [MDCPT-31210] Code for structured chunk query evaluation / export _(draft)_ | `mkr` | ~3y |
+
+</details>
 
 <details><summary><b>mdc-data-search-glue</b> · 8 PRs</summary>
 
@@ -115,17 +127,6 @@ _Auto-generated 2026-10-30 23:07 UTC · covers 19 repos in `moodys-ma-mdc` · ex
 | PR | Title | Author | Age |
 |---|---|---|---|
 | [#123](https://github.com/moodys-ma-mdc/mdc-data-search-quepid/pull/123) | [CHORE] Fix Wiz security failures 2x _(draft)_ | `dave-moody` | 7d |
-
-</details>
-
-<details><summary><b>mdc-data-search-quality-scripts</b> · 4 PRs</summary>
-
-| PR | Title | Author | Age |
-|---|---|---|---|
-| [#339](https://github.com/moodys-ma-mdc/mdc-data-search-quality-scripts/pull/339) | [CHORE] MDC Learning-To-Rank POC | `sstults-non-empl` | ~8w |
-| [#277](https://github.com/moodys-ma-mdc/mdc-data-search-quality-scripts/pull/277) | [MDCPT-65580] Tooling _(draft)_ | `mkr` | ~6mo |
-| [#285](https://github.com/moodys-ma-mdc/mdc-data-search-quality-scripts/pull/285) | [CHORE] Current INFO SK -> LCM index document conversion lambda _(draft)_ | `david-fisher` | ~6mo |
-| [#99](https://github.com/moodys-ma-mdc/mdc-data-search-quality-scripts/pull/99) | [MDCPT-31210] Code for structured chunk query evaluation / export _(draft)_ | `mkr` | ~3y |
 
 </details>
 
