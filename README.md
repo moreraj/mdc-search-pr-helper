@@ -1,20 +1,19 @@
 # Search/Glue/Ingestion · open PRs
 
-_Auto-generated 2026-11-03 20:27 UTC · covers 9 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
+_Auto-generated 2026-11-04 00:49 UTC · covers 9 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
 
 **[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-data-search-solr%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-data-etl-flaghub-glue%20repo%3Amoodys-ma-mdc/mdc-cds-individuals-search-names-api%20repo%3Amoodys-ma-mdc/mdc-cds-individuals-search-api%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-data-search-quepid%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
 
-**Stats:** 7 active today · 9 stale (>30d) · 1 dependabot · 11 drafts · **23 total**
+**Stats:** 5 active today · 9 stale (>30d) · 1 dependabot · 11 drafts · **22 total**
 
-<details><summary><b>mdc-data-search</b> · 8 PRs</summary>
+<details><summary><b>mdc-data-search</b> · 7 PRs</summary>
 
 | PR | Title | Author | Age |
 |---|---|---|---|
-| [#585](https://github.com/moodys-ma-mdc/mdc-data-search/pull/585) | [MDCPT-112254] Add MAP JWT validation and per-environment user scopes… | `SeanFortney-Moodys` | **today** |
-| [#587](https://github.com/moodys-ma-mdc/mdc-data-search/pull/587) | [MDCPT-112768] Re-add SigV4 private REST API on the shared execute-ap… _(draft)_ | `aftimosm` | **today** |
 | [#583](https://github.com/moodys-ma-mdc/mdc-data-search/pull/583) | [MDCPT-105804] Add schemathesis contract tests for search-api endpoin… _(draft)_ | `aftimosm` | **today** |
+| [#587](https://github.com/moodys-ma-mdc/mdc-data-search/pull/587) | [MDCPT-112768] SigV4 private API Gateway with verified caller ARN for… _(draft)_ | `aftimosm` | **today** |
 | [#579](https://github.com/moodys-ma-mdc/mdc-data-search/pull/579) | [MDCPT-105687] Expose the cache TTLs on the task definition and log c… | `sstults-non-empl` | **today** |
-| [#572](https://github.com/moodys-ma-mdc/mdc-data-search/pull/572) | [MDCPT-105802] Changing error handling in Search API, remove the expl… | `mkr` | **today** |
+| [#572](https://github.com/moodys-ma-mdc/mdc-data-search/pull/572) | [MDCPT-105802] Changing error handling in Search API, remove the expl… | `mkr` | 1d |
 | [#559](https://github.com/moodys-ma-mdc/mdc-data-search/pull/559) | Waiting to merge until release is done [MDCPT-112257] Add the templat… | `aftimosm` | 4d |
 | [#483](https://github.com/moodys-ma-mdc/mdc-data-search/pull/483) | [MDCPT-107148] Deploy search-api in eu-central-1 | `ahmedhamdyse` | 28d |
 | [#461](https://github.com/moodys-ma-mdc/mdc-data-search/pull/461) | Chore/schemathesis search poc _(draft)_ | `aftimosm` | ~7w |
@@ -49,7 +48,7 @@ _Auto-generated 2026-11-03 20:27 UTC · covers 9 repos in `moodys-ma-mdc` · exc
 
 | PR | Title | Author | Age |
 |---|---|---|---|
-| [#349](https://github.com/moodys-ma-mdc/mdc-data-search-quality-scripts/pull/349) | build(deps): bump tornado from 6.5.9 to 6.6 in /llm_judge_streamlit | `dependabot[bot]` | 3d |
+| [#349](https://github.com/moodys-ma-mdc/mdc-data-search-quality-scripts/pull/349) | build(deps): bump tornado from 6.5.9 to 6.6 in /llm_judge_streamlit | `dependabot[bot]` | 4d |
 | [#339](https://github.com/moodys-ma-mdc/mdc-data-search-quality-scripts/pull/339) | [CHORE] MDC Learning-To-Rank POC | `sstults-non-empl` | ~8w |
 | [#277](https://github.com/moodys-ma-mdc/mdc-data-search-quality-scripts/pull/277) | [MDCPT-65580] Tooling _(draft)_ | `mkr` | ~6mo |
 | [#285](https://github.com/moodys-ma-mdc/mdc-data-search-quality-scripts/pull/285) | [CHORE] Current INFO SK -> LCM index document conversion lambda _(draft)_ | `david-fisher` | ~6mo |
