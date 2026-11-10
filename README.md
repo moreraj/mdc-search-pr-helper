@@ -1,6 +1,6 @@
 # Search/Glue/Ingestion · open PRs
 
-_Auto-generated 2026-11-09 23:20 UTC · covers 15 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
+_Auto-generated 2026-11-10 04:44 UTC · covers 15 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
 
 **[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-global-search-api%20repo%3Amoodys-ma-mdc/mdc-data-etl-flaghub-glue%20repo%3Amoodys-ma-mdc/mdc-cds-securities-search-api%20repo%3Amoodys-ma-mdc/mdc-cds-relationships-search-api%20repo%3Amoodys-ma-mdc/mdc-cds-relationships-ownership-search-api%20repo%3Amoodys-ma-mdc/mdc-cds-relationships-functions-search-api%20repo%3Amoodys-ma-mdc/mdc-cds-others-search-api%20repo%3Amoodys-ma-mdc/mdc-cds-legalentities-search-reference-api%20repo%3Amoodys-ma-mdc/mdc-cds-legalentities-search-names-api%20repo%3Amoodys-ma-mdc/mdc-cds-legalentities-search-locations-api%20repo%3Amoodys-ma-mdc/mdc-cds-legalentities-search-api%20repo%3Amoodys-ma-mdc/mdc-data-search-quepid&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
 
