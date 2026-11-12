@@ -1,20 +1,20 @@
 # Search/Glue/Ingestion · open PRs
 
-_Auto-generated 2026-11-11 21:11 UTC · covers 9 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
+_Auto-generated 2026-11-12 02:25 UTC · covers 10 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
 
-**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-data-etl-flaghub-glue%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-data-search-preprocessing%20repo%3Amoodys-ma-mdc/mdc-data-search-spark-solr-jobs%20repo%3Amoodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2%20repo%3Amoodys-ma-mdc/mdc-data-search-quepid%20repo%3Amoodys-ma-mdc/mdc-cds-ingestion-db2se&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
+**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-etl-mflo-glue%20repo%3Amoodys-ma-mdc/mdc-data-etl-flaghub-glue%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-data-search-preprocessing%20repo%3Amoodys-ma-mdc/mdc-data-search-spark-solr-jobs%20repo%3Amoodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2%20repo%3Amoodys-ma-mdc/mdc-data-search-quepid%20repo%3Amoodys-ma-mdc/mdc-cds-ingestion-db2se&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
 
-**Stats:** 2 active today · 13 stale (>30d) · 5 dependabot · 14 drafts · **33 total**
+**Stats:** 2 active today · 13 stale (>30d) · 5 dependabot · 13 drafts · **33 total**
 
 <details><summary><b>mdc-data-search</b> · 10 PRs</summary>
 
 | PR | Title | Author | Age |
 |---|---|---|---|
-| [#620](https://github.com/moodys-ma-mdc/mdc-data-search/pull/620) | [MDCPT-115317] Move index-schemas and package API to admin-api _(draft)_ | `aftimosm` | **today** |
+| [#620](https://github.com/moodys-ma-mdc/mdc-data-search/pull/620) | [MDCPT-115317] Move index-schemas and package API to admin-api | `aftimosm` | **today** |
 | [#616](https://github.com/moodys-ma-mdc/mdc-data-search/pull/616) | [MDCPT-109594] Add the v1 query contract schema and spec | `sstults-non-empl` | **today** |
 | [#613](https://github.com/moodys-ma-mdc/mdc-data-search/pull/613) | [MDCPT-114868] Add the relevance mismatch analysis skill _(draft)_ | `joellerobinson` | 1d |
-| [#595](https://github.com/moodys-ma-mdc/mdc-data-search/pull/595) | [MDCPT-112265] Batch concurrent query embeddings into one invocation | `ahmedhamdyse` | 5d |
-| [#597](https://github.com/moodys-ma-mdc/mdc-data-search/pull/597) | [MDCPT-112265] Route embeddings across the GPU and CPU realtime endpo… | `ahmedhamdyse` | 5d |
+| [#595](https://github.com/moodys-ma-mdc/mdc-data-search/pull/595) | [MDCPT-112265] Batch concurrent query embeddings into one invocation | `ahmedhamdyse` | 6d |
+| [#597](https://github.com/moodys-ma-mdc/mdc-data-search/pull/597) | [MDCPT-112265] Route embeddings across the GPU and CPU realtime endpo… | `ahmedhamdyse` | 6d |
 | [#590](https://github.com/moodys-ma-mdc/mdc-data-search/pull/590) | [MDCPT-105804] Run anonymous-api contract tests post-deploy and via m… _(draft)_ | `aftimosm` | 6d |
 | [#583](https://github.com/moodys-ma-mdc/mdc-data-search/pull/583) | [MDCPT-105804] Add schemathesis contract tests for search-api endpoin… _(draft)_ | `aftimosm` | 7d |
 | [#587](https://github.com/moodys-ma-mdc/mdc-data-search/pull/587) | [MDCPT-112768] SigV4 private API Gateway with verified caller ARN for… _(draft)_ | `aftimosm` | 8d |
@@ -44,7 +44,7 @@ _Auto-generated 2026-11-11 21:11 UTC · covers 9 repos in `moodys-ma-mdc` · exc
 
 | PR | Title | Author | Age |
 |---|---|---|---|
-| [#657](https://github.com/moodys-ma-mdc/mdc-search/pull/657) | [MDCPT-98932] Decouple search-bar from CV2 React 16 (consume shared R… | `mmaestri` | 1d |
+| [#657](https://github.com/moodys-ma-mdc/mdc-search/pull/657) | [MDCPT-98932] Decouple search-bar from CV2 React 16 (consume shared R… | `mmaestri` | 2d |
 
 </details>
 
@@ -62,7 +62,7 @@ _Auto-generated 2026-11-11 21:11 UTC · covers 9 repos in `moodys-ma-mdc` · exc
 | PR | Title | Author | Age |
 |---|---|---|---|
 | [#57](https://github.com/moodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2/pull/57) | Bump com.fasterxml.jackson.core:jackson-core from 2.17.0 to 2.18.11 | `dependabot[bot]` | 4d |
-| [#58](https://github.com/moodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2/pull/58) | Bump org.apache.spark:spark-core_2.12 from 3.5.6 to 3.5.8 | `dependabot[bot]` | 29d |
+| [#58](https://github.com/moodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2/pull/58) | Bump org.apache.spark:spark-core_2.12 from 3.5.6 to 3.5.8 | `dependabot[bot]` | ~4w |
 
 </details>
 
@@ -95,7 +95,7 @@ _Auto-generated 2026-11-11 21:11 UTC · covers 9 repos in `moodys-ma-mdc` · exc
 
 </details>
 
-<sub>Repos with no open PRs: `mdc-data-etl-flaghub-glue`</sub>
+<sub>Repos with no open PRs: `mdc-data-etl-mflo-glue`, `mdc-data-etl-flaghub-glue`</sub>
 
 ---
 
