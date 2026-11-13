@@ -1,15 +1,16 @@
 # Search/Glue/Ingestion · open PRs
 
-_Auto-generated 2026-11-12 21:23 UTC · covers 10 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
+_Auto-generated 2026-11-13 02:03 UTC · covers 10 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
 
 **[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-data-search-preprocessing%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-cds-ingestion-ssot2labels%20repo%3Amoodys-ma-mdc/mdc-cds-ingestion-db2se%20repo%3Amoodys-ma-mdc/mdc-data-etl-flaghub-glue%20repo%3Amoodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2%20repo%3Amoodys-ma-mdc/mdc-data-etl-mflo-glue%20repo%3Amoodys-ma-mdc/mdc-data-search-spark-solr-jobs&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
 
-**Stats:** 12 active today · 13 stale (>30d) · 9 dependabot · 11 drafts · **36 total**
+**Stats:** 13 active today · 13 stale (>30d) · 9 dependabot · 11 drafts · **37 total**
 
-<details><summary><b>mdc-data-search-glue</b> · 10 PRs</summary>
+<details><summary><b>mdc-data-search-glue</b> · 11 PRs</summary>
 
 | PR | Title | Author | Age |
 |---|---|---|---|
+| [#2951](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2951) | [MDCPT-113186] Remove auditor S3Util wrapper, call shared.s3_utils di… | `KavyaOS` | **today** |
 | [#2948](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2948) | [MDCPT-115664] Unblock dev us-east-1, size the dev GPU variants, remo… | `ahmedhamdyse` | **today** |
 | [#2950](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2950) | [CHORE] Re-enable gzipping OpenSearch request bodies | `mkr` | **today** |
 | [#2949](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2949) | [MDCPT-115104] Add passive delta insert PRAVs that validate the lates… | `ZurielTMoodys` | **today** |
