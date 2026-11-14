@@ -1,8 +1,8 @@
 # Search/Glue/Ingestion · open PRs
 
-_Auto-generated 2026-11-13 20:48 UTC · covers 7 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
+_Auto-generated 2026-11-14 01:21 UTC · covers 7 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
 
-**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-global-search-api%20repo%3Amoodys-ma-mdc/mcfl-astra-glue-etl%20repo%3Amoodys-ma-mdc/mdc-data-etl-flaghub-glue%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-data-search-solr&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
+**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-etl-flaghub-glue%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-global-search-api%20repo%3Amoodys-ma-mdc/mcfl-astra-glue-etl%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-data-search-solr&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
 
 **Stats:** 5 active today · 6 stale (>30d) · 0 dependabot · 8 drafts · **20 total**
 
@@ -41,13 +41,13 @@ _Auto-generated 2026-11-13 20:48 UTC · covers 7 repos in `moodys-ma-mdc` · exc
 | [#613](https://github.com/moodys-ma-mdc/mdc-data-search/pull/613) | [MDCPT-114868] Add the relevance mismatch analysis skill _(draft)_ | `joellerobinson` | 3d |
 | [#590](https://github.com/moodys-ma-mdc/mdc-data-search/pull/590) | [MDCPT-105804] Run anonymous-api contract tests post-deploy and via m… _(draft)_ | `aftimosm` | 8d |
 | [#583](https://github.com/moodys-ma-mdc/mdc-data-search/pull/583) | [MDCPT-105804] Add schemathesis contract tests for search-api endpoin… _(draft)_ | `aftimosm` | 9d |
-| [#587](https://github.com/moodys-ma-mdc/mdc-data-search/pull/587) | [MDCPT-112768] SigV4 private API Gateway with verified caller ARN for… _(draft)_ | `aftimosm` | 9d |
+| [#587](https://github.com/moodys-ma-mdc/mdc-data-search/pull/587) | [MDCPT-112768] SigV4 private API Gateway with verified caller ARN for… _(draft)_ | `aftimosm` | 10d |
 | [#483](https://github.com/moodys-ma-mdc/mdc-data-search/pull/483) | [MDCPT-107148] Deploy search-api in eu-central-1 | `ahmedhamdyse` | ~5w |
 | [#461](https://github.com/moodys-ma-mdc/mdc-data-search/pull/461) | Chore/schemathesis search poc _(draft)_ | `aftimosm` | ~8w |
 
 </details>
 
-<sub>Repos with no open PRs: `mdc-global-search-api`, `mcfl-astra-glue-etl`, `mdc-data-etl-flaghub-glue`, `mdc-data-search-solr`</sub>
+<sub>Repos with no open PRs: `mdc-data-etl-flaghub-glue`, `mdc-global-search-api`, `mcfl-astra-glue-etl`, `mdc-data-search-solr`</sub>
 
 ---
 
