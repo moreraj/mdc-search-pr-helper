@@ -1,8 +1,8 @@
 # Search/Glue/Ingestion · open PRs
 
-_Auto-generated 2026-11-18 21:45 UTC · covers 14 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
+_Auto-generated 2026-11-19 03:03 UTC · covers 14 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
 
-**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-data-search-quepid%20repo%3Amoodys-ma-mdc/mdc-cds-legalentities-search-api%20repo%3Amoodys-ma-mdc/mdc-cds-individuals-search-names-api%20repo%3Amoodys-ma-mdc/mdc-cds-individuals-search-api%20repo%3Amoodys-ma-mdc/mdc-cds-deals-search-api%20repo%3Amoodys-ma-mdc/mdc-data-etl-flaghub-glue%20repo%3Amoodys-ma-mdc/mdc-data-search-preprocessing%20repo%3Amoodys-ma-mdc/mdc-data-etl-mflo-glue%20repo%3Amoodys-ma-mdc/mcfl-astra-glue-etl%20repo%3Amoodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
+**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-etl-flaghub-glue%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-data-search-quepid%20repo%3Amoodys-ma-mdc/mdc-cds-legalentities-search-api%20repo%3Amoodys-ma-mdc/mdc-cds-individuals-search-names-api%20repo%3Amoodys-ma-mdc/mdc-cds-individuals-search-api%20repo%3Amoodys-ma-mdc/mdc-cds-deals-search-api%20repo%3Amoodys-ma-mdc/mdc-data-search-preprocessing%20repo%3Amoodys-ma-mdc/mdc-data-etl-mflo-glue%20repo%3Amoodys-ma-mdc/mcfl-astra-glue-etl%20repo%3Amoodys-ma-mdc/mdc-data-search-spark-solr-jobs-v2&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
 
 **Stats:** 7 active today · 17 stale (>30d) · 2 dependabot · 15 drafts · **35 total**
 
@@ -10,8 +10,8 @@ _Auto-generated 2026-11-18 21:45 UTC · covers 14 repos in `moodys-ma-mdc` · ex
 
 | PR | Title | Author | Age |
 |---|---|---|---|
-| [#644](https://github.com/moodys-ma-mdc/mdc-data-search/pull/644) | [MDCPT-109598] Parse the query contract filter tree into an AST | `sstults-non-empl` | **today** |
 | [#638](https://github.com/moodys-ma-mdc/mdc-data-search/pull/638) | [MDCPT-115317] Remove the admin-api reindex wait route | `SeanFortney-Moodys` | **today** |
+| [#644](https://github.com/moodys-ma-mdc/mdc-data-search/pull/644) | [MDCPT-109598] Parse the query contract filter tree into an AST | `sstults-non-empl` | **today** |
 | [#640](https://github.com/moodys-ma-mdc/mdc-data-search/pull/640) | [CHORE] Update the Ready for Review transition IDs in the ticket play… | `sstults-non-empl` | **today** |
 | [#642](https://github.com/moodys-ma-mdc/mdc-data-search/pull/642) | [CHORE] Document the datetime field /health actually returns | `sstults-non-empl` | **today** |
 | [#639](https://github.com/moodys-ma-mdc/mdc-data-search/pull/639) | [CHORE] Show the build commit hash as the search-api Swagger version | `sstults-non-empl` | **today** |
@@ -76,7 +76,7 @@ _Auto-generated 2026-11-18 21:45 UTC · covers 14 repos in `moodys-ma-mdc` · ex
 
 </details>
 
-<sub>Repos with no open PRs: `mdc-search`, `mdc-cds-legalentities-search-api`, `mdc-cds-individuals-search-names-api`, `mdc-cds-individuals-search-api`, `mdc-cds-deals-search-api`, `mdc-data-etl-flaghub-glue`, `mdc-data-etl-mflo-glue`, `mcfl-astra-glue-etl`, `mdc-data-search-spark-solr-jobs-v2`</sub>
+<sub>Repos with no open PRs: `mdc-data-etl-flaghub-glue`, `mdc-search`, `mdc-cds-legalentities-search-api`, `mdc-cds-individuals-search-names-api`, `mdc-cds-individuals-search-api`, `mdc-cds-deals-search-api`, `mdc-data-etl-mflo-glue`, `mcfl-astra-glue-etl`, `mdc-data-search-spark-solr-jobs-v2`</sub>
 
 ---
 
