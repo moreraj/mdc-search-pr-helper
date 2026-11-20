@@ -1,10 +1,29 @@
 # Search/Glue/Ingestion · open PRs
 
-_Auto-generated 2026-11-19 22:02 UTC · covers 19 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
+_Auto-generated 2026-11-20 03:40 UTC · covers 19 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
 
-**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-data-etl-flaghub-glue%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-cds-securities-search-api%20repo%3Amoodys-ma-mdc/mdc-cds-relationships-search-api%20repo%3Amoodys-ma-mdc/mdc-cds-relationships-ownership-search-api%20repo%3Amoodys-ma-mdc/mdc-cds-relationships-functions-search-api%20repo%3Amoodys-ma-mdc/mdc-cds-others-search-api%20repo%3Amoodys-ma-mdc/mdc-cds-legalentities-search-reference-api%20repo%3Amoodys-ma-mdc/mdc-cds-ingestion-db2se%20repo%3Amoodys-ma-mdc/mdc-cds-legalentities-search-names-api%20repo%3Amoodys-ma-mdc/mdc-cds-legalentities-search-locations-api%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts%20repo%3Amoodys-ma-mdc/mdc-data-search-quepid%20repo%3Amoodys-ma-mdc/mdc-cds-legalentities-search-api%20repo%3Amoodys-ma-mdc/mdc-cds-individuals-search-names-api%20repo%3Amoodys-ma-mdc/mdc-cds-individuals-search-api%20repo%3Amoodys-ma-mdc/mdc-cds-deals-search-api&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
+**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-data-etl-flaghub-glue%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-cds-securities-search-api%20repo%3Amoodys-ma-mdc/mdc-cds-relationships-search-api%20repo%3Amoodys-ma-mdc/mdc-cds-relationships-ownership-search-api%20repo%3Amoodys-ma-mdc/mdc-cds-relationships-functions-search-api%20repo%3Amoodys-ma-mdc/mdc-cds-others-search-api%20repo%3Amoodys-ma-mdc/mdc-cds-legalentities-search-reference-api%20repo%3Amoodys-ma-mdc/mdc-cds-ingestion-db2se%20repo%3Amoodys-ma-mdc/mdc-cds-legalentities-search-names-api%20repo%3Amoodys-ma-mdc/mdc-cds-legalentities-search-locations-api%20repo%3Amoodys-ma-mdc/mdc-data-search-quepid%20repo%3Amoodys-ma-mdc/mdc-cds-legalentities-search-api%20repo%3Amoodys-ma-mdc/mdc-cds-individuals-search-names-api%20repo%3Amoodys-ma-mdc/mdc-cds-individuals-search-api%20repo%3Amoodys-ma-mdc/mdc-cds-deals-search-api&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
 
-**Stats:** 6 active today · 10 stale (>30d) · 4 dependabot · 13 drafts · **31 total**
+**Stats:** 7 active today · 10 stale (>30d) · 4 dependabot · 14 drafts · **33 total**
+
+<details><summary><b>mdc-data-search-glue</b> · 12 PRs</summary>
+
+| PR | Title | Author | Age |
+|---|---|---|---|
+| [#2976](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2976) | [MDCPT-117025] Fix quarterly baseline delete cutoff to use Q4 dispatc… | `KavyaOS` | **today** |
+| [#2975](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2975) | [CHORE] Give the realtime EndpointConfig an explicit name so the endp… _(draft)_ | `aftimosm` | **today** |
+| [#2969](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2969) | [MDCPT-113186] Migrate orchestrator S3 utils to libs/shared | `KavyaOS` | 1d |
+| [#2959](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2959) | [MDCPT-115664] Step 1 of 2: deregister the production realtime scalab… _(draft)_ | `ahmedhamdyse` | 3d |
+| [#2960](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2960) | [MDCPT-115664] Step 2 of 2: take production to GPU, 2/4 in us-east-1… _(draft)_ | `ahmedhamdyse` | 3d |
+| [#2950](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2950) | [CHORE] Re-enable gzipping OpenSearch request bodies | `mkr` | 6d |
+| [#2894](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2894) | [MDCPT-102354] Remove dependencies on the mdc-data-private-search Ope… | `ahmedhamdyse` | 23d |
+| [#2887](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2887) | [CHORE] Research sector: batch taxonomy lookups via reference/multi _(draft)_ | `michael-zehngut` | 29d |
+| [#2656](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2656) | [CHORE] Change CODEOWNERS to mdc-search team | `aftimosm` | ~5mo |
+| [#2520](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2520) | Revert "[CHORE] revert-OS-authentication-to-unblock-STG" | `KavyaOS` | ~8mo |
+| [#2429](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2429) | [CHORE] Add S3 and OS audit job for local dev | `willimarmei` | ~8mo |
+| [#2365](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2365) | [CHORE] Update Antropic lib _(draft)_ | `sstults-non-empl` | ~8mo |
+
+</details>
 
 <details><summary><b>mdc-data-search</b> · 12 PRs</summary>
 
@@ -22,23 +41,6 @@ _Auto-generated 2026-11-19 22:02 UTC · covers 19 repos in `moodys-ma-mdc` · ex
 | [#587](https://github.com/moodys-ma-mdc/mdc-data-search/pull/587) | [MDCPT-112768] SigV4 private API Gateway with verified caller ARN for… _(draft)_ | `aftimosm` | 16d |
 | [#483](https://github.com/moodys-ma-mdc/mdc-data-search/pull/483) | [MDCPT-107148] Deploy search-api in eu-central-1 | `ahmedhamdyse` | ~6w |
 | [#461](https://github.com/moodys-ma-mdc/mdc-data-search/pull/461) | Chore/schemathesis search poc _(draft)_ | `aftimosm` | ~2mo |
-
-</details>
-
-<details><summary><b>mdc-data-search-glue</b> · 10 PRs</summary>
-
-| PR | Title | Author | Age |
-|---|---|---|---|
-| [#2969](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2969) | [MDCPT-113186] Migrate orchestrator S3 utils to libs/shared | `KavyaOS` | **today** |
-| [#2959](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2959) | [MDCPT-115664] Step 1 of 2: deregister the production realtime scalab… _(draft)_ | `ahmedhamdyse` | 3d |
-| [#2960](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2960) | [MDCPT-115664] Step 2 of 2: take production to GPU, 2/4 in us-east-1… _(draft)_ | `ahmedhamdyse` | 3d |
-| [#2950](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2950) | [CHORE] Re-enable gzipping OpenSearch request bodies | `mkr` | 6d |
-| [#2894](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2894) | [MDCPT-102354] Remove dependencies on the mdc-data-private-search Ope… | `ahmedhamdyse` | 23d |
-| [#2887](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2887) | [CHORE] Research sector: batch taxonomy lookups via reference/multi _(draft)_ | `michael-zehngut` | 29d |
-| [#2656](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2656) | [CHORE] Change CODEOWNERS to mdc-search team | `aftimosm` | ~5mo |
-| [#2520](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2520) | Revert "[CHORE] revert-OS-authentication-to-unblock-STG" | `KavyaOS` | ~8mo |
-| [#2429](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2429) | [CHORE] Add S3 and OS audit job for local dev | `willimarmei` | ~8mo |
-| [#2365](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2365) | [CHORE] Update Antropic lib _(draft)_ | `sstults-non-empl` | ~8mo |
 
 </details>
 
