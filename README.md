@@ -1,8 +1,8 @@
 # Search/Glue/Ingestion · open PRs
 
-_Auto-generated 2026-11-20 21:44 UTC · covers 17 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
+_Auto-generated 2026-11-21 03:03 UTC · covers 16 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
 
-**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-data-search-quepid%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-data-etl-flaghub-glue%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts%20repo%3Amoodys-ma-mdc/mdc-cds-securities-search-api%20repo%3Amoodys-ma-mdc/mdc-cds-relationships-search-api%20repo%3Amoodys-ma-mdc/mdc-cds-relationships-ownership-search-api%20repo%3Amoodys-ma-mdc/mdc-cds-relationships-functions-search-api%20repo%3Amoodys-ma-mdc/mdc-cds-others-search-api%20repo%3Amoodys-ma-mdc/mdc-cds-legalentities-search-reference-api%20repo%3Amoodys-ma-mdc/mdc-cds-ingestion-db2se%20repo%3Amoodys-ma-mdc/mdc-cds-legalentities-search-names-api%20repo%3Amoodys-ma-mdc/mdc-cds-legalentities-search-locations-api%20repo%3Amoodys-ma-mdc/mdc-cds-legalentities-search-api%20repo%3Amoodys-ma-mdc/mdc-cds-individuals-search-names-api&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
+**[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-data-search-quepid%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-data-etl-flaghub-glue%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts%20repo%3Amoodys-ma-mdc/mdc-cds-securities-search-api%20repo%3Amoodys-ma-mdc/mdc-cds-relationships-search-api%20repo%3Amoodys-ma-mdc/mdc-cds-relationships-ownership-search-api%20repo%3Amoodys-ma-mdc/mdc-cds-relationships-functions-search-api%20repo%3Amoodys-ma-mdc/mdc-cds-others-search-api%20repo%3Amoodys-ma-mdc/mdc-cds-legalentities-search-reference-api%20repo%3Amoodys-ma-mdc/mdc-cds-ingestion-db2se%20repo%3Amoodys-ma-mdc/mdc-cds-legalentities-search-names-api%20repo%3Amoodys-ma-mdc/mdc-cds-legalentities-search-locations-api%20repo%3Amoodys-ma-mdc/mdc-cds-legalentities-search-api&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
 
 **Stats:** 5 active today · 10 stale (>30d) · 4 dependabot · 15 drafts · **34 total**
 
@@ -21,7 +21,7 @@ _Auto-generated 2026-11-20 21:44 UTC · covers 17 repos in `moodys-ma-mdc` · ex
 |---|---|---|---|
 | [#2894](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2894) | [MDCPT-102354] Remove dependencies on the mdc-data-private-search Ope… | `ahmedhamdyse` | **today** |
 | [#2977](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2977) | [CHORE] Use a percent batch size for the eu-central-1 realtime rollin… _(draft)_ | `aftimosm` | **today** |
-| [#2969](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2969) | [MDCPT-113186] Migrate orchestrator S3 utils to libs/shared | `KavyaOS` | 1d |
+| [#2969](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2969) | [MDCPT-113186] Migrate orchestrator S3 utils to libs/shared | `KavyaOS` | 2d |
 | [#2959](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2959) | [MDCPT-115664] Step 1 of 2: deregister the production realtime scalab… _(draft)_ | `ahmedhamdyse` | 4d |
 | [#2960](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2960) | [MDCPT-115664] Step 2 of 2: take production to GPU, 2/4 in us-east-1… _(draft)_ | `ahmedhamdyse` | 4d |
 | [#2950](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2950) | [CHORE] Re-enable gzipping OpenSearch request bodies | `mkr` | 7d |
@@ -75,7 +75,7 @@ _Auto-generated 2026-11-20 21:44 UTC · covers 17 repos in `moodys-ma-mdc` · ex
 
 </details>
 
-<sub>Repos with no open PRs: `mdc-search`, `mdc-data-etl-flaghub-glue`, `mdc-cds-securities-search-api`, `mdc-cds-relationships-search-api`, `mdc-cds-relationships-ownership-search-api`, `mdc-cds-relationships-functions-search-api`, `mdc-cds-others-search-api`, `mdc-cds-legalentities-search-reference-api`, `mdc-cds-legalentities-search-names-api`, `mdc-cds-legalentities-search-locations-api`, `mdc-cds-legalentities-search-api`, `mdc-cds-individuals-search-names-api`</sub>
+<sub>Repos with no open PRs: `mdc-search`, `mdc-data-etl-flaghub-glue`, `mdc-cds-securities-search-api`, `mdc-cds-relationships-search-api`, `mdc-cds-relationships-ownership-search-api`, `mdc-cds-relationships-functions-search-api`, `mdc-cds-others-search-api`, `mdc-cds-legalentities-search-reference-api`, `mdc-cds-legalentities-search-names-api`, `mdc-cds-legalentities-search-locations-api`, `mdc-cds-legalentities-search-api`</sub>
 
 ---
 
