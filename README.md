@@ -1,6 +1,6 @@
 # Search/Glue/Ingestion · open PRs
 
-_Auto-generated 2026-11-27 22:35 UTC · covers 8 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
+_Auto-generated 2026-11-28 04:38 UTC · covers 8 repos in `moodys-ma-mdc` · excludes `mdc-data-etl-mwaa-operational-glue`_
 
 **[🔗 Open this view on GitHub search](https://github.com/search?q=is%3Apr%20is%3Aopen%20repo%3Amoodys-ma-mdc/mdc-data-search%20repo%3Amoodys-ma-mdc/mdc-cds-relationships-ownership-search-api%20repo%3Amoodys-ma-mdc/mcfl-astra-glue-etl%20repo%3Amoodys-ma-mdc/mdc-search%20repo%3Amoodys-ma-mdc/mdc-legacy-services-search%20repo%3Amoodys-ma-mdc/mdc-data-search-quality-scripts%20repo%3Amoodys-ma-mdc/mdc-data-search-glue%20repo%3Amoodys-ma-mdc/mdc-data-etl-flaghub-glue&type=pullrequests&s=updated&o=desc)** — paste into Slack, pin in Confluence. Add `author:@me` to scope to yourself.
 
@@ -32,7 +32,7 @@ _Auto-generated 2026-11-27 22:35 UTC · covers 8 repos in `moodys-ma-mdc` · exc
 | [#2978](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2978) | [MDCPT-116991] Replace prav5 with a passive research chunk coverage P… | `ZurielTMoodys` | 1d |
 | [#2894](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2894) | [MDCPT-102354] Remove dependencies on the mdc-data-private-search Ope… | `ahmedhamdyse` | 7d |
 | [#2977](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2977) | [CHORE] Use a percent batch size for the eu-central-1 realtime rollin… _(draft)_ | `aftimosm` | 7d |
-| [#2969](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2969) | [MDCPT-113186] Migrate orchestrator S3 utils to libs/shared | `KavyaOS` | 8d |
+| [#2969](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2969) | [MDCPT-113186] Migrate orchestrator S3 utils to libs/shared | `KavyaOS` | 9d |
 | [#2959](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2959) | [MDCPT-115664] Step 1 of 2: deregister the production realtime scalab… _(draft)_ | `ahmedhamdyse` | 11d |
 | [#2960](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2960) | [MDCPT-115664] Step 2 of 2: take production to GPU, 2/4 in us-east-1… _(draft)_ | `ahmedhamdyse` | 11d |
 | [#2950](https://github.com/moodys-ma-mdc/mdc-data-search-glue/pull/2950) | [CHORE] Re-enable gzipping OpenSearch request bodies | `mkr` | 14d |
